@@ -1,0 +1,2209 @@
+Name,Survived,Boarded,MWC,Age,Adut_or_Chld,Sex,Paid,Class_Dept,Class
+"ABBING, Mr Anthony",Died,Southampton,Man,42,Adult,Male,7.55,3rd Class Passenger,3
+"ABBOTT, Mr Ernest Owen",Died,Southampton,Man,21,Adult,Male,,Victualling Crew,V
+"ABBOTT, Mr Eugene Joseph",Died,Southampton,Child,14,Child,Male,20.25,3rd Class Passenger,3
+"ABBOTT, Mr Rossmore Edward",Died,Southampton,Man,16,Adult,Male,20.25,3rd Class Passenger,3
+"ABBOTT, Mrs Rhoda Mary 'Rosa'",Survived,Southampton,Woman,39,Adult,Female,20.25,3rd Class Passenger,3
+"ABELSETH, Miss Karen Marie",Survived,Southampton,Woman,16,Adult,Female,7.65,3rd Class Passenger,3
+"ABELSETH, Mr Olaus Jrgensen",Survived,Southampton,Man,25,Adult,Male,7.65,3rd Class Passenger,3
+"ABELSON, Mr Samuel",Died,Cherbourg,Man,30,Adult,Male,24,2nd Class Passenger,2
+"ABELSON, Mrs Hannah",Survived,Cherbourg,Woman,28,Adult,Female,24,2nd Class Passenger,2
+"ABRAHAMSSON, Mr Abraham August Johannes",Survived,Southampton,Man,20,Adult,Male,7.925,3rd Class Passenger,3
+"ABRAHIM, Mrs Mary Sophie Halaut",Survived,Cherbourg,Woman,18,Adult,Female,7.22916667,3rd Class Passenger,3
+"ABRAMS, Mr William Thomas",Died,Southampton,Man,33,Adult,Male,,Engineering Crew,E
+"DAHL, Mr Mauritz Nils Martin",Died,Southampton,Man,30,Adult,Male,7.25,3rd Class Passenger,3
+"ADAMS, Mr John",Died,Southampton,Man,26,Adult,Male,8.05,3rd Class Passenger,3
+"ADAMS, Mr Robert John",Died,Southampton,Man,26,Adult,Male,,Engineering Crew,E
+"AHIER, Mr Percy Snowden",Died,Southampton,Man,20,Adult,Male,,Victualling Crew,V
+"AHLIN, Mrs Johanna Persdotter",Died,Southampton,Woman,40,Adult,Female,9.475,3rd Class Passenger,3
+"AKERMAN, Mr Albert Edward",Died,Southampton,Man,31,Adult,Male,,Victualling Crew,V
+"AKERMAN, Mr Joseph Francis",Died,Southampton,Man,35,Adult,Male,,Victualling Crew,V
+"AKS, Master Frank Philip",Survived,Southampton,Child,0.83,Child,Male,9.35,3rd Class Passenger,3
+"AKS, Mrs Leah",Survived,Southampton,Woman,18,Adult,Female,9.35,3rd Class Passenger,3
+"ALBIMONA, Mr Nassef Cassem",Survived,Cherbourg,Man,26,Adult,Male,18.7875,3rd Class Passenger,3
+"ALDWORTH, Mr Augustus Henry",Died,Southampton,Man,34,Adult,Male,13,,2
+"ALEXANDER, Mr William",Died,Southampton,Man,23,Adult,Male,7.8875,3rd Class Passenger,3
+"ALHOM_KI, Mr Ilmari Rudolf",Died,Southampton,Man,19,Adult,Male,7.925,3rd Class Passenger,3
+"ALI, Mr Ahmed",Died,Southampton,Man,24,Adult,Male,7.05,3rd Class Passenger,3
+"ALI, Mr William",Died,Southampton,Man,25,Adult,Male,7.05,3rd Class Passenger,3
+"ALLARIA, Sig. Battista Antonio",Died,Southampton,Man,22,Adult,Male,,Restaurant Staff,R
+"ALLEN, Miss Elisabeth Walton",Survived,Southampton,Woman,29,Adult,Female,211.3375,1st Class Passenger,1
+"ALLEN, Mr Ernest Frederick",Survived,Southampton,Man,24,Adult,Male,,Engineering Crew,E
+"ALLEN, Mr Frederick",Died,Southampton,Man,17,Adult,Male,,Victualling Crew,V
+"ALLEN, Mr George",Died,Southampton,Man,26,Adult,Male,,Victualling Crew,V
+"ALLEN, Mr Henry",Died,Southampton,Man,32,Adult,Male,,Engineering Crew,E
+"ALLEN, Mr Robert Spencer",Died,Southampton,Man,36,Adult,Male,,Victualling Crew,V
+"ALLEN, Mr William Henry",Died,Southampton,Man,38,Adult,Male,8.05,3rd Class Passenger,3
+"ALLISON, Master Hudson Trevor",Survived,Southampton,Child,0.92,Child,Male,151.8,1st Class Passenger,1
+"ALLISON, Miss Helen Loraine",Died,Southampton,Child,2,Child,Female,151.8,1st Class Passenger,1
+"ALLISON, Mr Hudson Joshua Creighton",Died,Southampton,Man,30,Adult,Male,151.8,1st Class Passenger,1
+"ALLISON, Mrs Bessie Waldo",Died,Southampton,Woman,25,Adult,Female,151.8,1st Class Passenger,1
+"ALLSOP, Mr Alfred Samuel",Died,Belfast,Man,35,Adult,Male,,Engineering Crew,E
+"ALLSOP, Mr Frank Richard",Died,Belfast,Man,41,Adult,Male,,Victualling Crew,V
+"ALLUM, Mr Owen George",Died,Southampton,Man,15,Adult,Male,8.3,3rd Class Passenger,3
+"ANDERSEN-JENSEN, Miss Carla Christine Nielsine",Survived,Southampton,Woman,19,Adult,Female,7.85416667,3rd Class Passenger,3
+"ANDERSEN, Mr Albert Karvin",Died,Southampton,Man,33,Adult,Male,22.525,3rd Class Passenger,3
+"ANDERSON, Mr Harry",Survived,Southampton,Man,47,Adult,Male,26.55,1st Class Passenger,1
+"ANDERSON, Mr James",Survived,Southampton,Man,40,Adult,Male,,Deck Crew,D
+"ANDERSON, Mr Walter Yuill",Died,Southampton,Man,48,Adult,Male,,Victualling Crew,V
+"ANDERSSON, Master Sigvard Harald Elias",Died,Southampton,Child,4,Child,Male,31.275,3rd Class Passenger,3
+"ANDERSSON, Miss Ebba Iris Alfrida",Died,Southampton,Child,6,Child,Female,31.275,3rd Class Passenger,3
+"ANDERSSON, Miss Ellis Anna Maria",Died,Southampton,Child,2,Child,Female,31.275,3rd Class Passenger,3
+"ANDERSSON, Miss Erna Alexandra",Survived,Southampton,Woman,17,Adult,Female,7.925,3rd Class Passenger,3
+"ANDERSSON, Miss Ida Augusta Margareta",Died,Southampton,Woman,38,Adult,Female,7.775,3rd Class Passenger,3
+"ANDERSSON, Miss Ingeborg Constanzia",Died,Southampton,Child,9,Child,Female,31.275,3rd Class Passenger,3
+"ANDERSSON, Miss Sigrid Elisabeth",Died,Southampton,Child,11,Child,Female,31.275,3rd Class Passenger,3
+"ANDERSSON, Mr Anders Johan",Died,Southampton,Man,39,Adult,Male,31.275,3rd Class Passenger,3
+"ANDERSSON, Mr Johan Samuel",Died,Southampton,Man,26,Adult,Male,7.775,3rd Class Passenger,3
+"ANDERSSON, Mrs Alfrida Konstantia Brogren",Died,Southampton,Woman,39,Adult,Female,31.275,3rd Class Passenger,3
+"ANDREASSON, Mr Paul Edvin",Died,Southampton,Man,20,Adult,Male,7.85416667,3rd Class Passenger,3
+"ANDREW, Mr Edgar Samuel",Died,Southampton,Man,17,Adult,Male,11.5,2nd Class Passenger,2
+"ANDREW, Mr Frank Thomas",Died,Southampton,Man,25,Adult,Male,10.5,2nd Class Passenger,2
+"ANDREWS, Miss Kornelia Theodosia",Survived,Cherbourg,Woman,62,Adult,Female,77.9583333,1st Class Passenger,1
+"ANDREWS, Mr Charles Edward",Survived,Southampton,Man,19,Adult,Male,,Victualling Crew,V
+"ANDREWS, Mr Thomas",Died,Belfast,Man,39,Adult,Male,0,1st Class PassengerH&W Guarantee Group,1
+"ANGHELOFF, Mr Minko",Died,Southampton,Man,26,Adult,Male,7.89583333,3rd Class Passenger,3
+"ANGLE, Mr William A.",Died,Southampton,Man,32,Adult,Male,26,2nd Class Passenger,2
+"ANGLE, Mrs Florence Mary Agnes",Survived,Southampton,Woman,36,Adult,Female,26,,2
+"APPLETON, Mrs Charlotte",Survived,Southampton,Woman,53,Adult,Female,51.4791667,1st Class Passenger,1
+"ARCHER, Mr Ernest Edward",Survived,Southampton,Man,35,Adult,Male,,Deck Crew,D
+"ARNOLD-FRANCHI, Mr Josef",Died,Southampton,Man,25,Adult,Male,17.8,3rd Class Passenger,3
+"ARNOLD-FRANCHI, Mrs Josefine",Died,Southampton,Woman,18,Adult,Female,17.8,3rd Class Passenger,3
+"ARONSSON, Mr Ernst Axel Algot",Died,Southampton,Man,24,Adult,Male,7.775,3rd Class Passenger,3
+"ARTAGAVEYTIA, Mr Ramon",Died,Cherbourg,Man,71,Adult,Male,49.5041667,1st Class Passenger,1
+"ASHBY, Mr John",Died,Southampton,Man,57,Adult,Male,13,2nd Class Passenger,2
+"ASHCROFT, Mr Austin Aloysius",Died,Southampton,Man,26,Adult,Male,,Victualling Crew,V
+"ASHE, Mr Henry Wellesley",Died,Southampton,Man,41,Adult,Male,,Victualling Crew,V
+"ASIM, Mr Adola",Died,Southampton,Man,35,Adult,Male,7.05,3rd Class Passenger,3
+"ASPESLAGH, Mr Georges",Died,Southampton,Man,26,Adult,Male,,Restaurant Staff,R
+"ASPLUND, Master Carl Edgar",Died,Southampton,Child,5,Child,Male,31.3875,3rd Class Passenger,3
+"ASPLUND, Master Clarence Gustaf Hugo",Died,Southampton,Child,9,Child,Male,31.3875,3rd Class Passenger,3
+"ASPLUND, Master Edvin Rojj Felix",Survived,Southampton,Child,3,Child,Male,31.3875,3rd Class Passenger,3
+"ASPLUND, Master Filip Oscar",Died,Southampton,Child,13,Child,Male,31.3875,3rd Class Passenger,3
+"ASPLUND, Miss Lillian Gertrud",Survived,Southampton,Child,5,Child,Female,31.3875,3rd Class Passenger,3
+"ASPLUND, Mr Carl Oscar Vilhelm Gustafsson",Died,Southampton,Man,40,Adult,Male,31.3875,3rd Class Passenger,3
+"ASPLUND, Mr Johan Charles",Survived,Southampton,Man,23,Adult,Male,7.79583333,3rd Class Passenger,3
+"ASPLUND, Mrs Selma Augusta Emilia",Survived,Southampton,Woman,38,Adult,Female,31.3875,3rd Class Passenger,3
+"ASSAF, Mrs Mariana",Survived,Cherbourg,Woman,45,Adult,Female,7.225,3rd Class Passenger,3
+"ASSAM, Mr Ali",Died,Southampton,Man,23,Adult,Male,7.05,3rd Class Passenger,3
+"ASTOR, Colonel John Jacob",Died,Cherbourg,Man,47,Adult,Male,247.525,1st Class Passenger,1
+"ASTOR, Mrs Madeleine Talmage",Survived,Cherbourg,Woman,18,Adult,Female,247.525,1st Class Passenger,1
+"ATTALA, Mr Sleiman",Died,Cherbourg,Man,27,Adult,Male,7.225,3rd Class Passenger,3
+"ATTALAH, Miss Malake",Died,Cherbourg,Woman,17,Adult,Female,14.4583333,3rd Class Passenger,3
+"AUBART, Mme. Lontine Pauline",Survived,Cherbourg,Woman,24,Adult,Female,69.3,1st Class Passenger,1
+"AUGUSTSSON, Mr Albert",Died,Southampton,Man,23,Adult,Male,7.85416667,3rd Class Passenger,3
+"AVERY, Mr James Albert",Survived,Southampton,Man,22,Adult,Male,,Engineering Crew,E
+"AYLING, Mr Edwin George",Died,Southampton,Man,22,Adult,Male,,Victualling Crew,V
+"AYOUB DAHER, Miss Banoura",Survived,Cherbourg,Woman,15,Adult,Female,7.22916667,3rd Class Passenger,3
+"BACCOS, Mr Raffull",Died,Cherbourg,Man,20,Adult,Male,7.225,3rd Class Passenger,3
+"BACK, Mr Charles Frederick",Died,Belfast,Man,32,Adult,Male,,Victualling Crew,V
+"BACKSTRM, Mr Karl Alfred",Died,Southampton,Man,32,Adult,Male,15.85,3rd Class Passenger,3
+"BACKSTRM, Mrs Maria Mathilda",Survived,Southampton,Woman,33,Adult,Female,15.85,3rd Class Passenger,3
+"BACLINI, Miss Eugenie",Survived,Cherbourg,Child,3,Child,Female,19.2583333,3rd Class Passenger,3
+"BACLINI, Miss Helene Barbara",Survived,Cherbourg,Child,0.75,Child,Female,19.2583333,3rd Class Passenger,3
+"BACLINI, Miss Marie Catherine",Survived,Cherbourg,Child,5,Child,Female,19.2583333,3rd Class Passenger,3
+"BACLINI, Mrs Latifa",Survived,Cherbourg,Woman,24,Adult,Female,19.2583333,3rd Class Passenger,3
+"BADMAN, Miss Emily Louisa",Survived,Southampton,Woman,18,Adult,Female,8.05,3rd Class Passenger,3
+"BADT, Mr Mohamed",Died,Cherbourg,Man,40,Adult,Male,7.225,3rd Class Passenger,3
+"BAGGOTT, Mr Allen Marden",Survived,Southampton,Man,28,Adult,Male,,Victualling Crew,V
+"BAGLEY, Mr Edward Henry",Died,Southampton,Man,33,Adult,Male,,Victualling Crew,V
+"BAILEY, Mr George Francis",Died,Belfast,Man,36,Adult,Male,,Victualling Crew,V
+"BAILEY, Mr George W.",Died,Southampton,Man,46,Adult,Male,,Engineering Crew,E
+"BAILEY, Mr Henry Joseph",Survived,Southampton,Man,43,Adult,Male,,Deck Crew,D
+"BAILEY, Mr Percy",Died,Southampton,Man,15,Adult,Male,11.5,2nd Class Passenger,2
+"BAINBRIGGE, Mr Charles Robert",Died,Southampton,Man,23,Adult,Male,10.5,2nd Class Passenger,2
+"BAINES, Mr Richard",Died,Southampton,Man,24,Adult,Male,,Engineering Crew,E
+"BALKIC, Mr Cerin",Died,Southampton,Man,26,Adult,Male,7.89583333,3rd Class Passenger,3
+"BALL, Mr Percy",Survived,Southampton,Man,19,Adult,Male,,Victualling Crew,V
+"BALL, Mrs Ada E.",Survived,Southampton,Woman,36,Adult,Female,13,2nd Class Passenger,2
+"BANFI, Sig. Ugo",Died,Southampton,Man,24,Adult,Male,,Restaurant Staff,R
+"BANFIELD, Mr Frederick James",Died,Southampton,Man,28,Adult,Male,10.5,2nd Class Passenger,2
+"BANNON, Mr John Joseph",Died,Southampton,Man,34,Adult,Male,,Engineering Crew,E
+"BANSKI, Mrs Mara",Survived,Southampton,Woman,31,Adult,Female,8.68333333,3rd Class Passenger,3
+"BARBARA, Miss Saiide",Died,Cherbourg,Woman,18,Adult,Female,14.4541667,3rd Class Passenger,3
+"BARBARA, Mrs Catherine David",Died,Cherbourg,Woman,45,Adult,Female,14.4541667,3rd Class Passenger,3
+"BARBER, Miss Ellen Mary",Survived,Southampton,Woman,26,Adult,Female,78.85,1st Class PassengerServant,1
+"BARKER, Mr Albert Vale",Died,Southampton,Man,19,Adult,Male,,Victualling Crew,V
+"BARKER, Mr Ernest Thomas",Died,Southampton,Man,40,Adult,Male,,Victualling Crew,V
+"BARKER, Mr Reginald Lomond",Died,Belfast,Man,40,Adult,Male,,Victualling Crew,V
+"BARKWORTH, Mr Algernon Henry",Survived,Southampton,Man,47,Adult,Male,30,1st Class Passenger,1
+"BARLOW, Mr Charles",Died,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"BARLOW, Mr George",Died,Southampton,Man,36,Adult,Male,,Victualling Crew,V
+"BARNES, Mr Charles",Died,Southampton,Man,29,Adult,Male,,Engineering Crew,E
+"BARNES, Mr Frederick Charles",Died,Southampton,Man,39,Adult,Male,,Victualling Crew,V
+"BARNES, Mr John",Died,Southampton,Man,41,Adult,Male,,Engineering Crew,E
+"BARRATT, Mr Arthur",Died,Southampton,Man,15,Adult,Male,,Victualling Crew,V
+"BARRETT, Mr Frederick",Survived,Southampton,Man,28,Adult,Male,,Engineering Crew,E
+"BARRETT, Mr Frederick William",Died,Southampton,Man,33,Adult,Male,,Engineering Crew,E
+"BARRINGER, Mr Arthur William",Died,Belfast,Man,33,Adult,Male,,Victualling Crew,V
+"BARROW, Mr Charles Henry John Barrow",Died,Southampton,Man,35,Adult,Male,,Victualling Crew,V
+"BARROWS, Mr William",Died,Southampton,Man,32,Adult,Male,,Victualling Crew,V
+"BARRY, Miss Julia",Died,Queenstown,Woman,26,Adult,Female,7.87916667,3rd Class Passenger,3
+"BARTON, Mr David John",Died,Southampton,Man,22,Adult,Male,8.05,3rd Class Passenger,3
+"BARTON, Mr Sidney John",Died,Southampton,Man,26,Adult,Male,,Victualling Crew,V
+"BASILICO, Sig. Giovanni",Died,Southampton,Man,27,Adult,Male,,Restaurant Staff,R
+"BASSANI, Mrs Albina",Survived,Cherbourg,Woman,32,Adult,Female,76.2916667,,1
+"BATEMAN, Fr Robert James",Died,Southampton,Man,51,Adult,Male,12.525,2nd Class Passenger,2
+"BAUMANN, Mr John D.",Died,Cherbourg,Man,60,Adult,Male,25.925,1st Class Passenger,1
+"BAXTER, Mr Harry Ross",Died,Southampton,Man,53,Adult,Male,,Victualling Crew,V
+"BAXTER, Mr Quigg Edmond",Died,Cherbourg,Man,24,Adult,Male,247.520833,1st Class Passenger,1
+"BAXTER, Mr Thomas Ferguson",Died,Southampton,Man,55,Adult,Male,,Victualling Crew,V
+"BAXTER, Mrs Hlne",Survived,Cherbourg,Woman,50,Adult,Female,247.520833,1st Class Passenger,1
+"BAZZI, Sig. Narciso",Died,Southampton,Man,33,Adult,Male,,Restaurant Staff,R
+"BEANE, Mr Edward",Survived,Southampton,Man,32,Adult,Male,26,2nd Class Passenger,2
+"BEANE, Mrs Ethel",Survived,Southampton,Woman,19,Adult,Female,26,2nd Class Passenger,2
+"BEATTIE, Mr Joseph",Died,Belfast,Man,35,Adult,Male,,Engineering Crew,E
+"BEATTIE, Mr Thomson",Died,Southampton,Man,36,Adult,Male,75.2416667,1st Class Passenger,1
+"BEAUCHAMP, Mr George William",Survived,Southampton,Man,24,Adult,Male,,Engineering Crew,E
+"BEAUCHAMP, Mr Henry James",Died,Southampton,Man,28,Adult,Male,26,2nd Class Passenger,2
+"BEAVAN, Mr William Thomas",Died,Southampton,Man,20,Adult,Male,8.05,3rd Class Passenger,3
+"BECKER, Master Richard F.",Survived,Southampton,Child,1,Child,Male,39,2nd Class Passenger,2
+"BECKER, Miss Marion Louise",Survived,Southampton,Child,4,Child,Female,39,2nd Class Passenger,2
+"BECKER, Miss Ruth Elizabeth",Survived,Southampton,Child,12,Child,Female,39,2nd Class Passenger,2
+"BECKER, Mrs Nellie E.",Survived,Southampton,Woman,35,Adult,Female,39,2nd Class Passenger,2
+"BECKWITH, Mr Richard Leonard",Survived,Southampton,Man,37,Adult,Male,52.5541667,1st Class Passenger,1
+"BECKWITH, Mrs Sallie",Survived,Southampton,Woman,46,Adult,Female,52.5541667,1st Class Passenger,1
+"BEDFORD, Mr William Barnett",Died,Southampton,Man,31,Adult,Male,,Victualling Crew,V
+"BEEDEM, Mr George Arthur",Died,Southampton,Man,34,Adult,Male,,Victualling Crew,V
+"BEERE, Mr William",Died,Southampton,Man,19,Adult,Male,,Victualling Crew,V
+"BEESLEY, Mr Lawrence",Survived,Southampton,Man,34,Adult,Male,13,2nd Class Passenger,2
+"BEHR, Mr Karl Howell",Survived,Cherbourg,Man,26,Adult,Male,30,1st Class Passenger,1
+"BELL, Mr Joseph",Died,Belfast,Man,50,Adult,Male,,Engineering Crew,E
+"BENDELL, Mr Frank",Died,Southampton,Man,24,Adult,Male,,Engineering Crew,E
+"BENGTSSON, Mr Johan Viktor",Died,Southampton,Man,26,Adult,Male,7.775,3rd Class Passenger,3
+"BENHAM, Mr Fred John",Died,Southampton,Man,29,Adult,Male,,Victualling Crew,V
+"BENNETT, Mr George Alfred",Died,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"BENNETT, Mrs Mabel",Survived,Southampton,Woman,33,Adult,Female,,Victualling Crew,V
+"BENTHAM, Miss Lillian W.",Survived,Southampton,Woman,19,Adult,Female,13,2nd Class Passenger,2
+"BENVILLE, Mr Edward",Died,Southampton,Man,47,Adult,Male,,Engineering Crew,E
+"BERGLUND, Mr Karl Ivar Sven",Died,Southampton,Man,22,Adult,Male,9.35,3rd Class Passenger,3
+"BERNARDI, Sig. Battista",Died,Southampton,Man,22,Adult,Male,,Restaurant Staff,R
+"BERRIMAN, Mr William John",Died,Southampton,Man,23,Adult,Male,13,2nd Class Passenger,2
+"BESSANT, Mr Edward",Died,Southampton,Man,31,Adult,Male,,Victualling Crew,V
+"BESSANT, Mr William Edward Lowe",Died,Southampton,Man,39,Adult,Male,,Engineering Crew,E
+"BESSETTE, Miss Nellie Mayo",Survived,Cherbourg,Woman,39,Adult,Female,63.3583333,1st Class PassengerServant,1
+"BEST, Mr Edwin Alfred",Died,Belfast,Man,38,Adult,Male,,Victualling Crew,V
+"BEUX, Mr David",Died,Southampton,Man,26,Adult,Male,,Restaurant Staff,R
+"BEVIS, Mr Joseph Henry",Died,Southampton,Man,22,Adult,Male,,Engineering Crew,E
+"BIDDLECOMBE, Mr Reginald Charles",Died,Southampton,Man,31,Adult,Male,,Engineering Crew,E
+"BIDOIS, Miss Rosalie",Survived,Cherbourg,Woman,46,Adult,Female,247.525,1st Class PassengerServant,1
+"BIETRIX, Mr George Baptiste",Died,Southampton,Man,28,Adult,Male,,Restaurant Staff,R
+"BIGGS, Mr Edward Charles",Died,Southampton,Man,20,Adult,Male,,Engineering Crew,E
+"BILLOWS, Mr James",Died,Southampton,Man,20,Adult,Male,,Engineering Crew,E
+"BING, Mr Lee",Survived,Southampton,Man,32,Adult,Male,56.4958333,3rd Class Passenger,3
+"BINSTEAD, Mr Walter William",Survived,Southampton,Man,20,Adult,Male,,Engineering Crew,E
+"BIRD, Miss Ellen",Survived,Southampton,Woman,31,Adult,Female,221.779167,1st Class PassengerServant,1
+"BIRKELAND, Mr Hans Martin Monsen",Died,Southampton,Man,21,Adult,Male,7.775,3rd Class Passenger,3
+"BIRNBAUM, Mr Jakob",Died,Cherbourg,Man,24,Adult,Male,26,1st Class Passenger,1
+"BISHOP, Mr Dickinson H.",Survived,Cherbourg,Man,25,Adult,Male,91.0791667,1st Class Passenger,1
+"BISHOP, Mr Walter Alexander",Died,Belfast,Man,33,Adult,Male,,Victualling Crew,V
+"BISHOP, Mrs Helen",Survived,Cherbourg,Woman,19,Adult,Female,91.0791667,1st Class Passenger,1
+"BJRKLUND, Mr Ernst Herbert",Died,Southampton,Man,18,Adult,Male,7.75,3rd Class Passenger,3
+"BJRNSTRM-STEFFANSSON, Mr Mauritz Hokan",Survived,Southampton,Man,28,Adult,Male,26.55,1st Class Passenger,1
+"BLACK, Mr Alexander",Died,Southampton,Man,28,Adult,Male,,Engineering Crew,E
+"BLACK, Mr D.",Died,Southampton,Man,41,Adult,Male,,Engineering Crew,E
+"BLACKMAN, Mr Albert Edward",Died,Southampton,Man,23,Adult,Male,,Engineering Crew,E
+"BLACKWELL, Mr Stephen Weart",Died,Southampton,Man,45,Adult,Male,35.5,1st Class Passenger,1
+"BLAKE, Mr Percival Albert",Survived,Southampton,Man,22,Adult,Male,,Engineering Crew,E
+"BLAKE, Mr Seaton",Died,Belfast,Man,26,Adult,Male,,Engineering Crew,E
+"BLAKE, Mr Thomas Henry",Died,Southampton,Man,36,Adult,Male,,Engineering Crew,E
+"BLANEY, Mr James",Died,Southampton,Man,32,Adult,Male,,Engineering Crew,E
+"BLANK, Mr Henry",Survived,Cherbourg,Man,39,Adult,Male,31,1st Class Passenger,1
+"BLANN, Mr Eustace Horatius",Died,Southampton,Man,21,Adult,Male,,Engineering Crew,E
+"BLISS, Mrs Emma",Survived,Southampton,Woman,45,Adult,Female,,Victualling Crew,V
+"BLUMET, Mr Jean Baptiste",Died,Southampton,Man,26,Adult,Male,,Restaurant Staff,R
+"BOCHATAY, Mr Alexis Joseph",Died,Southampton,Man,30,Adult,Male,,Victualling Crew,V
+"BOCHET, Mr Pierre Giuseppe",Died,Southampton,Man,43,Adult,Male,,Restaurant Staff,R
+"BOGIE, Mr Norman Leslie",Died,Southampton,Man,59,Adult,Male,,Victualling Crew,V
+"BOLHUIS, Mr Hendrik",Died,Southampton,Man,27,Adult,Male,,Restaurant Staff,R
+"BOND, Mr William John",Died,Belfast,Man,40,Adult,Male,,Victualling Crew,V
+"BONNELL, Miss Caroline",Survived,Southampton,Woman,30,Adult,Female,164.866667,1st Class Passenger,1
+"BONNELL, Miss Elizabeth",Survived,Southampton,Woman,61,Adult,Female,26.55,1st Class Passenger,1
+"BOOTHBY, Mr Walter Thomas",Died,Southampton,Man,37,Adult,Male,,Victualling Crew,V
+"BOREBANK, Mr John James",Died,Southampton,Man,42,Adult,Male,26.55,1st Class Passenger,1
+"BOSTANDYEFF, Mr Guentcho",Died,Southampton,Man,26,Adult,Male,7.89583333,3rd Class Passenger,3
+"BOSTON, Mr William John",Died,Belfast,Man,31,Adult,Male,,Victualling Crew,V
+"BOTSFORD, Mr William Hull",Died,Southampton,Man,25,Adult,Male,13,2nd Class Passenger,2
+"BOTT, Mr William Thomas",Died,Southampton,Man,44,Adult,Male,,Engineering Crew,E
+"BOUGHTON, Mr Bernard John",Died,Southampton,Man,24,Adult,Male,,Victualling Crew,V
+"BOULOS, Master Akar",Died,Cherbourg,Child,9,Child,Male,15.2458333,3rd Class Passenger,3
+"BOULOS, Miss Nourelain",Died,Cherbourg,Child,7,Child,Female,15.2458333,3rd Class Passenger,3
+"BOULOS, Mrs Sultana",Died,Cherbourg,Woman,40,Adult,Female,15.2458333,3rd Class Passenger,3
+"BOURKE, Miss Mary",Died,Queenstown,Woman,40,Adult,Female,7.75,3rd Class Passenger,3
+"BOURKE, Mr John",Died,Queenstown,Man,42,Adult,Male,15.5,3rd Class Passenger,3
+"BOURKE, Mrs Catherine",Died,Queenstown,Woman,32,Adult,Female,15.5,3rd Class Passenger,3
+"BOWEN, Miss Grace Scott",Survived,Cherbourg,Woman,45,Adult,Female,262.375,1st Class PassengerServant,1
+"BOWEN, Mr David John 'Dai'",Died,Southampton,Man,26,Adult,Male,16.1,3rd Class Passenger,3
+"BOWENUR, Mr Solomon",Died,Southampton,Man,42,Adult,Male,13,2nd Class Passenger,2
+"BOWERMAN, Miss Elsie Edith",Survived,Southampton,Woman,22,Adult,Female,55,1st Class Passenger,1
+"BOWKER, Miss Ruth",Survived,Southampton,Woman,27,Adult,Female,,Restaurant Staff,R
+"BOXHALL, Mr Joseph Groves",Survived,Belfast,Man,28,Adult,Male,,Deck CrewTitanic Officers,D
+"BOYD, Mr John",Died,Southampton,Man,36,Adult,Male,,Victualling Crew,V
+"BOYES, Mr John Henry",Died,Belfast,Man,36,Adult,Male,,Victualling Crew,V
+"BRACKEN, Mr James H.",Died,Southampton,Man,29,Adult,Male,13,2nd Class Passenger,2
+"BRADLEY, Miss Bridget Delia",Survived,Queenstown,Woman,22,Adult,Female,7.725,3rd Class Passenger,3
+"BRADLEY, Mr Patrick Joseph",Died,Southampton,Man,39,Adult,Male,,Engineering Crew,E
+"BRADLEY, Mr T.",Died,Southampton,Man,29,Adult,Male,,Deck Crew,D
+"BRADSHAW, Mr John Albert Perkin",Died,Southampton,Man,43,Adult,Male,,Victualling Crew,V
+"BRADY, Mr John Bertram",Died,Southampton,Man,41,Adult,Male,30.5,1st Class Passenger,1
+"BRAF, Miss Elin Ester Maria",Died,Southampton,Woman,20,Adult,Female,7.85416667,3rd Class Passenger,3
+"BRAILEY, Mr William Theodore Ronald",Died,Southampton,Man,24,Adult,Male,0,2nd Class PassengerMusician,2
+"BRANDEIS, Mr Emil",Died,Cherbourg,Man,48,Adult,Male,50.4958333,1st Class Passenger,1
+"BRAUND, Mr Lewis Richard",Died,Southampton,Man,29,Adult,Male,7,3rd Class Passenger,3
+"BRAUND, Mr Owen Harris",Died,Southampton,Man,22,Adult,Male,7.25,3rd Class Passenger,3
+"BRERETON, Mr George Andrew",Survived,Southampton,Man,37,Adult,Male,26.55,1st Class Passenger,1
+"BREWE, Dr Arthur Jackson",Died,Cherbourg,Man,45,Adult,Male,39.6,1st Class Passenger,1
+"BREWER, Mr Harry",Died,Southampton,Man,30,Adult,Male,,,E
+"BREWSTER, Mr George Henry",Died,Belfast,Man,48,Adult,Male,,Victualling Crew,V
+"BRIANT, Mr Albert",Died,Southampton,Man,34,Adult,Male,,Engineering Crew,E
+"BRICE, Mr Walter Thomas",Survived,Southampton,Man,42,Adult,Male,,Deck Crew,D
+"BRICOUX, Mr Roger Marie",Died,Southampton,Man,20,Adult,Male,0,2nd Class PassengerMusician,2
+"BRIDE, Mr Harold Sydney",Survived,Belfast,Man,22,Adult,Male,,Victualling Crew,V
+"BRIGHT, Mr Arthur John",Survived,Belfast,Man,42,Adult,Male,,Deck Crew,D
+"BRISTOW, Mr Harry",Died,Southampton,Man,33,Adult,Male,,Victualling Crew,V
+"BRISTOW, Mr Robert Charles",Died,Southampton,Man,31,Adult,Male,,Victualling Crew,V
+"BRITO, Mr Jos Joaquim de",Died,Southampton,Man,32,Adult,Male,13,2nd Class Passenger,2
+"BROBECK, Mr Karl Rudolf",Died,Southampton,Man,22,Adult,Male,7.79583333,3rd Class Passenger,3
+"BROCKLEBANK, Mr William Alfred",Died,Southampton,Man,35,Adult,Male,8.05,3rd Class Passenger,3
+"BROOKMAN, Mr John Cress",Died,Southampton,Man,27,Adult,Male,,Victualling Crew,V
+"BROOKS, Mr J.",Died,Southampton,Man,25,Adult,Male,,Engineering Crew,E
+"BROOM, Mr Herbert George",Died,Belfast,Man,33,Adult,Male,,Victualling Crew,V
+"BROOME, Mr Athol Frederick",Died,Southampton,Man,30,Adult,Male,,Victualling Crew,V
+"BROWN, Miss Amelia Mary",Survived,Southampton,Woman,18,Adult,Female,13,2nd Class PassengerServant,2
+"BROWN, Miss Edith Eileen",Survived,Southampton,Woman,15,Adult,Female,39,2nd Class Passenger,2
+"BROWN, Mr Edward",Survived,Belfast,Man,34,Adult,Male,,Victualling Crew,V
+"BROWN, Mr John",Died,Southampton,Man,25,Adult,Male,,Engineering Crew,E
+"BROWN, Mr Joseph James",Died,Southampton,Man,25,Adult,Male,,Engineering Crew,E
+"BROWN, Mr Thomas William Solomon",Died,Southampton,Man,60,Adult,Male,39,2nd Class Passenger,2
+"BROWN, Mr Walter James",Died,Belfast,Man,40,Adult,Male,,Victualling Crew,V
+"BROWN, Mrs Caroline Lane",Survived,Southampton,Woman,59,Adult,Female,51.4791667,1st Class Passenger,1
+"BROWN, Mrs Elizabeth Catherine",Survived,Southampton,Woman,40,Adult,Female,39,2nd Class Passenger,2
+"BROWN, Mrs Margaret",Survived,Cherbourg,Woman,44,Adult,Female,27.7208333,1st Class Passenger,1
+"BRYHL, Miss Dagmar Jenny Ingeborg",Survived,Southampton,Woman,20,Adult,Female,26,2nd Class Passenger,2
+"BRYHL, Mr Kurt Arnold Gottfrid",Died,Southampton,Man,25,Adult,Male,26,2nd Class Passenger,2
+"BUCKLEY, Miss Katherine",Died,Queenstown,Woman,22,Adult,Female,7.28333333,3rd Class Passenger,3
+"BUCKLEY, Mr Daniel",Survived,Queenstown,Man,21,Adult,Male,7.82083333,3rd Class Passenger,3
+"BUCKLEY, Mr H. E.",Died,Southampton,Man,34,Adult,Male,,Victualling Crew,V
+"BUCKNELL, Mrs Emma Eliza",Survived,Cherbourg,Woman,58,Adult,Female,76.2916667,1st Class Passenger,1
+"BULEY, Mr Edward John",Survived,Southampton,Man,26,Adult,Male,,Deck Crew,D
+"BULL, Mr W.",Died,Southampton,Man,30,Adult,Male,,Victualling Crew,V
+"BULLEY, Mr Henry Ashburnham",Died,Southampton,Man,21,Adult,Male,,Victualling Crew,V
+"BUNNELL, Mr Wilfred James",Died,Belfast,Man,20,Adult,Male,,Victualling Crew,V
+"BURGESS, Mr Charles",Survived,Southampton,Man,18,Adult,Male,,Victualling Crew,V
+"BURKE, Mr Jeremiah",Died,Queenstown,Man,19,Adult,Male,6.75,3rd Class Passenger,3
+"BURKE, Mr Richard Edward",Died,Belfast,Man,30,Adult,Male,,Victualling Crew,V
+"BURKE, Mr William",Survived,Belfast,Man,31,Adult,Male,,Victualling Crew,V
+"BURNS, Miss Elizabeth Margaret",Survived,Cherbourg,Woman,41,Adult,Female,134.5,1st Class PassengerServant,1
+"BURNS, Miss Mary Delia",Died,Queenstown,Woman,17,Adult,Female,7.87916667,3rd Class Passenger,3
+"BURR, Mr Ewart Sydenham",Died,Southampton,Man,29,Adult,Male,,Victualling Crew,V
+"BURRAGE, Mr Arthur Victor Edwards",Survived,Southampton,Man,20,Adult,Male,,Victualling Crew,V
+"BURROUGHS, Mr Arthur Peckham",Died,Southampton,Man,35,Adult,Male,,Engineering Crew,E
+"BURTON, Mr Edward John",Died,Southampton,Man,35,Adult,Male,,Engineering Crew,E
+"BUSS, Miss Kate",Survived,Southampton,Woman,36,Adult,Female,13,2nd Class Passenger,2
+"BUTLER, Mr Reginald Fenton",Died,Southampton,Man,25,Adult,Male,13,2nd Class Passenger,2
+"BUTRUS-KA'Wi, Mr Tannus",Died,Cherbourg,Man,21,Adult,Male,7.22916667,,3
+"BUTT, Major Archibald Willingham",Died,Southampton,Man,46,Adult,Male,26.55,1st Class Passenger,1
+"BUTT, Mr Robert Henry",Died,Southampton,Man,21,Adult,Male,,Victualling Crew,V
+"BUTT, Mr William John",Died,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"BUTTERWORTH, Mr John",Died,Southampton,Man,23,Adult,Male,,Victualling Crew,V
+"BYLES, Fr Thomas Roussel Davids",Died,Southampton,Man,42,Adult,Male,13,2nd Class Passenger,2
+"BYRNE, Mr James Edward",Died,Southampton,Man,38,Adult,Male,,Victualling Crew,V
+"BYSTRM, Mrs Karolina",Survived,Southampton,Woman,40,Adult,Female,13,2nd Class Passenger,2
+"CACIC, Miss Manda",Died,Southampton,Woman,21,Adult,Female,8.6625,3rd Class Passenger,3
+"CACIC, Miss Marija",Died,Southampton,Woman,30,Adult,Female,8.6625,3rd Class Passenger,3
+"CACIC, Mr Jego Grga",Died,Southampton,Man,18,Adult,Male,8.6625,3rd Class Passenger,3
+"CACIC, Mr Luka",Died,Southampton,Man,38,Adult,Male,8.6625,3rd Class Passenger,3
+"CAIRNS, Mr Alexander Milne",Died,Southampton,Man,28,Adult,Male,31,1st Class PassengerServant,1
+"CALDERHEAD, Mr Edward Pennington",Survived,Southampton,Man,42,Adult,Male,26.2875,1st Class Passenger,1
+"CALDERWOOD, Mr Hugh",Died,Belfast,Man,30,Adult,Male,,Engineering Crew,E
+"CALDWELL, Master Alden Gates",Survived,Southampton,Child,0.83,Child,Male,29,2nd Class Passenger,2
+"CALDWELL, Mr Albert Francis",Survived,Southampton,Man,26,Adult,Male,29,2nd Class Passenger,2
+"CALDWELL, Mrs Sylvia Mae",Survived,Southampton,Woman,28,Adult,Female,29,2nd Class Passenger,2
+"CALIC, Mr Jovo",Died,Southampton,Man,17,Adult,Male,8.6625,3rd Class Passenger,3
+"CALIC, Mr Petar",Died,Southampton,Man,17,Adult,Male,8.6625,3rd Class Passenger,3
+"CAMERON, Miss Clear Annie",Survived,Southampton,Woman,35,Adult,Female,21,2nd Class Passenger,2
+"CAMPBELL, Mr Donald S.",Died,Southampton,Man,25,Adult,Male,,Victualling Crew,V
+"CAMPBELL, Mr William Henry",Died,Belfast,Man,21,Adult,Male,0,2nd Class PassengerH&W Guarantee Group,2
+"CANAVAN, Miss Mary",Died,Queenstown,Woman,22,Adult,Female,7.75,3rd Class Passenger,3
+"CANAVAN, Mr Patrick",Died,Queenstown,Man,21,Adult,Male,7.75,3rd Class Passenger,3
+"CANDEE, Mrs Helen Churchill",Survived,Cherbourg,Woman,52,Adult,Female,27.4458333,1st Class Passenger,1
+"CANN, Mr Ernest",Died,Southampton,Man,21,Adult,Male,8.05,,3
+"CANNER, Mr John",Died,Southampton,Man,39,Adult,Male,,Engineering Crew,E
+"CARAM, Mr Joseph",Died,Cherbourg,Man,28,Adult,Male,14.4583333,3rd Class Passenger,3
+"CARAM, Mrs Maria Elias",Died,Cherbourg,Woman,18,Adult,Female,14.4583333,3rd Class Passenger,3
+"CARBINES, Mr William",Died,Southampton,Man,19,Adult,Male,13,2nd Class Passenger,2
+"CARDEZA, Mr Thomas Drake Martinez",Survived,Cherbourg,Man,36,Adult,Male,512.329167,1st Class Passenger,1
+"CARDEZA, Mrs Charlotte Wardle",Survived,Cherbourg,Woman,58,Adult,Female,512.329167,1st Class Passenger,1
+"CARLSSON, Mr August Sigfrid",Died,Southampton,Man,28,Adult,Male,7.79583333,3rd Class Passenger,3
+"CARLSSON, Mr Carl Robert",Died,Southampton,Man,24,Adult,Male,7.85416667,3rd Class Passenger,3
+"CARLSSON, Mr Frans Olof",Died,Southampton,Man,33,Adult,Male,5,1st Class Passenger,1
+"CARNEY, Mr William",Died,Southampton,Man,31,Adult,Male,,Victualling Crew,V
+"CARR, Miss Jane",Died,Queenstown,Woman,45,Adult,Female,7.75,3rd Class Passenger,3
+"CARR, Mr Richard Stephen",Died,Southampton,Man,37,Adult,Male,,Engineering Crew,E
+"CARRA-ESTEVES, Mr Jos Pedro",Died,Southampton,Man,17,Adult,Male,47.1,1st Class Passenger,1
+"CARRAU, Mr Francisco Mauro Severiano",Died,Southampton,Man,27,Adult,Male,47.1,1st Class Passenger,1
+"CARTER (BALL), Mr James (W.)",Died,Southampton,Man,46,Adult,Male,,Engineering Crew,E
+"CARTER, Fr Ernest Courtenay",Died,Southampton,Man,54,Adult,Male,26,2nd Class Passenger,2
+"CARTER, Master William Thornton II",Survived,Southampton,Child,11,Child,Male,120,1st Class Passenger,1
+"CARTER, Miss Lucile Polk",Survived,Southampton,Child,13,Child,Female,120,1st Class Passenger,1
+"CARTER, Mr William Ernest",Survived,Southampton,Man,36,Adult,Male,120,1st Class Passenger,1
+"CARTER, Mrs Lilian",Died,Southampton,Woman,45,Adult,Female,26,2nd Class Passenger,2
+"CARTER, Mrs Lucile",Survived,Southampton,Woman,36,Adult,Female,120,1st Class Passenger,1
+"CARTWRIGHT, Mr James Edward",Died,Belfast,Man,32,Adult,Male,,Victualling Crew,V
+"CARVER, Mr Alfred John",Died,Southampton,Man,28,Adult,Male,7.25,3rd Class Passenger,3
+"CASALI, Sig. Giulio",Died,Southampton,Man,32,Adult,Male,,Restaurant Staff,R
+"CASE, Mr Howard Brown",Died,Southampton,Man,49,Adult,Male,26,1st Class Passenger,1
+"CASEY, Mr Thomas",Died,Southampton,Man,28,Adult,Male,,Engineering Crew,E
+"CASSEBEER, Mrs Eleanor Genevieve",Survived,Cherbourg,Woman,36,Adult,Female,27.7208333,1st Class Passenger,1
+"CASSWILL, Mr Charles",Died,Southampton,Man,34,Adult,Male,,Victualling Crew,V
+"CASTLEMAN, Mr Edward",Died,Southampton,Man,37,Adult,Male,,Engineering Crew,E
+"CATON, Miss Annie",Survived,Southampton,Woman,33,Adult,Female,,Victualling Crew,V
+"CAUNT, Mr William Ewart",Died,Southampton,Man,27,Adult,Male,,Victualling Crew,V
+"CAVE, Mr Herbert",Died,Belfast,Man,39,Adult,Male,,Victualling Crew,V
+"CAVELL, Mr George Henry",Survived,Southampton,Man,22,Adult,Male,,Engineering Crew,E
+"CAVENDISH, Mr Tyrell William",Died,Southampton,Man,36,Adult,Male,78.85,1st Class Passenger,1
+"CAVENDISH, Mrs Julia Florence",Survived,Southampton,Woman,25,Adult,Female,78.85,1st Class Passenger,1
+"CECIL, Mr Charles Thomas",Died,Southampton,Man,21,Adult,Male,,Victualling Crew,V
+"CELOTTI, Mr Francesco",Died,Southampton,Man,24,Adult,Male,8.05,3rd Class Passenger,3
+"CHABOISSON, Mr Adrien Finnin",Died,Southampton,Man,25,Adult,Male,,Restaurant Staff,R
+"CHAFFEE, Mr Herbert Fuller",Died,Southampton,Man,46,Adult,Male,61.175,1st Class Passenger,1
+"CHAFFEE, Mrs Carrie Constance",Survived,Southampton,Woman,47,Adult,Female,61.175,1st Class Passenger,1
+"CHAMBERS, Mr Norman Campbell",Survived,Southampton,Man,27,Adult,Male,53.1,1st Class Passenger,1
+"CHAMBERS, Mrs Bertha",Survived,Southampton,Woman,32,Adult,Female,53.1,1st Class Passenger,1
+"CHAPMAN, Mr Charles Henry",Died,Southampton,Man,52,Adult,Male,13.5,2nd Class Passenger,2
+"CHAPMAN, Mr John Henry",Died,Southampton,Man,36,Adult,Male,26,2nd Class Passenger,2
+"CHAPMAN, Mr Joseph Charles",Survived,Southampton,Man,32,Adult,Male,,Victualling Crew,V
+"CHAPMAN, Mrs Sara Elizabeth",Died,Southampton,Woman,28,Adult,Female,26,2nd Class Passenger,2
+"CHARMAN, Mr John James",Died,Southampton,Man,25,Adult,Male,,Victualling Crew,V
+"CHARTERS, Mr David",Died,Queenstown,Man,20,Adult,Male,7.73333333,3rd Class Passenger,3
+"CHAUDANSON, Miss Victorine",Survived,Cherbourg,Woman,36,Adult,Female,262.375,1st Class PassengerServant,1
+"CHERRETT, Mr William Victor",Died,Southampton,Man,24,Adult,Male,,Engineering Crew,E
+"CHERRY, Miss Gladys",Survived,Southampton,Woman,30,Adult,Female,86.5,1st Class Passenger,1
+"CHEVERTON, Mr William Frederick",Died,Belfast,Man,27,Adult,Male,,Victualling Crew,V
+"CHEVR, Mr Paul Romaine Marie Lonce",Survived,Cherbourg,Man,45,Adult,Male,29.7,1st Class Passenger,1
+"CHIBNALL, Mrs Edith Martha Bowerman",Survived,Southampton,Woman,48,Adult,Female,55,1st Class Passenger,1
+"CHIP, Mr Chang",Survived,Southampton,Man,32,Adult,Male,56.4958333,3rd Class Passenger,3
+"CHISHOLM, Mr Roderick Robert Crispin",Died,Belfast,Man,43,Adult,Male,0,1st Class PassengerH&W Guarantee Group,1
+"CHISNALL, Mr George Alexander",Died,Belfast,Man,36,Adult,Male,,Engineering Crew,E
+"CHITTY, Mr Archibald George",Died,Southampton,Man,28,Adult,Male,,Victualling Crew,V
+"CHITTY, Mr George Henry",Died,Southampton,Man,50,Adult,Male,,Victualling Crew,V
+"CHORLEY, Mr John Henry",Died,Southampton,Man,25,Adult,Male,,Engineering Crew,E
+"CHRISTMANN, Mr Emil",Died,Southampton,Man,29,Adult,Male,8.05,3rd Class Passenger,3
+"CHRISTMAS, Mr Herbert Harry",Died,Southampton,Man,33,Adult,Male,,Victualling Crew,V
+"CHRISTY, Miss Rachel Juli Cohen",Survived,Southampton,Woman,25,Adult,Female,30,2nd Class Passenger,2
+"CHRISTY, Mrs Alice Frances",Survived,Southampton,Woman,45,Adult,Female,30,2nd Class Passenger,2
+"CHRONOPOULOS, Mr Apostolos M.",Died,Cherbourg,Man,26,Adult,Male,14.4541667,3rd Class Passenger,3
+"CHRONOPOULOS, Mr Dimitrios M.",Died,Cherbourg,Man,21,Adult,Male,14.4541667,3rd Class Passenger,3
+"CLARK, Mr Walter Miller",Died,Cherbourg,Man,27,Adult,Male,136.779167,1st Class Passenger,1
+"CLARK, Mr William",Survived,Southampton,Man,39,Adult,Male,,Engineering Crew,E
+"CLARK, Mrs Virginia Estelle",Survived,Cherbourg,Woman,26,Adult,Female,136.779167,1st Class Passenger,1
+"CLARKE, Mr Charles Valentine",Died,Southampton,Man,29,Adult,Male,26,2nd Class Passenger,2
+"CLARKE, Mr John Frederick Preston",Died,Southampton,Man,28,Adult,Male,0,2nd Class PassengerMusician,2
+"CLARKE, Mrs Ada Maria",Survived,Southampton,Woman,28,Adult,Female,27,2nd Class Passenger,2
+"CLEAVER, Miss Alice Catherine",Survived,Southampton,Woman,22,Adult,Female,151.8,1st Class PassengerServant,1
+"CLENCH, Mr Frederick Charles",Survived,Southampton,Man,33,Adult,Male,,Deck Crew,D
+"CLENCH, Mr George James",Died,Southampton,Man,31,Adult,Male,,Deck Crew,D
+"CLIFFORD, Mr George Quincy",Died,Southampton,Man,40,Adult,Male,52,1st Class Passenger,1
+"COE, Mr Harry",Died,Southampton,Man,21,Adult,Male,,Engineering Crew,E
+"COELHO, Mr Domingos Fernandeo",Died,Southampton,Man,20,Adult,Male,7.05,3rd Class Passenger,3
+"COHEN, Mr Gurshon Gus",Survived,Southampton,Man,18,Adult,Male,8.05,,3
+"COLBERT, Mr Patrick",Died,Queenstown,Man,24,Adult,Male,7.25,3rd Class Passenger,3
+"COLEFF, Mr Satio",Died,Southampton,Man,24,Adult,Male,7.89583333,3rd Class Passenger,3
+"COLEMAN, Mr Albert Edward",Died,Southampton,Man,28,Adult,Male,,Victualling Crew,V
+"COLEMAN, Mr John",Died,Belfast,Man,57,Adult,Male,,Engineering Crew,E
+"COLERIDGE, Mr Reginald Charles",Died,Southampton,Man,29,Adult,Male,10.5,2nd Class Passenger,2
+"COLGAN, Mr E. Joseph",Survived,Southampton,Man,33,Adult,Male,,Victualling Crew,V
+"COLLANDER, Mr Erik Gustaf",Died,Southampton,Man,27,Adult,Male,13,2nd Class Passenger,2
+"COLLETT, Mr Sidney Clarence Stuart",Survived,Southampton,Man,25,Adult,Male,10.5,2nd Class Passenger,2
+"COLLEY, Mr Edward Pomeroy",Died,Southampton,Man,37,Adult,Male,25.5875,1st Class Passenger,1
+"COLLINS, Mr John",Survived,Southampton,Man,17,Adult,Male,,Victualling Crew,V
+"COLLINS, Mr John",Survived,Southampton,Man,38,Adult,Male,,Engineering Crew,E
+"COLLYER, Miss Marjorie Charlotte",Survived,Southampton,Child,8,Child,Female,26.25,2nd Class Passenger,2
+"COLLYER, Mr Harvey",Died,Southampton,Man,31,Adult,Male,26.25,2nd Class Passenger,2
+"COLLYER, Mrs Charlotte Annie",Survived,Southampton,Woman,31,Adult,Female,26.25,2nd Class Passenger,2
+"COLTCHEFF, Mr Peju",Died,Southampton,Man,36,Adult,Male,7.89583333,3rd Class Passenger,3
+"COMBES, Mr George",Survived,Southampton,Man,34,Adult,Male,,Engineering Crew,E
+"COMPTON, Miss Sara Rebecca",Survived,Cherbourg,Woman,39,Adult,Female,83.1583333,1st Class Passenger,1
+"COMPTON, Mr Alexander Taylor jr",Died,Cherbourg,Man,37,Adult,Male,83.1583333,1st Class Passenger,1
+"COMPTON, Mrs Mary Eliza",Survived,Cherbourg,Woman,64,Adult,Female,83.1583333,1st Class Passenger,1
+"CONLIN, Mr Thomas Henry",Died,Queenstown,Man,31,Adult,Male,7.73333333,3rd Class Passenger,3
+"CONNAGHTON, Mr Michael",Died,Queenstown,Man,31,Adult,Male,7.75,3rd Class Passenger,3
+"CONNOLLY, Miss Catherine",Survived,Queenstown,Woman,23,Adult,Female,7.75,,3
+"CONNOLLY, Miss Kate",Died,Queenstown,Woman,41,Adult,Female,7.75,3rd Class Passenger,3
+"CONNORS, Mr Patrick",Died,Queenstown,Man,66,Adult,Male,7.75,3rd Class Passenger,3
+"CONWAY, Mr Percy Walter",Died,Belfast,Man,24,Adult,Male,,Victualling Crew,V
+"COOK, Mr George",Died,Southampton,Man,32,Adult,Male,,Victualling Crew,V
+"COOK, Mr Jacob",Died,Southampton,Man,43,Adult,Male,8.05,3rd Class Passenger,3
+"COOK, Mrs Selena",Survived,Southampton,Woman,22,Adult,Female,10.5,2nd Class Passenger,2
+"COOMBS, Mr Charles Augustus",Died,Southampton,Man,44,Adult,Male,,Victualling Crew,V
+"COOPER, Mr Harry",Died,Southampton,Man,26,Adult,Male,,Engineering Crew,E
+"COOPER, Mr James Edward",Died,Southampton,Man,25,Adult,Male,,Engineering Crew,E
+"COPPERTHWAITE, Mr Albert Harry",Died,Southampton,Man,22,Adult,Male,,Engineering Crew,E
+"COR, Mr Bartol",Died,Southampton,Man,35,Adult,Male,7.89583333,3rd Class Passenger,3
+"COR, Mr Ivan",Died,Southampton,Man,27,Adult,Male,7.89583333,3rd Class Passenger,3
+"COR, Mr Liudevit",Died,Southampton,Man,19,Adult,Male,7.89583333,3rd Class Passenger,3
+"CORBEN, Mr Ernest Theodore",Died,Southampton,Man,27,Adult,Male,,Victualling Crew,V
+"CORBETT, Mrs Irene",Died,Southampton,Woman,30,Adult,Female,13,2nd Class Passenger,2
+"CORCORAN, Mr Denny",Died,Southampton,Man,33,Adult,Male,,Engineering Crew,E
+"COREY, Mrs Mary Emma",Died,Southampton,Woman,30,Adult,Female,1.05,,2
+"CORN, Mr Harry",Died,Southampton,Man,30,Adult,Male,8.05,3rd Class Passenger,3
+"CORNAIRE, Mr Marcel Raymond Andr",Died,Southampton,Man,19,Adult,Male,,Restaurant Staff,R
+"CORNELL, Mrs Malvina Helen",Survived,Southampton,Woman,55,Adult,Female,25.7416667,1st Class Passenger,1
+"CORR, Miss Helen",Survived,Queenstown,Woman,16,Adult,Female,7.75,3rd Class Passenger,3
+"COTTERILL, Mr Henry Harry",Died,Southampton,Man,20,Adult,Male,11.5,,2
+"COTTON, Mr Alfred",Died,Southampton,Man,35,Adult,Male,,,E
+"COUCH, Mr Frank",Died,Southampton,Man,28,Adult,Male,,Deck Crew,D
+"COUCH, Mr Joseph Henry",Died,Southampton,Man,49,Adult,Male,,Engineering Crew,E
+"COUPER, Mr Robert Frederick William",Survived,Southampton,Man,29,Adult,Male,,Engineering Crew,E
+"COUTIN, Mr Auguste Louis",Died,Southampton,Man,28,Adult,Male,,Restaurant Staff,R
+"COUTTS, Master Neville Leslie",Survived,Southampton,Child,3,Child,Male,15.9,3rd Class Passenger,3
+"COUTTS, Master William Loch Willie",Survived,Southampton,Child,9,Child,Male,15.9,,3
+"COUTTS, Mrs Winnie Minnie",Survived,Southampton,Woman,36,Adult,Female,15.9,,3
+"COX, Mr William Denton",Died,Southampton,Man,29,Adult,Male,,Victualling Crew,V
+"COXON, Mr Daniel",Died,Southampton,Man,59,Adult,Male,7.25,3rd Class Passenger,3
+"COY, Mr Francis Ernest George",Died,Belfast,Man,26,Adult,Male,,Engineering Crew,E
+"CRABB, Mr Henry James",Died,Southampton,Man,23,Adult,Male,,Engineering Crew,E
+"CRAFTER, Mr Frederick Horace",Survived,Southampton,Man,20,Adult,Male,,Victualling Crew,V
+"CRAFTON, Mr John Bertram",Died,Southampton,Man,59,Adult,Male,26.55,1st Class Passenger,1
+"CRAWFORD, Mr Alfred George",Survived,Belfast,Man,43,Adult,Male,,Victualling Crew,V
+"CREASE, Mr Ernest James",Died,Southampton,Man,19,Adult,Male,8.15833333,3rd Class Passenger,3
+"CREESE, Mr Henry Philip",Died,Belfast,Man,44,Adult,Male,,Engineering Crew,E
+"CRIBB, Miss Laura Mae",Survived,Southampton,Woman,16,Adult,Female,16.1,3rd Class Passenger,3
+"CRIBB, Mr John Hatfield",Died,Southampton,Man,44,Adult,Male,16.1,3rd Class Passenger,3
+"CRIMMINS, Mr James",Survived,Southampton,Man,21,Adult,Male,,Engineering Crew,E
+"CRISP, Mr Albert Hector",Died,Belfast,Man,39,Adult,Male,,Victualling Crew,V
+"CRISPIN, Mr William",Died,Southampton,Man,32,Adult,Male,,Victualling Crew,V
+"CROSBIE, Mr John Borthwick",Died,Southampton,Man,44,Adult,Male,,Victualling Crew,V
+"CROSBY, Captain Edward Gifford",Died,Southampton,Man,70,Adult,Male,71,1st Class Passenger,1
+"CROSBY, Miss Harriette Rebecca",Survived,Southampton,Woman,39,Adult,Female,26.55,1st Class Passenger,1
+"CROSBY, Mrs Catherine Elizabeth",Survived,Southampton,Woman,64,Adult,Female,71,1st Class Passenger,1
+"CROSS, Mr William Alfred",Died,Southampton,Man,43,Adult,Male,,Engineering Crew,E
+"CROVELLA, Sig. Luigi",Died,Southampton,Man,17,Adult,Male,,Restaurant Staff,R
+"CROWE, Mr George Frederick",Survived,Southampton,Man,30,Adult,Male,,Victualling Crew,V
+"CRUMPLIN, Mr Charles George Chandler",Died,Belfast,Man,35,Adult,Male,,Victualling Crew,V
+"CULLEN, Mr Charles James",Survived,Belfast,Man,49,Adult,Male,,Victualling Crew,V
+"CULUMOVIC, Mr Jeso",Died,Southampton,Man,17,Adult,Male,8.6625,3rd Class Passenger,3
+"CUMINGS, Mr John Bradley",Died,Cherbourg,Man,39,Adult,Male,71.2833333,1st Class Passenger,1
+"CUMINGS, Mrs Florence Briggs",Survived,Cherbourg,Woman,35,Adult,Female,71.2833333,1st Class Passenger,1
+"CUNNINGHAM, Mr Alfred Fleming",Died,Belfast,Man,21,Adult,Male,0,2nd Class PassengerH&W Guarantee Group,2
+"CUNNINGHAM, Mr Andrew Orr",Survived,Belfast,Man,38,Adult,Male,,Victualling Crew,V
+"CUNNINGHAM, Mr B.",Died,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"CURTIS, Mr Arthur",Died,Southampton,Man,25,Adult,Male,,Engineering Crew,E
+"DAHER, Mr Tannous",Died,Cherbourg,Man,28,Adult,Male,7.22916667,3rd Class Passenger,3
+"DAHL, Mr Charles Edward",Survived,Southampton,Man,45,Adult,Male,8.05,3rd Class Passenger,3
+"DAHLBERG, Miss Gerda Ulrika",Died,Southampton,Woman,22,Adult,Female,10.5166667,3rd Class Passenger,3
+"DAKIC, Mr Branko",Died,Southampton,Man,19,Adult,Male,10.1708333,3rd Class Passenger,3
+"DALY, Miss Margaret Marcella",Survived,Queenstown,Woman,33,Adult,Female,6.95,,3
+"DALY, Mr Eugene Patrick",Survived,Queenstown,Man,29,Adult,Male,7.75,3rd Class Passenger,3
+"DALY, Mr Peter Dennis",Survived,Southampton,Man,51,Adult,Male,26.55,1st Class Passenger,1
+"DANBOM, Master Gilbert Sigvard Emanuel",Died,Southampton,Child,0.33,Child,Male,14.4,3rd Class Passenger,3
+"DANBOM, Mr Ernst Gilbert",Died,Southampton,Man,34,Adult,Male,14.4,3rd Class Passenger,3
+"DANBOM, Mrs Anna Sigrid Maria",Died,Southampton,Woman,28,Adult,Female,14.4,3rd Class Passenger,3
+"DANIEL, Mr Robert Williams",Survived,Southampton,Man,27,Adult,Male,30.5,1st Class Passenger,1
+"DANIELS, Miss Sarah",Survived,Southampton,Woman,33,Adult,Female,151.8,1st Class PassengerServant,1
+"DANIELS, Mr Sidney Edward",Survived,Southampton,Man,18,Adult,Male,,Victualling Crew,V
+"DANOFF, Mr Yoto",Died,Southampton,Man,27,Adult,Male,7.89583333,3rd Class Passenger,3
+"DASHWOOD, Mr William George",Died,Southampton,Man,18,Adult,Male,,Victualling Crew,V
+"DAVIDSON, Mr Thornton",Died,Cherbourg,Man,31,Adult,Male,52,1st Class Passenger,1
+"DAVIDSON, Mrs Orian",Survived,Cherbourg,Woman,27,Adult,Female,52,1st Class Passenger,1
+"DAVIES, Master John Morgan jr",Survived,Southampton,Child,8,Child,Male,36.75,2nd Class Passenger,2
+"DAVIES, Mr Alfred J.",Died,Southampton,Man,24,Adult,Male,24.15,3rd Class Passenger,3
+"DAVIES, Mr Charles Henry",Died,Southampton,Man,19,Adult,Male,73.5,2nd Class Passenger,2
+"DAVIES, Mr Evan",Died,Southampton,Man,22,Adult,Male,8.05,3rd Class Passenger,3
+"DAVIES, Mr Gordon Raleigh",Died,Belfast,Man,32,Adult,Male,,Victualling Crew,V
+"DAVIES, Mr John Samuel",Died,Southampton,Man,21,Adult,Male,24.15,3rd Class Passenger,3
+"DAVIES, Mr Joseph",Died,Southampton,Man,17,Adult,Male,8.05,3rd Class Passenger,3
+"DAVIES, Mr Robert J.",Died,Belfast,Man,26,Adult,Male,,Victualling Crew,V
+"DAVIES, Mr Thomas",Died,Southampton,Man,33,Adult,Male,,Engineering Crew,E
+"DAVIES, Mrs Agnes",Survived,Southampton,Woman,48,Adult,Female,36.75,,2
+"DAVIS, Miss Mary",Survived,Southampton,Woman,28,Adult,Female,13,2nd Class Passenger,2
+"DAVIS, Mr John",Died,Belfast,Man,29,Adult,Male,,Victualling Crew,V
+"DAVIS, Mr Stephen James",Died,Southampton,Man,39,Adult,Male,,Deck Crew,D
+"DAVISON, Mr Thomas Henry",Died,Southampton,Man,32,Adult,Male,16.1,3rd Class Passenger,3
+"DAVISON, Mrs Mary E.",Survived,Southampton,Woman,34,Adult,Female,16.1,3rd Class Passenger,3
+"DAWSON, Mr Joseph",Died,Southampton,Man,23,Adult,Male,,Engineering Crew,E
+"DE MARSICO, Sig. Govanni",Died,Southampton,Man,20,Adult,Male,,Restaurant Staff,R
+"DE MESSEMAEKER, Mr Guillaume Joseph",Survived,Southampton,Man,36,Adult,Male,17.4,3rd Class Passenger,3
+"DE MESSEMAEKER, Mrs Anna",Survived,Southampton,Woman,36,Adult,Female,17.4,3rd Class Passenger,3
+"DE MULDER, Mr Theodoor",Survived,Southampton,Man,30,Adult,Male,9.5,3rd Class Passenger,3
+"DE PELSMAEKER, Mr Alfons",Died,Southampton,Man,16,Adult,Male,9.5,3rd Class Passenger,3
+"DEACON, Mr Percy William",Died,Southampton,Man,18,Adult,Male,73.5,2nd Class Passenger,2
+"DEAN, Master Bertram Vere",Survived,Southampton,Child,1,Child,Male,20.575,3rd Class Passenger,3
+"DEAN, Miss Elizabeth Gladys 'Millvina'",Survived,Southampton,Child,0.08,Child,Female,20.575,3rd Class Passenger,3
+"DEAN, Mr Bertram Frank",Died,Southampton,Man,25,Adult,Male,20.575,3rd Class Passenger,3
+"DEAN, Mr George H.",Died,Southampton,Man,19,Adult,Male,,Victualling Crew,V
+"DEAN, Mrs Eva Georgetta",Survived,Southampton,Woman,32,Adult,Female,20.575,3rd Class Passenger,3
+"DEBREUCQ, Mr Maurice Emile Victor",Died,Southampton,Man,18,Adult,Male,,Restaurant Staff,R
+"DEEBLE, Mr Alfred Arnold",Died,Belfast,Man,34,Adult,Male,,Victualling Crew,V
+"DEL CARLO, Mr Sebastiano",Died,Cherbourg,Man,29,Adult,Male,27.7208333,2nd Class Passenger,2
+"DEL CARLO, Mrs Argene",Survived,Cherbourg,Woman,24,Adult,Female,27.7208333,2nd Class Passenger,2
+"DELALIC, Mr Redjo",Died,Southampton,Man,25,Adult,Male,7.89583333,3rd Class Passenger,3
+"DENBUOY, Mr Albert (Herbert)",Died,Southampton,Man,25,Adult,Male,31.5,,2
+"DENKOFF, Mr Mitto",Died,Southampton,Man,30,Adult,Male,7.89583333,3rd Class Passenger,3
+"DENNIS, Mr Samuel",Died,Southampton,Man,22,Adult,Male,7.25,3rd Class Passenger,3
+"DENNIS, Mr William",Died,Southampton,Man,26,Adult,Male,7.25,3rd Class Passenger,3
+"DERRETT, Mr Arthur Henry",Died,Belfast,Man,28,Adult,Male,,Victualling Crew,V
+"DESLANDES, Mr Percival Stainer",Died,Southampton,Man,36,Adult,Male,,Victualling Crew,V
+"DESVERNINE, Mr Louis Gabriel",Died,Southampton,Man,20,Adult,Male,,Restaurant Staff,R
+"DEVANEY, Miss Margaret Delia",Survived,Queenstown,Woman,19,Adult,Female,7.87916667,3rd Class Passenger,3
+"DIAPER, Mr John Joseph",Survived,Southampton,Man,27,Adult,Male,,Engineering Crew,E
+"DIBDEN, Mr William",Died,Southampton,Man,18,Adult,Male,73.5,2nd Class Passenger,2
+"DICK, Mr Albert Adrian",Survived,Southampton,Man,31,Adult,Male,57,1st Class Passenger,1
+"DICK, Mrs Vera",Survived,Southampton,Woman,17,Adult,Female,57,1st Class Passenger,1
+"DICKSON, Mr William",Died,Southampton,Man,36,Adult,Male,,Engineering Crew,E
+"DIKA, Mr Mirko",Died,Southampton,Man,17,Adult,Male,7.89583333,3rd Class Passenger,3
+"DILLEY, Mr John",Survived,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"DILLON, Mr Thomas Patrick",Survived,Southampton,Man,24,Adult,Male,,Engineering Crew,E
+"DIMIC, Mr Jovan",Died,Southampton,Man,42,Adult,Male,8.6625,3rd Class Passenger,3
+"DINENAGE, Mr James Richard",Died,Southampton,Man,49,Adult,Male,,Victualling Crew,V
+"DINTCHEFF, Mr Valtcho",Died,Southampton,Man,43,Adult,Male,7.89583333,3rd Class Passenger,3
+"DODD, Mr Edward Charles",Died,Belfast,Man,38,Adult,Male,,Engineering Crew,E
+"DODD, Mr George Charles",Died,Belfast,Man,44,Adult,Male,,Victualling Crew,V
+"DODDS, Mr Henry Watson",Died,Southampton,Man,27,Adult,Male,,Engineering Crew,E
+"DODGE, Dr Washington",Survived,Southampton,Man,52,Adult,Male,81.8583333,1st Class Passenger,1
+"DODGE, Master Washington",Survived,Southampton,Child,4,Child,Male,81.8583333,1st Class Passenger,1
+"DODGE, Mrs Ruth",Survived,Southampton,Woman,34,Adult,Female,81.8583333,1st Class Passenger,1
+"DOEL, Mr Frederick",Survived,Southampton,Man,22,Adult,Male,,Engineering Crew,E
+"DOLBY, Mr Joseph",Died,Belfast,Man,38,Adult,Male,,Victualling Crew,V
+"DOLING, Miss Elsie",Survived,Southampton,Woman,18,Adult,Female,23,2nd Class Passenger,2
+"DOLING, Mrs Ada Julia Elizabeth",Survived,Southampton,Woman,34,Adult,Female,23,2nd Class Passenger,2
+"DONATI, Sig. Italo Francesco",Died,Southampton,Man,17,Adult,Male,,Restaurant Staff,R
+"DONOGHUE, Mr Frank (?Thomas)",Died,Belfast,Man,35,Adult,Male,,Victualling Crew,V
+"DONOHOE, Miss Bridget",Died,Queenstown,Woman,21,Adult,Female,7.75,3rd Class Passenger,3
+"DOOLEY, Mr Patrick",Died,Queenstown,Man,38,Adult,Male,7.75,3rd Class Passenger,3
+"DORE, Mr Albert James",Survived,Southampton,Man,22,Adult,Male,,Engineering Crew,E
+"DORKING, Mr Edward Arthur",Survived,Southampton,Man,18,Adult,Male,8.05,3rd Class Passenger,3
+"DORNIER, Mr Louis Auguste",Died,Southampton,Man,20,Adult,Male,,Restaurant Staff,R
+"DOUGHERTY, Mr William John",Died,Queenstown,Man,22,Adult,Male,8.45833333,3rd Class Passenger,3
+"DOUGHTY, Mr Walter Thomas",Died,Southampton,Man,22,Adult,Male,,Victualling Crew,V
+"DOUGLAS, Mr Walter Donald",Died,Cherbourg,Man,50,Adult,Male,106.425,1st Class Passenger,1
+"DOUGLAS, Mrs Mahala",Survived,Cherbourg,Woman,48,Adult,Female,106.425,1st Class Passenger,1
+"DOUGLAS, Mrs Mary Hlne",Survived,Cherbourg,Woman,27,Adult,Female,247.520833,1st Class Passenger,1
+"DOUTON, Mr William Joseph",Died,Southampton,Man,55,Adult,Male,26,2nd Class Passenger,2
+"DOWDELL, Miss Elizabeth",Survived,Southampton,Woman,31,Adult,Female,12.475,3rd Class Passenger,3
+"DOYLE, Miss Elizabeth",Died,Queenstown,Woman,28,Adult,Female,7.75,3rd Class Passenger,3
+"DOYLE, Mr Laurence",Died,Southampton,Man,27,Adult,Male,,Engineering Crew,E
+"DRAZENOVIC, Mr Jozef",Died,Cherbourg,Man,33,Adult,Male,7.89583333,3rd Class Passenger,3
+"DREW, Master Marshall Brines",Survived,Southampton,Child,8,Child,Male,32.5,2nd Class Passenger,2
+"DREW, Mr James Vivian",Died,Southampton,Man,42,Adult,Male,32.5,2nd Class Passenger,2
+"DREW, Mrs Lulu Thorne",Survived,Southampton,Woman,34,Adult,Female,32.5,2nd Class Passenger,2
+"DROPKIN, Miss Jennie",Survived,Southampton,Woman,24,Adult,Female,8.05,3rd Class Passenger,3
+"DUFF GORDON, Lucy Christiana, Lady",Survived,Cherbourg,Woman,48,Adult,Female,56.9291667,1st Class Passenger,1
+"DUFF GORDON, Sir Cosmo Edmund",Survived,Cherbourg,Man,49,Adult,Male,39.6,1st Class Passenger,1
+"DUFFY, Mr William Luke",Died,Belfast,Man,36,Adult,Male,,Engineering Crew,E
+"DULLES, Mr William Crothers",Died,Cherbourg,Man,39,Adult,Male,29.7,1st Class Passenger,1
+"DUNFORD, Mr William",Died,Southampton,Man,47,Adult,Male,,Victualling Crew,V
+"DUQUEMIN, Mr Joseph Pierre",Survived,Southampton,Man,24,Adult,Male,7.55,3rd Class Passenger,3
+"DURN I MON, Sra. Florentina",Survived,Cherbourg,Woman,30,Adult,Female,13.8583333,2nd Class Passenger,2
+"DURAN Y MORE, Sra. Asuncion",Survived,Cherbourg,Woman,27,Adult,Female,13.8583333,2nd Class Passenger,2
+"DURNIL, Mr James",Died,Southampton,Man,38,Adult,Male,,Engineering Crew,E
+"DWAN, Mr Frank",Died,Queenstown,Man,65,Adult,Male,7.75,3rd Class Passenger,3
+"DYER, Mr Henry Ryland",Died,Belfast,Man,24,Adult,Male,,Engineering Crew,E
+"DYER, Mr William Henry",Died,Southampton,Man,31,Adult,Male,,Victualling Crew,V
+"DYKER, Mr Adolf Fredrik",Died,Southampton,Man,23,Adult,Male,13.9,3rd Class Passenger,3
+"DYKER, Mrs Anna Elisabeth Judith",Survived,Southampton,Woman,22,Adult,Female,13.9,3rd Class Passenger,3
+"DYMOND, Mr Frank",Survived,Southampton,Man,40,Adult,Male,,Engineering Crew,E
+"EAGLE, Mr Alfred James",Died,Southampton,Man,22,Adult,Male,,Engineering Crew,E
+"EARNSHAW, Mrs Olive",Survived,Cherbourg,Woman,23,Adult,Female,83.1583333,1st Class Passenger,1
+"EASTMAN, Mr Charles",Died,Southampton,Man,44,Adult,Male,,Engineering Crew,E
+"EDBROOKE, Mr Francis Samuel Jacob",Died,Southampton,Man,23,Adult,Male,,Victualling Crew,V
+"EDE, Mr George Bulkeley",Died,Southampton,Man,22,Adult,Male,,Victualling Crew,V
+"EDGE, Mr Frederick William",Died,Southampton,Man,39,Adult,Male,,Victualling Crew,V
+"EDVARDSSON, Mr Gustaf Hjalmar",Died,Southampton,Man,18,Adult,Male,7.775,3rd Class Passenger,3
+"EDWARDS, Mr Charles Essex",Died,Southampton,Man,39,Adult,Male,,Victualling Crew,V
+"EGG, Mr William Henry",Died,Southampton,Man,47,Adult,Male,,Victualling Crew,V
+"EITEMILLER, Mr George Floyd",Died,Southampton,Man,25,Adult,Male,13,2nd Class Passenger,2
+"EKLUND, Mr Hans Linus",Died,Southampton,Man,16,Adult,Male,7.775,3rd Class Passenger,3
+"EKSTRM, Mr Johan",Died,Southampton,Man,45,Adult,Male,6.975,3rd Class Passenger,3
+"ELIAS NASRALLAH, Mr Tannous",Died,Cherbourg,Man,22,Adult,Male,7.22916667,3rd Class Passenger,3
+"ELIAS, Mr Dibo",Died,Cherbourg,Man,29,Adult,Male,7.225,3rd Class Passenger,3
+"ELIAS, Mr Joseph jr.",Died,Cherbourg,Man,15,Adult,Male,7.22916667,3rd Class Passenger,3
+"ELLIOTT, Mr Everett Edward",Died,Southampton,Man,24,Adult,Male,,Engineering Crew,E
+"ELLIS, Mr John Bertie",Survived,Southampton,Man,28,Adult,Male,,Victualling Crew,V
+"ELSBURY, Mr William James",Died,Southampton,Man,47,Adult,Male,7.25,3rd Class Passenger,3
+"EMANUEL, Miss Virginia Ethel",Survived,Southampton,Child,5,Child,Female,12.475,3rd Class Passenger,3
+"ENANDER, Mr Ingvar",Died,Southampton,Man,21,Adult,Male,13,2nd Class Passenger,2
+"ENDRES, Miss Caroline Louise",Survived,Cherbourg,Woman,39,Adult,Female,247.525,1st Class PassengerServant,1
+"ENNIS, Mr Walter",Died,Southampton,Man,34,Adult,Male,,Victualling Crew,V
+"ERVINE, Mr Albert George",Died,Belfast,Man,18,Adult,Male,,Engineering Crew,E
+"ESTANISLAU, Mr Manuel Gonalves",Died,Southampton,Man,37,Adult,Male,7.05,3rd Class Passenger,3
+"ETCHES, Mr Henry Samuel",Survived,Belfast,Man,43,Adult,Male,,Victualling Crew,V
+"EUSTIS, Miss Elizabeth Mussey",Survived,Cherbourg,Woman,54,Adult,Female,78.2666667,1st Class Passenger,1
+"EVANS, Miss Edith Corse",Died,Cherbourg,Woman,36,Adult,Female,31.6791667,1st Class Passenger,1
+"EVANS, Mr Alfred Frank",Survived,Southampton,Man,25,Adult,Male,,Deck Crew,D
+"EVANS, Mr Frank Oliver",Survived,Southampton,Man,27,Adult,Male,,Deck Crew,D
+"EVANS, Mr George Richard",Died,Belfast,Man,27,Adult,Male,,Victualling Crew,V
+"EVANS, Mr William Thomas",Died,Southampton,Man,33,Adult,Male,,Engineering Crew,E
+"EVERETT, Mr Thomas James",Died,Southampton,Man,39,Adult,Male,15.1,3rd Class Passenger,3
+"FAHLSTRM, Mr Arne Joma",Died,Southampton,Man,18,Adult,Male,13,2nd Class Passenger,2
+"FAIRALL, Mr Henry Charles",Died,Belfast,Man,38,Adult,Male,,Victualling Crew,V
+"FARDON, Mr Charles Richard",Died,Southampton,Man,45,Adult,Male,7.25,,3
+"FARENDEN, Mr Ernest John",Died,Belfast,Man,22,Adult,Male,,Victualling Crew,V
+"FARQUHARSON, Mr William Edward",Died,Belfast,Man,39,Adult,Male,,Engineering Crew,E
+"FARRELL, Mr James Jim",Died,Queenstown,Man,25,Adult,Male,7.75,,3
+"FARTHING, Mr John",Died,Southampton,Man,57,Adult,Male,221.779167,1st Class PassengerServant,1
+"FAULKNER, Mr William Stephen",Survived,Belfast,Man,37,Adult,Male,,Victualling Crew,V
+"FAUNTHORPE, Mr Harry Bartram",Died,Southampton,Man,41,Adult,Male,26,2nd Class Passenger,2
+"FAY, Mr Thomas Joseph",Died,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"FELLOWES, Mr Alfred James",Died,Belfast,Man,29,Adult,Male,,Victualling Crew,V
+"FELTHAM, Mr George William",Died,Southampton,Man,36,Adult,Male,,Victualling Crew,V
+"FERRARY, Mr Antonio",Died,Southampton,Man,34,Adult,Male,,Engineering Crew,E
+"FERRIS, Mr W.",Died,Southampton,Man,38,Adult,Male,,Engineering Crew,E
+"FEY, Sig. Carlo",Died,Southampton,Man,30,Adult,Male,,Restaurant Staff,R
+"FILLBROOK, Mr Joseph Charles",Died,Southampton,Man,18,Adult,Male,10.5,2nd Class Passenger,2
+"FINCH, Mr Harry",Died,Southampton,Man,18,Adult,Male,,Victualling Crew,V
+"FINOLI, Mr Luigi",Survived,Southampton,Man,34,Adult,Male,7.05,3rd Class Passenger,3
+"FIORAVANTE, Sig. Giuseppe Bertoldo",Died,Southampton,Man,23,Adult,Male,,Restaurant Staff,R
+"FISCHER, Mr Eberhard Thelander",Died,Southampton,Man,18,Adult,Male,7.79583333,3rd Class Passenger,3
+"FITZPATRICK, Mr Cecil William",Survived,Southampton,Man,21,Adult,Male,,Engineering Crew,E
+"FITZPATRICK, Mr Hugh Joseph",Died,Belfast,Man,28,Adult,Male,,Engineering Crew,E
+"FLARTY, Mr Edward",Survived,Southampton,Man,43,Adult,Male,,Engineering Crew,E
+"FLEET, Mr Frederick",Survived,Belfast,Man,24,Adult,Male,,Deck Crew,D
+"FLEGENHEIM, Mrs Antoinette",Survived,Cherbourg,Woman,48,Adult,Female,31.6833333,1st Class Passenger,1
+"FLEMING, Miss Honora",Died,Queenstown,Woman,22,Adult,Female,7.75,3rd Class Passenger,3
+"FLEMING, Miss Margaret",Survived,Cherbourg,Woman,42,Adult,Female,110.883333,1st Class PassengerServant,1
+"FLETCHER, Mr Percy William",Died,Belfast,Man,26,Adult,Male,,Victualling Crew,V
+"FLYNN, Mr James",Died,Queenstown,Man,28,Adult,Male,7.75,3rd Class Passenger,3
+"FLYNN, Mr John",Died,Queenstown,Man,42,Adult,Male,6.95,3rd Class Passenger,3
+"FLYNN, Mr John Irwin",Survived,Southampton,Man,36,Adult,Male,26.2875,1st Class Passenger,1
+"FOLEY, Mr John",Survived,Belfast,Man,46,Adult,Male,,Deck Crew,D
+"FOLEY, Mr Joseph",Died,Queenstown,Man,19,Adult,Male,7.87916667,3rd Class Passenger,3
+"FOLEY, Mr Wilfred Cyril",Survived,Southampton,Man,22,Adult,Male,,Victualling Crew,V
+"FOLEY, Mr William",Died,Queenstown,Man,20,Adult,Male,7.75,3rd Class Passenger,3
+"FOO, Mr Choong",Survived,Southampton,Man,32,Adult,Male,56.4958333,3rd Class Passenger,3
+"FORD, Miss Dollina Margaret",Died,Southampton,Woman,20,Adult,Female,34.375,3rd Class Passenger,3
+"FORD, Miss Robina Maggie",Died,Southampton,Child,7,Child,Female,34.375,3rd Class Passenger,3
+"FORD, Mr Arthur",Died,Southampton,Man,22,Adult,Male,8.05,3rd Class Passenger,3
+"FORD, Mr Edward Watson",Died,Southampton,Man,18,Adult,Male,34.375,3rd Class Passenger,3
+"FORD, Mr Ernest",Died,Southampton,Man,32,Adult,Male,,Victualling Crew,V
+"FORD, Mr Francis",Died,Southampton,Man,37,Adult,Male,,Victualling Crew,V
+"FORD, Mr H.",Died,Southampton,Man,22,Adult,Male,,Engineering Crew,E
+"FORD, Mr Thomas",Died,Southampton,Man,32,Adult,Male,,Engineering Crew,E
+"FORD, Mr William Neal Thomas",Died,Southampton,Man,16,Adult,Male,34.375,3rd Class Passenger,3
+"FORD, Mrs Margaret Ann Watson",Died,Southampton,Woman,48,Adult,Female,34.375,3rd Class Passenger,3
+"FOREMAN, Mr Benjamin Laventall",Died,Southampton,Man,30,Adult,Male,27.75,1st Class Passenger,1
+"FORTUNE, Miss Alice Elizabeth",Survived,Southampton,Woman,24,Adult,Female,263,1st Class Passenger,1
+"FORTUNE, Miss Ethel Flora",Survived,Southampton,Woman,28,Adult,Female,263,1st Class Passenger,1
+"FORTUNE, Miss Mabel Helen",Survived,Southampton,Woman,23,Adult,Female,263,1st Class Passenger,1
+"FORTUNE, Mr Charles Alexander",Died,Southampton,Man,19,Adult,Male,263,1st Class Passenger,1
+"FORTUNE, Mr Mark",Died,Southampton,Man,64,Adult,Male,263,1st Class Passenger,1
+"FORTUNE, Mrs Mary",Survived,Southampton,Woman,60,Adult,Female,263,1st Class Passenger,1
+"FORWARD, Mr James",Survived,Southampton,Man,27,Adult,Male,,Deck Crew,D
+"FOSTER, Mr Albert C.",Died,Belfast,Man,37,Adult,Male,,Engineering Crew,E
+"FOX, Mr Patrick",Died,Queenstown,Man,28,Adult,Male,7.75,3rd Class Passenger,3
+"FOX, Mr Stanley Hubert",Died,Southampton,Man,38,Adult,Male,13,2nd Class Passenger,2
+"FOX, Mr William Thomas",Died,Southampton,Man,27,Adult,Male,,Victualling Crew,V
+"FRANCATELLI, Miss Laura Mabel",Survived,Cherbourg,Woman,31,Adult,Female,56.9291667,1st Class PassengerServant,1
+"FRANKLIN, Mr Alan Vincent",Died,Southampton,Man,28,Adult,Male,,Victualling Crew,V
+"FRANKLIN, Mr Thomas Parnham",Died,Southampton,Man,37,Adult,Male,26.55,1st Class Passenger,1
+"FRASER, Mr J.",Died,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"FRASER, Mr James",Died,Belfast,Man,29,Adult,Male,,Engineering Crew,E
+"FRAUENTHAL, Dr Henry William",Survived,Southampton,Man,49,Adult,Male,133.65,1st Class Passenger,1
+"FRAUENTHAL, Mr Isaac Gerald",Survived,Cherbourg,Man,43,Adult,Male,27.7208333,1st Class Passenger,1
+"FRAUENTHAL, Mrs Clara",Survived,Southampton,Woman,42,Adult,Female,133.65,1st Class Passenger,1
+"FREDERICKS, Mr Walter Francis",Survived,Southampton,Man,21,Adult,Male,,Engineering Crew,E
+"FREEMAN, Mr Ernest Edward Samuel",Died,Belfast,Man,45,Adult,Male,,Victualling Crew,V
+"FRLICHER-STEHLI, Mr Maximilian Josef",Survived,Cherbourg,Man,60,Adult,Male,79.2,1st Class Passenger,1
+"FRLICHER-STEHLI, Mrs Margaretha Emerentia",Survived,Cherbourg,Woman,48,Adult,Female,79.2,1st Class Passenger,1
+"FRLICHER, Miss Hedwig Margaritha",Survived,Cherbourg,Woman,22,Adult,Female,49.5,1st Class Passenger,1
+"FROST, Mr Anthony Wood",Died,Belfast,Man,38,Adult,Male,0,2nd Class PassengerH&W Guarantee Group,2
+"FRY, Mr Richard",Died,Southampton,Man,39,Adult,Male,0,,1
+"FRYER, Mr Albert Ernest",Survived,Southampton,Man,29,Adult,Male,,Engineering Crew,E
+"FUNK, Miss Annie Clemmer",Died,Southampton,Woman,38,Adult,Female,13,2nd Class Passenger,2
+"FUTRELLE, Mr Jacques Heath",Died,Southampton,Man,37,Adult,Male,53.1,1st Class Passenger,1
+"FUTRELLE, Mrs Lily May",Survived,Southampton,Woman,35,Adult,Female,53.1,1st Class Passenger,1
+"FYNNEY, Mr Joseph J.",Died,Southampton,Man,35,Adult,Male,26,2nd Class Passenger,2
+"GALE, Mr Harry",Died,Southampton,Man,38,Adult,Male,21,2nd Class Passenger,2
+"GALE, Mr Shadrach",Died,Southampton,Man,33,Adult,Male,21,2nd Class Passenger,2
+"GALLAGHER, Mr Martin",Died,Queenstown,Man,29,Adult,Male,7.74166667,3rd Class Passenger,3
+"GARFIRTH, Mr John",Died,Southampton,Man,21,Adult,Male,14.5,3rd Class Passenger,3
+"GARSIDE, Miss Ethel",Survived,Southampton,Woman,34,Adult,Female,13,2nd Class Passenger,2
+"GASKELL, Mr Alfred",Died,Southampton,Man,16,Adult,Male,26,2nd Class Passenger,2
+"GATTI, Sig. Gaspare Antonio Pietro",Died,Southampton,Man,37,Adult,Male,,Restaurant Staff,R
+"GAVEY, Mr Laurence",Died,Southampton,Man,26,Adult,Male,10.5,2nd Class Passenger,2
+"GEDDES, Mr Richard Charles",Died,Southampton,Man,31,Adult,Male,,Victualling Crew,V
+"GEE, Mr Arthur H.",Died,Southampton,Man,47,Adult,Male,38.5,1st Class Passenger,1
+"GEER, Mr Alfred Emest",Died,Southampton,Man,26,Adult,Male,,Engineering Crew,E
+"GEORGE/JOSEPH, Mrs Shawneene",Survived,Cherbourg,Woman,38,Adult,Female,7.22916667,3rd Class Passenger,3
+"GERIOS THAMAH, Mr Assaf",Died,Cherbourg,Man,21,Adult,Male,7.225,3rd Class Passenger,3
+"GHEORGHEFF, Mr Stanio",Died,Cherbourg,Man,,Adult,Male,7.89583333,3rd Class Passenger,3
+"GIBBONS, Mr Jacob William",Survived,Southampton,Man,36,Adult,Male,,Victualling Crew,V
+"GIBSON, Miss Dorothy Winifred",Survived,Cherbourg,Woman,22,Adult,Female,59.4,1st Class Passenger,1
+"GIBSON, Mrs Pauline Caroline",Survived,Cherbourg,Woman,44,Adult,Female,59.4,1st Class Passenger,1
+"GIEGER, Miss Amalie",Survived,Southampton,Woman,35,Adult,Female,211.5,1st Class PassengerServant,1
+"GIGLIO, Mr Victor Gaitan Andrea",Died,Cherbourg,Man,23,Adult,Male,79.2,1st Class PassengerServant,1
+"GILARDINO, Sig. Vincenzo Pio",Died,Southampton,Man,31,Adult,Male,,Restaurant Staff,R
+"GILBERT, Mr William",Died,Southampton,Man,47,Adult,Male,10.5,2nd Class Passenger,2
+"GILES, Mr Edgar",Died,Southampton,Man,21,Adult,Male,11.5,2nd Class Passenger,2
+"GILES, Mr Frederick Edward",Died,Southampton,Man,20,Adult,Male,11.5,2nd Class Passenger,2
+"GILES, Mr John Robert",Died,Southampton,Man,32,Adult,Male,,Victualling Crew,V
+"GILES, Mr Ralph",Died,Southampton,Man,24,Adult,Male,13.5,2nd Class Passenger,2
+"GILINSKI, Mr Eliezer",Died,Southampton,Man,22,Adult,Male,8.05,3rd Class Passenger,3
+"GILL, Mr John William",Died,Southampton,Man,24,Adult,Male,13,2nd Class Passenger,2
+"GILL, Mr Joseph Stanley",Died,Belfast,Man,38,Adult,Male,,Victualling Crew,V
+"GILL, Mr Patrick",Died,Southampton,Man,38,Adult,Male,,Victualling Crew,V
+"GILLESPIE, Mr William Henry",Died,Southampton,Man,31,Adult,Male,13,2nd Class Passenger,2
+"GILNAGH, Miss Mary Katherine",Survived,Queenstown,Woman,17,Adult,Female,7.73333333,3rd Class Passenger,3
+"GIVARD, Mr Hans Kristensen",Died,Southampton,Man,30,Adult,Male,13,2nd Class Passenger,2
+"GLYNN, Miss Mary Agatha",Survived,Queenstown,Woman,19,Adult,Female,7.75,3rd Class Passenger,3
+"GODLEY, Mr George Auguste",Survived,Southampton,Man,38,Adult,Male,,Engineering Crew,E
+"GODWIN, Mr Frederick Charles",Died,Southampton,Man,35,Adult,Male,,Engineering Crew,E
+"GOLD, Mrs Jane Kate Coulson",Survived,Southampton,Woman,45,Adult,Female,,Victualling Crew,V
+"GOLDENBERG, Mr Samuel L.",Survived,Cherbourg,Man,47,Adult,Male,89.1041667,1st Class Passenger,1
+"GOLDENBERG, Mrs Nella",Survived,Cherbourg,Woman,40,Adult,Female,89.1041667,1st Class Passenger,1
+"GOLDER, Mr M. W.",Died,Southampton,Man,32,Adult,Male,,Engineering Crew,E
+"GOLDSCHMIDT, Mr George B.",Died,Cherbourg,Man,71,Adult,Male,34.6541667,1st Class Passenger,1
+"GOLDSMITH, Master Frank John William",Survived,Southampton,Child,9,Child,Male,20.525,3rd Class Passenger,3
+"GOLDSMITH, Mr Frank John",Died,Southampton,Man,33,Adult,Male,20.525,3rd Class Passenger,3
+"GOLDSMITH, Mr Nathan",Died,Southampton,Man,41,Adult,Male,7.85,3rd Class Passenger,3
+"GOLDSMITH, Mrs Emily Alice",Survived,Southampton,Woman,31,Adult,Female,20.525,3rd Class Passenger,3
+"GOLLOP, Mr F.",Died,Southampton,Man,28,Adult,Male,,Victualling Crew,V
+"GOODWIN, Master Harold Victor",Died,Southampton,Child,9,Child,Male,46.9,3rd Class Passenger,3
+"GOODWIN, Master Sidney Leslie",Died,Southampton,Child,1,Child,Male,46.9,3rd Class Passenger,3
+"GOODWIN, Master William Frederick",Died,Southampton,Child,11,Child,Male,46.9,3rd Class Passenger,3
+"GOODWIN, Miss Jessie Allis",Died,Southampton,Child,10,Child,Female,46.9,3rd Class Passenger,3
+"GOODWIN, Miss Lillian Amy",Died,Southampton,Woman,16,Adult,Female,46.9,3rd Class Passenger,3
+"GOODWIN, Mr Charles Edward",Died,Southampton,Child,14,Child,Male,46.9,3rd Class Passenger,3
+"GOODWIN, Mr Frederick Joseph",Died,Southampton,Man,42,Adult,Male,46.9,3rd Class Passenger,3
+"GOODWIN, Mrs Augusta",Died,Southampton,Woman,43,Adult,Female,46.9,3rd Class Passenger,3
+"GORDON, Mr J.",Died,Southampton,Man,29,Adult,Male,,Engineering Crew,E
+"GOREE, Mr Frank",Died,Southampton,Man,40,Adult,Male,,Engineering Crew,E
+"GOSHAWK, Mr Alfred James",Died,Belfast,Man,40,Adult,Male,,Victualling Crew,V
+"GOSLING, Mr Bertram James",Died,Southampton,Man,22,Adult,Male,,Engineering Crew,E
+"GOSLING, Mr S.",Died,Southampton,Man,26,Adult,Male,,Engineering Crew,E
+"GRACIE, Colonel Archibald",Survived,Southampton,Man,53,Adult,Male,28.5,1st Class Passenger,1
+"GRADIDGE, Mr Ernest Edward",Died,Southampton,Man,22,Adult,Male,,Engineering Crew,E
+"GRAHAM, Miss Margaret Edith",Survived,Southampton,Woman,19,Adult,Female,153.4625,1st Class Passenger,1
+"GRAHAM, Mr George Edward",Died,Southampton,Man,38,Adult,Male,30,1st Class Passenger,1
+"GRAHAM, Mr Thomas G.",Survived,Belfast,Man,28,Adult,Male,,Engineering Crew,E
+"GRAHAM, Mrs Edith",Survived,Southampton,Woman,59,Adult,Female,153.4625,1st Class Passenger,1
+"GREEN, Mr George",Died,Southampton,Man,40,Adult,Male,8.05,3rd Class Passenger,3
+"GREEN, Mr George",Died,Southampton,Man,20,Adult,Male,8.05,3rd Class Passenger,3
+"GREENBERG, Mr Samuel",Died,Southampton,Man,52,Adult,Male,13,2nd Class Passenger,2
+"GREENFIELD, Mr William Bertram",Survived,Cherbourg,Man,23,Adult,Male,63.3583333,1st Class Passenger,1
+"GREENFIELD, Mrs Blanche",Survived,Cherbourg,Woman,45,Adult,Female,63.3583333,1st Class Passenger,1
+"GREGORY, Mr David",Died,Southampton,Man,43,Adult,Male,,Engineering Crew,E
+"GREGSON, Miss Mary",Survived,Southampton,Woman,45,Adult,Female,,Victualling Crew,V
+"GRaNNESTAD, Mr Daniel Danielsen",Died,Southampton,Man,32,Adult,Male,8.3625,3rd Class Passenger,3
+"GROSCLAUDE, Mr Gerald",Died,Southampton,Man,24,Adult,Male,,Restaurant Staff,R
+"GUEST, Mr Robert",Died,Southampton,Man,23,Adult,Male,8.05,3rd Class Passenger,3
+"GUGGENHEIM, Mr Benjamin",Died,Cherbourg,Man,46,Adult,Male,79.2,1st Class Passenger,1
+"GUMERY, Mr George",Died,Southampton,Man,24,Adult,Male,,Engineering Crew,E
+"GUNN, Mr Joseph Alfred",Died,Southampton,Man,28,Adult,Male,,Victualling Crew,V
+"GUSTAFSSON, Mr Alfred Ossian",Died,Southampton,Man,19,Adult,Male,9.84583333,3rd Class Passenger,3
+"GUSTAFSSON, Mr Anders Vilhelm",Died,Southampton,Man,37,Adult,Male,7.925,3rd Class Passenger,3
+"GUSTAFSSON, Mr Johan Birger",Died,Southampton,Man,28,Adult,Male,7.925,3rd Class Passenger,3
+"GUSTAFSSON, Mr Karl Gideon",Died,Southampton,Man,19,Adult,Male,7.775,3rd Class Passenger,3
+"GUY, Mr Elgar John",Survived,Southampton,Man,28,Adult,Male,,Victualling Crew,V
+"GWYNN, Mr William Logan",Died,Southampton,Man,37,Adult,Male,,Victualling CrewPostal Clerk,V
+"HAAS, Miss Aloisia",Died,Southampton,Woman,24,Adult,Female,8.85,3rd Class Passenger,3
+"HAGGAN, Mr John",Survived,Belfast,Man,35,Adult,Male,,Engineering Crew,E
+"HAGLAND, Mr Ingvald Olai Olsen",Died,Southampton,Man,28,Adult,Male,6.96666667,3rd Class Passenger,3
+"HAGLAND, Mr Konrad Mathias Reiersen",Died,Southampton,Man,19,Adult,Male,6.96666667,3rd Class Passenger,3
+"HAINES, Mr Albert",Survived,Belfast,Man,31,Adult,Male,,Deck Crew,D
+"HAKKARAINEN, Mr Pekka Pietari",Died,Southampton,Man,28,Adult,Male,15.85,3rd Class Passenger,3
+"HAKKARAINEN, Mrs Elin Matilda",Survived,Southampton,Woman,24,Adult,Female,15.85,3rd Class Passenger,3
+"HALE, Mr Reginald",Died,Southampton,Man,30,Adult,Male,13,2nd Class Passenger,2
+"HALFORD, Mr Walter Stamford",Survived,Southampton,Man,22,Adult,Male,,,V
+"HALL, Mr F. A. J.",Died,Southampton,Man,38,Adult,Male,,Victualling Crew,V
+"HALL, Mr J.",Died,Southampton,Man,32,Adult,Male,,Engineering Crew,E
+"HALLETT, Mr George Alexander",Died,Southampton,Man,22,Adult,Male,,Engineering Crew,E
+"HaMaLaINEN, Master Viljo Unto Johannes",Survived,Southampton,Child,0.58,Child,Male,14.5,2nd Class Passenger,2
+"HaMaLaINEN, Mrs Anna",Survived,Southampton,Woman,23,Adult,Female,14.5,2nd Class Passenger,2
+"HAMBLYN, Mr Ernest William",Died,Southampton,Man,46,Adult,Male,,Victualling Crew,V
+"HAMILTON, Mr Ernest",Died,Belfast,Man,25,Adult,Male,,Victualling Crew,V
+"HAMPE, Mr Lon Jrome",Died,Southampton,Man,19,Adult,Male,9.5,3rd Class Passenger,3
+"HANDS, Mr Bernard",Died,Southampton,Man,53,Adult,Male,,Engineering Crew,E
+"HANNA, Mr Boulos",Died,Cherbourg,Man,18,Adult,Male,7.22916667,3rd Class Passenger,3
+"HANNA, Mr Mansour",Died,Cherbourg,Man,35,Adult,Male,7.22916667,3rd Class Passenger,3
+"HANNAH, Mr Borak (Hannah Assi Borah)",Survived,Cherbourg,Man,27,Adult,Male,7.22916667,,3
+"HANNAM, Mr George",Died,Southampton,Man,29,Adult,Male,,Engineering Crew,E
+"HANSEN, Mr Claus Peter",Died,Southampton,Man,41,Adult,Male,14.1083333,3rd Class Passenger,3
+"HANSEN, Mr Henrik Juul",Died,Southampton,Man,26,Adult,Male,7.85416667,3rd Class Passenger,3
+"HANSEN, Mr Henry Damsgaard",Died,Southampton,Man,21,Adult,Male,7.85416667,3rd Class Passenger,3
+"HANSEN, Mrs Jennie Louise",Survived,Southampton,Woman,45,Adult,Female,14.1083333,3rd Class Passenger,3
+"HARBECK, Mr William H.",Died,Southampton,Man,44,Adult,Male,13,2nd Class Passenger,2
+"HARDER, Mr George Achilles",Survived,Cherbourg,Man,25,Adult,Male,55.4416667,1st Class Passenger,1
+"HARDER, Mr William",Survived,Southampton,Man,39,Adult,Male,,Deck Crew,D
+"HARDER, Mrs Dorothy",Survived,Cherbourg,Woman,21,Adult,Female,55.4416667,1st Class Passenger,1
+"HARDING, Mr Alfred John",Died,Southampton,Man,20,Adult,Male,,Victualling Crew,V
+"HARDWICK, Mr Reginald",Survived,Southampton,Man,21,Adult,Male,,Victualling Crew,V
+"HARDY, Mr John",Survived,Belfast,Man,40,Adult,Male,,Victualling Crew,V
+"HARGADON, Miss Catherine",Died,Queenstown,Woman,17,Adult,Female,7.73333333,,3
+"HARKNETT, Miss Alice Phoebe",Died,Southampton,Woman,21,Adult,Female,7.55,3rd Class Passenger,3
+"HARPER, Miss Annie Jessie",Survived,Southampton,Child,6,Child,Female,33,2nd Class Passenger,2
+"HARPER, Mr Henry Sleeper",Survived,Cherbourg,Man,48,Adult,Male,76.7291667,1st Class Passenger,1
+"HARPER, Mrs Myra Raymond",Survived,Cherbourg,Woman,49,Adult,Female,76.7291667,,1
+"HARPER, Rev. John",Died,Southampton,Man,39,Adult,Male,33,2nd Class Passenger,2
+"HARRINGTON, Mr Charles Henry",Died,Southampton,Man,37,Adult,Male,42.4,1st Class PassengerServant,1
+"HARRIS, Mr Amos",Died,Southampton,Man,23,Adult,Male,,Engineering Crew,E
+"HARRIS, Mr Charles William",Died,Southampton,Man,19,Adult,Male,,Victualling Crew,V
+"HARRIS, Mr Clifford Henry",Died,Southampton,Man,16,Adult,Male,,Victualling Crew,V
+"HARRIS, Mr Edward John",Died,Southampton,Man,28,Adult,Male,,Engineering Crew,E
+"HARRIS, Mr Edward Matthew",Died,Southampton,Man,18,Adult,Male,,Victualling Crew,V
+"HARRIS, Mr Frederick",Survived,Southampton,Man,39,Adult,Male,,Engineering Crew,E
+"HARRIS, Mr George",Survived,Southampton,Man,62,Adult,Male,10.5,2nd Class Passenger,2
+"HARRIS, Mr Henry Birkhardt",Died,Southampton,Man,45,Adult,Male,83.475,1st Class Passenger,1
+"HARRIS, Mr Walter",Died,Southampton,Man,44,Adult,Male,10.5,2nd Class Passenger,2
+"HARRIS, Mrs Irene",Survived,Southampton,Woman,35,Adult,Female,83.475,1st Class Passenger,1
+"HARRISON, Mr Araga Drummond",Survived,Southampton,Man,40,Adult,Male,,Victualling Crew,V
+"HARRISON, Mr Norman E.",Died,Belfast,Man,38,Adult,Male,,Engineering Crew,E
+"HARRISON, Mr William Henry",Died,Southampton,Man,45,Adult,Male,0,1st Class PassengerServant,1
+"HART, Miss Eva Miriam",Survived,Southampton,Child,7,Child,Female,26.25,2nd Class Passenger,2
+"HART, Mr Benjamin",Died,Southampton,Man,47,Adult,Male,26.25,2nd Class Passenger,2
+"HART, Mr Henry",Died,Queenstown,Man,28,Adult,Male,6.85833333,3rd Class Passenger,3
+"HART, Mr James",Died,Southampton,Man,49,Adult,Male,,Engineering Crew,E
+"HART, Mr John Edward",Survived,Southampton,Man,31,Adult,Male,,Victualling Crew,V
+"HART, Mrs Esther Ada",Survived,Southampton,Woman,48,Adult,Female,26.25,2nd Class Passenger,2
+"HARTLEY, Mr Wallace Henry",Died,Southampton,Man,33,Adult,Male,0,2nd Class PassengerMusician,2
+"HARTNELL, Mr Fred",Survived,Southampton,Man,21,Adult,Male,,Victualling Crew,V
+"HARVEY, Mr Herbert Gifford",Died,Belfast,Man,34,Adult,Male,,Engineering Crew,E
+"HASLIN, Mr James",Died,Southampton,Man,45,Adult,Male,,Engineering Crew,E
+"HASSAB, Mr Hammad",Survived,Cherbourg,Man,27,Adult,Male,76.7291667,1st Class PassengerServant,1
+"HASSAN ABILMONA, Mr Houssein Mohamed",Died,Cherbourg,Child,11,Child,Male,18.7875,3rd Class Passenger,3
+"HATCH, Mr Hugh",Died,Southampton,Man,23,Adult,Male,,Victualling Crew,V
+"HAWKESWORTH, Mr James",Died,Southampton,Man,38,Adult,Male,,Victualling Crew,V
+"HAWKESWORTH, Mr William Walter",Died,Southampton,Man,43,Adult,Male,,Victualling Crew,V
+"HAWKSFORD, Mr Walter James",Survived,Southampton,Man,45,Adult,Male,30,1st Class Passenger,1
+"HAYS, Miss Margaret Bechstein",Survived,Cherbourg,Woman,24,Adult,Female,83.1583333,1st Class Passenger,1
+"HAYS, Mr Charles Melville",Died,Southampton,Man,55,Adult,Male,93.5,1st Class Passenger,1
+"HAYS, Mrs Clara Jennings",Survived,Southampton,Woman,52,Adult,Female,93.5,1st Class Passenger,1
+"HAYTER, Mr Arthur",Died,Belfast,Man,44,Adult,Male,,Victualling Crew,V
+"HEAD, Mr Alfred",Died,Southampton,Man,24,Adult,Male,,Engineering Crew,E
+"HEAD, Mr Christopher",Died,Southampton,Man,42,Adult,Male,42.5,1st Class Passenger,1
+"HEALY, Miss Hanora Nora",Survived,Queenstown,Woman,29,Adult,Female,7.75,,3
+"HEBB, Mr William Albert",Survived,Southampton,Man,22,Adult,Male,,Engineering Crew,E
+"HEDMAN, Mr Oskar Arvid",Survived,Southampton,Man,27,Adult,Male,6.975,3rd Class Passenger,3
+"HEE, Mr Ling",Survived,Southampton,Man,24,Adult,Male,56.4958333,3rd Class Passenger,3
+"HEGARTY, Miss Hanora Nora",Died,Queenstown,Woman,18,Adult,Female,6.75,,3
+"HEIKKINEN, Miss Laina",Survived,Southampton,Woman,26,Adult,Female,7.925,3rd Class Passenger,3
+"HEINEN, Mr Joseph Dominichus",Died,Southampton,Man,30,Adult,Male,,Victualling Crew,V
+"HEININEN, Miss Wendla Maria",Died,Southampton,Woman,23,Adult,Female,7.925,3rd Class Passenger,3
+"HELLSTRM, Miss Hilda Maria",Survived,Southampton,Woman,22,Adult,Female,8.9625,3rd Class Passenger,3
+"HEMMING, Mr Samuel Ernest",Survived,Belfast,Man,43,Adult,Male,,Deck Crew,D
+"HENDEKOVIC, Mr Ignjac",Died,Southampton,Man,28,Adult,Male,7.89583333,3rd Class Passenger,3
+"HENDRICKSON, Mr Charles Osker",Survived,Southampton,Man,28,Adult,Male,,Engineering Crew,E
+"HENDY, Mr Edward Martin",Died,Belfast,Man,39,Adult,Male,,Victualling Crew,V
+"HENRIKSSON, Miss Jenny Lovisa",Died,Southampton,Woman,28,Adult,Female,7.775,3rd Class Passenger,3
+"HENRY, Miss Bridget Delia",Died,Queenstown,Woman,21,Adult,Female,7.75,3rd Class Passenger,3
+"HENSFORD, Mr Herbert George Ernest",Died,Southampton,Man,26,Adult,Male,,Victualling Crew,V
+"HERMAN, Miss Alice",Survived,Southampton,Woman,23,Adult,Female,65,2nd Class Passenger,2
+"HERMAN, Miss Kate",Survived,Southampton,Woman,23,Adult,Female,65,2nd Class Passenger,2
+"HERMAN, Mr Samuel",Died,Southampton,Man,49,Adult,Male,65,2nd Class Passenger,2
+"HERMAN, Mrs Jane",Survived,Southampton,Woman,48,Adult,Female,65,2nd Class Passenger,2
+"HESKETH, Mr John Henry",Died,Belfast,Man,33,Adult,Male,,Engineering Crew,E
+"HEWITT, Mr Thomas",Died,Belfast,Man,37,Adult,Male,,Victualling Crew,V
+"HEWLETT, Mrs Mary Dunbar",Survived,Southampton,Woman,56,Adult,Female,16,2nd Class Passenger,2
+"HICHENS, Mr Robert",Survived,Southampton,Man,29,Adult,Male,,Deck Crew,D
+"HICKMAN, Mr Leonard Mark",Died,Southampton,Man,24,Adult,Male,73.5,2nd Class Passenger,2
+"HICKMAN, Mr Lewis",Died,Southampton,Man,30,Adult,Male,73.5,2nd Class Passenger,2
+"HICKMAN, Mr Stanley George",Died,Southampton,Man,20,Adult,Male,73.5,2nd Class Passenger,2
+"HILL, Mr H. P.",Died,Southampton,Man,36,Adult,Male,,Victualling Crew,V
+"HILL, Mr James",Died,Southampton,Man,25,Adult,Male,,Engineering Crew,E
+"HILL, Mr James Colston",Died,Belfast,Man,38,Adult,Male,,Victualling Crew,V
+"HILLIARD, Mr Herbert Henry",Died,Southampton,Man,44,Adult,Male,51.8625,1st Class Passenger,1
+"HILTUNEN, Miss Marta",Died,Southampton,Woman,18,Adult,Female,13,2nd Class Passenger,2
+"HINCKLEY, Mr George Herbert",Died,Southampton,Man,39,Adult,Male,,Victualling Crew,V
+"HINE, Mr William Edward",Died,Southampton,Man,36,Adult,Male,,Victualling Crew,V
+"HINTON, Mr Stephen William",Died,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"HIPKINS, Mr William Edward",Died,Southampton,Man,55,Adult,Male,50,1st Class Passenger,1
+"HIPPACH, Miss Jean Gertrude",Survived,Cherbourg,Woman,17,Adult,Female,57.9791667,1st Class Passenger,1
+"HIPPACH, Mrs Ida Sophia",Survived,Cherbourg,Woman,44,Adult,Female,57.9791667,1st Class Passenger,1
+"HIRVONEN, Miss Hildur Elisabeth",Survived,Southampton,Child,2,Child,Female,12.2875,3rd Class Passenger,3
+"HIRVONEN, Mrs Helga Elisabeth Lindqvist",Survived,Southampton,Woman,22,Adult,Female,12.2875,3rd Class Passenger,3
+"HISCOCK, Mr Sydney George",Died,Southampton,Man,22,Adult,Male,,Victualling Crew,V
+"HOARE, Mr Leonard James",Died,Belfast,Man,16,Adult,Male,,Victualling Crew,V
+"HOCKING, Miss Ellen Nellie",Survived,Southampton,Woman,20,Adult,Female,23,,2
+"HOCKING, Mr Richard George",Died,Southampton,Man,23,Adult,Male,11.5,2nd Class Passenger,2
+"HOCKING, Mr Samuel James Metcalfe",Died,Southampton,Man,36,Adult,Male,13,2nd Class Passenger,2
+"HOCKING, Mrs Elizabeth Eliza",Survived,Southampton,Woman,54,Adult,Female,23,,2
+"HODGE, Mr Charley",Died,Belfast,Man,29,Adult,Male,,Engineering Crew,E
+"HODGES, Mr Henry Price",Died,Southampton,Man,50,Adult,Male,13,2nd Class Passenger,2
+"HODGES, Mr W.",Died,Southampton,Man,26,Adult,Male,,Engineering Crew,E
+"HODGKINSON, Mr Leonard",Died,Belfast,Man,46,Adult,Male,,Engineering Crew,E
+"HOGEBOOM, Mrs Anna Louisa",Survived,Cherbourg,Woman,51,Adult,Female,77.9583333,1st Class Passenger,1
+"HOGG, Mr Charles William",Died,Southampton,Man,43,Adult,Male,,Victualling Crew,V
+"HOGG, Mr George Alfred",Survived,Belfast,Man,29,Adult,Male,,Deck Crew,D
+"HOGUE, Mr E.",Died,Southampton,Man,22,Adult,Male,,Victualling Crew,V
+"HOLD, Mr Stephen",Died,Southampton,Man,44,Adult,Male,26,2nd Class Passenger,2
+"HOLD, Mrs Annie Margaret",Survived,Southampton,Woman,29,Adult,Female,26,2nd Class Passenger,2
+"HOLLAND, Mr Thomas",Died,Belfast,Man,28,Adult,Male,,Victualling Crew,V
+"HOLLOWAY, Mr Sidney",Died,Southampton,Man,20,Adult,Male,,Victualling Crew,V
+"HOLM, Mr John Fredrik Alexander",Died,Southampton,Man,43,Adult,Male,6.45,3rd Class Passenger,3
+"HOLMAN, Mr Harry",Died,Belfast,Man,28,Adult,Male,,Deck Crew,D
+"HOLTHEN, Mr Johan Martin",Died,Southampton,Man,28,Adult,Male,22.525,3rd Class Passenger,3
+"HOLVERSON, Mr Alexander Oskar",Died,Southampton,Man,42,Adult,Male,52,1st Class Passenger,1
+"HOLVERSON, Mrs Mary Aline",Survived,Southampton,Woman,35,Adult,Female,52,1st Class Passenger,1
+"HOMER, Mr Harry",Survived,Southampton,Man,40,Adult,Male,26.55,1st Class Passenger,1
+"HONKANEN, Miss Eliina",Survived,Southampton,Woman,27,Adult,Female,7.925,3rd Class Passenger,3
+"HOOD, Mr Ambrose Jr",Died,Southampton,Man,21,Adult,Male,73.5,2nd Class Passenger,2
+"HOPGOOD, Mr Roland John C.",Died,Southampton,Man,28,Adult,Male,,Engineering Crew,E
+"HOPKINS, Mr Frederick William",Died,Southampton,Man,16,Adult,Male,,Victualling Crew,V
+"HOPKINS, Mr Robert John",Survived,Southampton,Man,40,Adult,Male,,Deck Crew,D
+"HORGAN, Mr John",Died,Queenstown,Man,22,Adult,Male,7.75,3rd Class Passenger,3
+"HORSWILL, Mr Albert Edward James",Survived,Southampton,Man,33,Adult,Male,,Deck Crew,D
+"HOSGOOD, Mr Richard William",Died,Southampton,Man,22,Adult,Male,,Engineering Crew,E
+"HOSKING, Mr George Fox",Died,Belfast,Man,36,Adult,Male,,Engineering Crew,E
+"HOSONO, Mr Masabumi",Survived,Southampton,Man,41,Adult,Male,13,2nd Class Passenger,2
+"HOUSE, Mr William John",Died,Belfast,Man,38,Adult,Male,,Victualling Crew,V
+"HOWARD, Miss May Elizabeth",Survived,Southampton,Woman,26,Adult,Female,8.05,3rd Class Passenger,3
+"HOWARD, Mr Benjamin",Died,Southampton,Man,63,Adult,Male,26,2nd Class Passenger,2
+"HOWARD, Mrs Ellen Truelove",Died,Southampton,Woman,61,Adult,Female,26,2nd Class Passenger,2
+"HOWELL, Mr Arthur Albert",Died,Belfast,Man,31,Adult,Male,,Victualling Crew,V
+"HOYT, Mr Frederick Maxfield",Survived,Southampton,Man,38,Adult,Male,100,1st Class Passenger,1
+"HOYT, Mr William Fisher",Died,Cherbourg,Man,42,Adult,Male,30.6958333,1st Class Passenger,1
+"HOYT, Mrs Jane Anne",Survived,Southampton,Woman,31,Adult,Female,100,1st Class Passenger,1
+"HUGHES, Mr William Thomas",Died,Southampton,Man,33,Adult,Male,,Victualling Crew,V
+"HUMBLEN, Mr Adolf Mathias Nicolai Olsen",Died,Southampton,Man,42,Adult,Male,7.65,3rd Class Passenger,3
+"HUMBY, Mr Frederick Charles",Died,Southampton,Man,17,Adult,Male,,Victualling Crew,V
+"HUME, Mr John Law",Died,Southampton,Man,21,Adult,Male,0,2nd Class PassengerMusician,2
+"HUMPHREYS, Mr Humphrey",Died,Southampton,Man,31,Adult,Male,,Victualling Crew,V
+"HUMPHREYS, Mr Sidney James",Survived,Southampton,Man,48,Adult,Male,,Deck Crew,D
+"HUNT, Mr Albert Sylvanus",Survived,Southampton,Man,23,Adult,Male,,Engineering Crew,E
+"HUNT, Mr George Henry",Died,Southampton,Man,33,Adult,Male,12.275,2nd Class Passenger,2
+"HUNT, Mr Tom",Died,Southampton,Man,27,Adult,Male,,Engineering Crew,E
+"HURST, Mr Charles John",Died,Southampton,Man,35,Adult,Male,,Engineering Crew,E
+"HURST, Mr Walter",Survived,Southampton,Man,23,Adult,Male,,Engineering Crew,E
+"HUTCHINSON, Mr James",Died,Southampton,Man,28,Adult,Male,,Victualling Crew,V
+"HUTCHINSON, Mr John Hall",Died,Belfast,Man,26,Adult,Male,,Deck Crew,D
+"HYLAND, Mr James Leo",Survived,Southampton,Man,19,Adult,Male,,Victualling Crew,V
+"HYMAN, Mr Abraham Joseph",Survived,Southampton,Man,34,Adult,Male,7.8875,3rd Class Passenger,3
+"IBRAHIM SHAWAH, Mr Yousseff",Died,Cherbourg,Man,33,Adult,Male,14.4583333,3rd Class Passenger,3
+"ICARD, Miss Rose Amlie",Survived,Southampton,Woman,39,Adult,Female,80,1st Class PassengerServant,1
+"IDE, Mr Harry John",Died,Southampton,Man,31,Adult,Male,,Victualling Crew,V
+"ILETT, Miss Bertha",Survived,Southampton,Woman,17,Adult,Female,10.5,2nd Class Passenger,2
+"ILIEFF, Mr Ylio",Died,Southampton,Man,32,Adult,Male,7.89583333,3rd Class Passenger,3
+"ILMAKANGAS, Miss Ida Livija",Died,Southampton,Woman,27,Adult,Female,7.925,3rd Class Passenger,3
+"ILMAKANGAS, Miss Pieta Sofia",Died,Southampton,Woman,25,Adult,Female,7.925,3rd Class Passenger,3
+"INGRAM, Mr George",Died,Southampton,Man,20,Adult,Male,,Engineering Crew,E
+"INGROUILLE, Mr Henry",Died,Southampton,Man,21,Adult,Male,,Victualling Crew,V
+"INGS, Mr William Ernest",Died,Southampton,Man,20,Adult,Male,,Victualling Crew,V
+"INSTANCE, Mr T.",Died,Southampton,Man,33,Adult,Male,,Engineering Crew,E
+"ISHAM, Miss Ann Elizabeth",Died,Cherbourg,Woman,50,Adult,Female,28.7125,1st Class Passenger,1
+"ISMAY, Mr Joseph Bruce",Survived,Southampton,Man,49,Adult,Male,0,1st Class Passenger,1
+"IVANOFF, Mr Kanio",Died,Southampton,Man,20,Adult,Male,7.89583333,3rd Class Passenger,3
+"JABBUR (ZABOUR), Miss Hileni",Died,Cherbourg,Woman,16,Adult,Female,14.4541667,3rd Class Passenger,3
+"JABBUR (ZABOUR), Miss Thamine",Died,Cherbourg,Woman,19,Adult,Female,14.4541667,3rd Class Passenger,3
+"JACKOPSON, Mr John Henry",Died,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"JACKSON, Mr Cecil",Died,Belfast,Man,22,Adult,Male,,Victualling Crew,V
+"JACOBSOHN, Mr Sidney Samuel",Died,Southampton,Man,43,Adult,Male,27,2nd Class Passenger,2
+"JACOBSOHN, Mrs Amy Frances Christy",Survived,Southampton,Woman,24,Adult,Female,27,2nd Class Passenger,2
+"JAGO, Mr Joseph",Died,Southampton,Man,57,Adult,Male,,Engineering Crew,E
+"JAILLET, Mr Henri Marie",Died,Southampton,Man,38,Adult,Male,,Restaurant Staff,R
+"JAL?EVAC, Mr Ivan",Survived,Cherbourg,Man,29,Adult,Male,7.89583333,3rd Class Passenger,3
+"JAMES, Mr Thomas",Died,Southampton,Man,27,Adult,Male,,Engineering Crew,E
+"JANAWAY, Mr William Frank",Died,Belfast,Man,35,Adult,Male,,Victualling Crew,V
+"JANIN, Mr Claude Marie",Died,Southampton,Man,29,Adult,Male,,Restaurant Staff,R
+"JANSSON, Mr Carl Olof",Survived,Southampton,Man,21,Adult,Male,7.79583333,3rd Class Passenger,3
+"JARDIM, Mr Jos Neto",Died,Southampton,Man,21,Adult,Male,7.05,3rd Class Passenger,3
+"JARVIS, Mr Denzil John",Died,Southampton,Man,47,Adult,Male,15,2nd Class Passenger,2
+"JEFFERY, Mr William Alfred",Died,Southampton,Man,28,Adult,Male,,Restaurant Staff,R
+"JEFFERYS, Mr Clifford Thomas",Died,Southampton,Man,24,Adult,Male,31.5,2nd Class Passenger,2
+"JEFFERYS, Mr Ernest Wilfred",Died,Southampton,Man,22,Adult,Male,31.5,2nd Class Passenger,2
+"JENKIN, Mr Stephen Curnow",Died,Southampton,Man,32,Adult,Male,10.5,2nd Class Passenger,2
+"JENNER, Mr Thomas Henry (Harry)",Died,Belfast,Man,55,Adult,Male,,Victualling Crew,V
+"JENSEN, Mr Charles Valdemar",Died,Southampton,Man,25,Adult,Male,,Victualling Crew,V
+"JENSEN, Mr Hans Peder",Died,Southampton,Man,20,Adult,Male,7.85416667,3rd Class Passenger,3
+"JENSEN, Mr Niels Peder (Rasmus)",Died,Southampton,Man,48,Adult,Male,7.05416667,,3
+"JENSEN, Mr Svend Lauritz",Died,Southampton,Man,17,Adult,Male,7.85416667,3rd Class Passenger,3
+"JERMYN, Miss Annie Jane",Survived,Queenstown,Woman,26,Adult,Female,7.75,3rd Class Passenger,3
+"JERWAN, Mrs Marie Marthe",Survived,Cherbourg,Woman,23,Adult,Female,13.7916667,2nd Class Passenger,2
+"JESSOP, Miss Violet Constance",Survived,Southampton,Woman,24,Adult,Female,,Victualling Crew,V
+"JEWELL, Mr Archie",Survived,Belfast,Man,23,Adult,Male,,Deck Crew,D
+"JOAS, Mr N.",Died,Southampton,Man,38,Adult,Male,,Engineering Crew,E
+"JOHANNESEN, Mr Bernt Johannes",Survived,Southampton,Man,29,Adult,Male,8.1125,3rd Class Passenger,3
+"JOHANSON, Mr Jakob Alfred",Died,Southampton,Man,34,Adult,Male,6.49583333,3rd Class Passenger,3
+"JOHANSSON PALMQUIST, Mr Oskar Leander",Survived,Southampton,Man,26,Adult,Male,7.775,3rd Class Passenger,3
+"JOHANSSON, Mr Erik",Died,Southampton,Man,22,Adult,Male,7.79583333,3rd Class Passenger,3
+"JOHANSSON, Mr Gustaf Joel",Died,Southampton,Man,33,Adult,Male,8.65416667,3rd Class Passenger,3
+"JOHANSSON, Mr Karl Johan",Died,Southampton,Man,31,Adult,Male,7.775,3rd Class Passenger,3
+"JOHANSSON, Mr Nils",Died,Southampton,Man,29,Adult,Male,7.85416667,3rd Class Passenger,3
+"JOHNSON, Master Harold Theodor",Survived,Southampton,Child,4,Child,Male,11.1333333,3rd Class Passenger,3
+"JOHNSON, Miss Eleanor Ileen",Survived,Southampton,Child,1,Child,Female,11.1333333,3rd Class Passenger,3
+"JOHNSON, Mr August",Died,Southampton,Man,49,Adult,Male,0,3rd Class Passenger,3
+"JOHNSON, Mr Malkolm Joackim",Died,Southampton,Man,33,Adult,Male,7.775,3rd Class Passenger,3
+"JOHNSON, Mr William Cahoone Jr.",Died,Southampton,Man,19,Adult,Male,0,3rd Class Passenger,3
+"JOHNSON, Mrs Elisabeth Vilhelmina",Survived,Southampton,Woman,26,Adult,Female,11.1333333,3rd Class Passenger,3
+"JOHNSTON, Master William Andrew",Died,Southampton,Child,8,Child,Male,23.45,3rd Class Passenger,3
+"JOHNSTON, Miss Catherine Nellie",Died,Southampton,Child,7,Child,Female,23.45,3rd Class Passenger,3
+"JOHNSTON, Mr Andrew Emslie",Died,Southampton,Man,35,Adult,Male,23.45,3rd Class Passenger,3
+"JOHNSTON, Mr James",Survived,Belfast,Man,41,Adult,Male,,Victualling Crew,V
+"JOHNSTON, Mrs Eliza",Died,Southampton,Woman,34,Adult,Female,23.45,3rd Class Passenger,3
+"JONES, Mr Albert",Died,Southampton,Man,17,Adult,Male,,Victualling Crew,V
+"JONES, Mr Arthur Ernest",Died,Southampton,Man,37,Adult,Male,,Victualling Crew,V
+"JONES, Mr Charles Cresson",Died,Southampton,Man,46,Adult,Male,26,1st Class Passenger,1
+"JONES, Mr H.",Died,Southampton,Man,29,Adult,Male,,Victualling Crew,V
+"JONES, Mr Thomas William",Survived,Southampton,Man,32,Adult,Male,,Deck Crew,D
+"JONES, Mr Victor Reginald",Died,Southampton,Man,20,Adult,Male,,Victualling Crew,V
+"JONKOFF, Mr Lalio",Died,Southampton,Man,23,Adult,Male,7.89583333,3rd Class Passenger,3
+"JONSSON, Mr Carl",Survived,Southampton,Man,25,Adult,Male,7.85416667,3rd Class Passenger,3
+"JNSSON, Mr Nils Hilding",Died,Southampton,Man,27,Adult,Male,7.85416667,3rd Class Passenger,3
+"JOSEPH (SHAHIN), Mr Elias",Died,Cherbourg,Man,39,Adult,Male,7.22916667,3rd Class Passenger,3
+"JOUANNAULT, Mr Georges Jules",Died,Southampton,Man,24,Adult,Male,,Restaurant Staff,R
+"JOUGHIN, Mr Charles John",Survived,Belfast,Man,32,Adult,Male,,Victualling Crew,V
+"JUDD, Mr Charles Edward",Survived,Southampton,Man,31,Adult,Male,,Engineering Crew,E
+"JUKES, Mr Henry James",Died,Southampton,Man,38,Adult,Male,,Engineering Crew,E
+"JULIAN, Mr Henry Forbes",Died,Southampton,Man,50,Adult,Male,26,1st Class Passenger,1
+"JUPE, Mr Boykett Herbert",Died,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"JUSSILA, Miss Katriina",Died,Southampton,Woman,20,Adult,Female,9.84166667,3rd Class Passenger,3
+"JUSSILA, Miss Mari Aina",Died,Southampton,Woman,21,Adult,Female,9.84166667,3rd Class Passenger,3
+"JUSSILA, Mr Eiriik",Survived,Southampton,Man,32,Adult,Male,7.925,3rd Class Passenger,3
+"KALLIO, Mr Nikolai Erland",Died,Southampton,Man,17,Adult,Male,7.125,3rd Class Passenger,3
+"KALVIK, Mr Johannes Halvorsen",Died,Southampton,Man,21,Adult,Male,8.43333333,3rd Class Passenger,3
+"KANTOR, Mr Sinai",Died,Southampton,Man,34,Adult,Male,26,2nd Class Passenger,2
+"KANTOR, Mrs Miriam",Survived,Southampton,Woman,24,Adult,Female,26,2nd Class Passenger,2
+"KARAJIC, Mr Milan",Died,Southampton,Man,30,Adult,Male,7.89583333,3rd Class Passenger,3
+"KARLSSON, Mr Einar Gervasius",Survived,Southampton,Man,21,Adult,Male,7.79583333,3rd Class Passenger,3
+"KARLSSON, Mr Julius Konrad Eugen",Died,Southampton,Man,33,Adult,Male,7.85416667,3rd Class Passenger,3
+"KARLSSON, Mr Nils August",Died,Southampton,Man,22,Adult,Male,7.52083333,3rd Class Passenger,3
+"KARNES, Mrs Claire",Died,Southampton,Woman,28,Adult,Female,21,2nd Class Passenger,2
+"KARUN, Miss Manca",Survived,Cherbourg,Child,4,Child,Female,13.4166667,3rd Class Passenger,3
+"KARUN, Mr Franz",Survived,Cherbourg,Man,39,Adult,Male,13.4166667,3rd Class Passenger,3
+"KASPER, Mr F.",Survived,Southampton,Man,40,Adult,Male,,Engineering Crew,E
+"KASSEM HOUSSEIN, Mr Fared",Died,Cherbourg,Man,18,Adult,Male,7.22916667,3rd Class Passenger,3
+"KATAVELOS, Mr Vasilios G.",Died,Cherbourg,Man,19,Adult,Male,7.22916667,3rd Class Passenger,3
+"KEANE, Miss Nora Agnes",Survived,Queenstown,Woman,46,Adult,Female,12.35,2nd Class Passenger,2
+"KEANE, Mr Andrew Andy",Died,Queenstown,Man,23,Adult,Male,7.75,,3
+"KEANE, Mr Daniel",Died,Queenstown,Man,35,Adult,Male,12.35,2nd Class Passenger,2
+"KEARL, Mr Charles Henry",Died,Southampton,Man,44,Adult,Male,,Engineering Crew,E
+"KEARL, Mr George Edward",Died,Southampton,Man,24,Adult,Male,,Engineering Crew,E
+"KEEFE, Mr Arthur",Died,Southampton,Man,39,Adult,Male,7.25,3rd Class Passenger,3
+"KEEN, Mr Percy Edward",Survived,Southampton,Man,30,Adult,Male,,Victualling Crew,V
+"KEEPING, Mr Edwin Herbert",Died,Southampton,Man,33,Adult,Male,211.5,1st Class PassengerServant,1
+"KELLAND, Mr Thomas",Died,Southampton,Man,18,Adult,Male,,Victualling Crew,V
+"KELLY, Miss Anna Katherine",Survived,Queenstown,Woman,20,Adult,Female,7.75,3rd Class Passenger,3
+"KELLY, Miss Mary",Survived,Queenstown,Woman,22,Adult,Female,7.75,3rd Class Passenger,3
+"KELLY, Mr James",Died,Southampton,Man,19,Adult,Male,8.05,3rd Class Passenger,3
+"KELLY, Mr James",Died,Queenstown,Man,44,Adult,Male,8.05,3rd Class Passenger,3
+"KELLY, Mr James",Died,Southampton,Man,44,Adult,Male,8.05,3rd Class Passenger,3
+"KELLY, Mr William",Died,Belfast,Man,23,Adult,Male,,Engineering Crew,E
+"KELLY, Mrs Fanny Maria",Survived,Southampton,Woman,45,Adult,Female,13.5,2nd Class Passenger,2
+"KEMISH, Mr George",Survived,Southampton,Man,22,Adult,Male,,Engineering Crew,E
+"KEMP, Mr Thomas Hulman",Died,Belfast,Man,43,Adult,Male,,Engineering Crew,E
+"KENCHENTEN, Mr Frederick Charles",Died,Southampton,Man,36,Adult,Male,,Engineering Crew,E
+"KENNEDY, Mr John",Survived,Queenstown,Man,24,Adult,Male,7.75,3rd Class Passenger,3
+"KENNELL, Mr Charles",Died,Southampton,Man,30,Adult,Male,,Victualling Crew,V
+"KENT, Mr Edward Austin",Died,Cherbourg,Man,58,Adult,Male,29.7,1st Class Passenger,1
+"KENYON, Mr Frederick Roland",Died,Southampton,Man,41,Adult,Male,51.8625,,1
+"KENYON, Mrs Marion Estelle",Survived,Southampton,Woman,40,Adult,Female,0,,1
+"KENZLER, Mr August",Died,Belfast,Man,43,Adult,Male,,Engineering Crew,E
+"KERLEY, Mr William Thomas",Died,Southampton,Man,28,Adult,Male,,Victualling Crew,V
+"KERR, Mr Thomas Russell",Died,Southampton,Man,26,Adult,Male,,Engineering Crew,E
+"KETCHLEY, Mr Henry",Died,Belfast,Man,35,Adult,Male,,Victualling Crew,V
+"KHALIL, Mr Betros",Died,Cherbourg,Man,25,Adult,Male,14.4541667,3rd Class Passenger,3
+"KHALIL, Mrs Zahie Maria",Died,Cherbourg,Woman,20,Adult,Female,14.4541667,,3
+"KIERAN, Mr Edgar Michael",Died,Southampton,Man,34,Adult,Male,,Victualling Crew,V
+"KIERAN, Mr James William",Died,Southampton,Man,34,Adult,Male,,Victualling Crew,V
+"KIERNAN, Mr John",Died,Queenstown,Man,25,Adult,Male,7.75,3rd Class Passenger,3
+"KIERNAN, Mr Philip",Died,Queenstown,Man,22,Adult,Male,7.75,3rd Class Passenger,3
+"KILGANNON, Mr Thomas",Died,Queenstown,Man,22,Adult,Male,7.7375,3rd Class Passenger,3
+"KIMBALL, Mr Edwin Nelson Jr.",Survived,Southampton,Man,42,Adult,Male,52.5541667,1st Class Passenger,1
+"KIMBALL, Mrs Susan Gertrude",Survived,Southampton,Woman,45,Adult,Female,51.8625,,1
+"KING, Mr Alfred John Moffett",Died,Southampton,Man,18,Adult,Male,,Victualling Crew,V
+"KING, Mr Ernest Waldron",Died,Southampton,Man,28,Adult,Male,,Victualling Crew,V
+"KING, Mr G.",Died,Southampton,Man,20,Adult,Male,,Victualling Crew,V
+"KING, Mr Thomas Walter",Died,Southampton,Man,42,Adult,Male,,Deck Crew,D
+"KINGSCOTE, Mr William Ford",Died,Southampton,Man,42,Adult,Male,,Victualling Crew,V
+"KINK-HEILMANN, Miss Luise Gretchen",Survived,Southampton,Child,4,Child,Female,22,3rd Class Passenger,3
+"KINK-HEILMANN, Mrs Luise",Survived,Southampton,Woman,26,Adult,Female,22,3rd Class Passenger,3
+"KINK, Miss Maria",Died,Southampton,Woman,22,Adult,Female,8.6625,3rd Class Passenger,3
+"KINK, Mr Anton",Survived,Southampton,Man,29,Adult,Male,22,3rd Class Passenger,3
+"KINK, Mr Vincenz",Died,Southampton,Man,26,Adult,Male,8.6625,3rd Class Passenger,3
+"KINSELLA, Mr Louis",Died,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"KIRKALDY, Mr Thomas Benjamin",Died,Southampton,Man,39,Adult,Male,,Victualling Crew,V
+"KIRKHAM, Mr James",Died,Southampton,Man,38,Adult,Male,,Engineering Crew,E
+"KIRKLAND, Fr Charles Leonard",Died,Queenstown,Man,52,Adult,Male,12.35,2nd Class Passenger,2
+"KITCHING, Mr Arthur Alfred",Died,Southampton,Man,30,Adult,Male,,Victualling Crew,V
+"KLABER, Mr Herman",Died,Southampton,Man,45,Adult,Male,26.55,1st Class Passenger,1
+"KLASeN, Miss Gertrud Emilia",Died,Southampton,Child,1,Child,Female,12.1833333,3rd Class Passenger,3
+"KLASeN, Mr Klas Albin",Died,Southampton,Man,18,Adult,Male,7.85416667,3rd Class Passenger,3
+"KLASeN, Mrs Hulda Kristina Eugenia",Died,Southampton,Woman,36,Adult,Female,12.1833333,3rd Class Passenger,3
+"KLEIN, Mr Herbert",Died,Southampton,Man,33,Adult,Male,,Victualling Crew,V
+"KNIGHT, Mr George",Survived,Southampton,Man,44,Adult,Male,,Victualling Crew,V
+"KNIGHT, Mr Leonard George",Died,Southampton,Man,21,Adult,Male,,Victualling Crew,V
+"KNIGHT, Mr Robert",Died,Belfast,Man,39,Adult,Male,0,2nd Class PassengerH&W Guarantee Group,2
+"KNOWLES, Mr Thomas",Survived,Southampton,Man,42,Adult,Male,,Engineering Crew,E
+"KRAEFF, Mr Theodor",Died,Cherbourg,Man,,Adult,Male,7.89583333,3rd Class Passenger,3
+"KREKORIAN, Mr Neshan",Survived,Cherbourg,Man,25,Adult,Male,7.22916667,3rd Class Passenger,3
+"KREUCHEN, Miss Emilie",Survived,Southampton,Woman,29,Adult,Female,211.3375,1st Class PassengerServant,1
+"KRINS, Mr Georges Alexandre",Died,Southampton,Man,23,Adult,Male,0,2nd Class PassengerMusician,2
+"KUTSCHER (LITHMAN), Mr Simon",Died,Southampton,Man,26,Adult,Male,7.55,3rd Class Passenger,3
+"KVILLNER, Mr Johan Henrik Johannesson",Died,Southampton,Man,31,Adult,Male,10.5,2nd Class Passenger,2
+"LACEY, Mr Bertie William",Died,Southampton,Man,19,Adult,Male,,Victualling Crew,V
+"LAHHuD ISHAQ MU'AWWAD, Mr Sarks",Died,Cherbourg,Man,35,Adult,Male,7.225,,3
+"LAHTINEN, Fr William",Died,Southampton,Man,35,Adult,Male,26,2nd Class Passenger,2
+"LAHTINEN, Mrs Anna Amelia",Died,Southampton,Woman,34,Adult,Female,26,2nd Class Passenger,2
+"LAHY, Mr T. E.",Died,Southampton,Man,32,Adult,Male,,Engineering Crew,E
+"LAITINEN, Miss Kristina Sofia",Died,Southampton,Woman,37,Adult,Female,9.5875,3rd Class Passenger,3
+"LAKE, Mr William",Died,Belfast,Man,35,Adult,Male,,Victualling Crew,V
+"LALEFF, Mr Kristo",Died,Southampton,Man,23,Adult,Male,7.89583333,3rd Class Passenger,3
+"LAM, Mr Ali",Survived,Southampton,Man,38,Adult,Male,56.4958333,3rd Class Passenger,3
+"LAM, Mr Len",Died,Southampton,Man,23,Adult,Male,56.4958333,3rd Class Passenger,3
+"LAMB, Mr John Joseph",Died,Queenstown,Man,30,Adult,Male,10.7083333,2nd Class Passenger,2
+"LANDERGREN, Miss Aurora Adelia",Survived,Southampton,Woman,22,Adult,Female,7.25,3rd Class Passenger,3
+"LANE, Mr Albert Edward",Died,Southampton,Man,34,Adult,Male,,Victualling Crew,V
+"LANE, Mr Patrick",Died,Queenstown,Man,16,Adult,Male,7.75,3rd Class Passenger,3
+"LANG, Mr Fang",Survived,Southampton,Man,32,Adult,Male,56.4958333,3rd Class Passenger,3
+"LAROCHE, Miss Louise",Survived,Cherbourg,Child,1,Child,Female,41.5791667,2nd Class Passenger,2
+"LAROCHE, Miss Simonne Marie Anne Andre",Survived,Cherbourg,Child,3,Child,Female,41.5791667,2nd Class Passenger,2
+"LAROCHE, Mr Joseph Philippe Lemercier",Died,Cherbourg,Man,25,Adult,Male,41.5791667,2nd Class Passenger,2
+"LAROCHE, Mrs Juliette Marie Louise",Survived,Cherbourg,Woman,22,Adult,Female,41.5791667,2nd Class Passenger,2
+"LARSSON-RONDBERG, Mr Edvard A.",Died,Southampton,Man,22,Adult,Male,7.775,3rd Class Passenger,3
+"LARSSON, Mr August Viktor",Died,Southampton,Man,29,Adult,Male,9.48333333,3rd Class Passenger,3
+"LARSSON, Mr Bengt Edvin",Died,Southampton,Man,29,Adult,Male,7.775,3rd Class Passenger,3
+"LATIMER, Mr Andrew L",Died,Belfast,Man,55,Adult,Male,,Victualling Crew,V
+"LAVINGTON, Miss Elizabeth",Survived,Southampton,Woman,40,Adult,Female,,Victualling Crew,V
+"LAWRENCE, Mr Arthur",Died,Belfast,Man,35,Adult,Male,,Victualling Crew,V
+"LEADER, Dr Alice May",Survived,Southampton,Woman,49,Adult,Female,25.929167,,1
+"LEADER, Mr Archibald",Died,Southampton,Man,22,Adult,Male,,Victualling Crew,V
+"LEATHER, Mrs Elizabeth Mary",Survived,Southampton,Woman,41,Adult,Female,,Victualling Crew,V
+"LEE, Mr H.",Died,Southampton,Man,18,Adult,Male,,Engineering Crew,E
+"LEE, Mr Henry Reginald",Survived,Southampton,Man,29,Adult,Male,,Victualling Crew,V
+"LEE, Mr Reginald Robinson",Survived,Southampton,Man,41,Adult,Male,,Deck Crew,D
+"LEFEBVRE, Master Henry",Died,Southampton,Child,5,Child,Male,25.4666667,3rd Class Passenger,3
+"LEFEBVRE, Miss Ida",Died,Southampton,Child,3,Child,Female,25.4666667,3rd Class Passenger,3
+"LEFEBVRE, Miss Jeannie",Died,Southampton,Child,8,Child,Female,25.4666667,3rd Class Passenger,3
+"LEFEBVRE, Miss Mathilde",Died,Southampton,Child,12,Child,Female,25.4666667,3rd Class Passenger,3
+"LEFEBVRE, Mr Paul Georges",Died,Southampton,Man,35,Adult,Male,,Victualling Crew,V
+"LEFEBVRE, Mrs Frances Marie",Died,Southampton,Woman,40,Adult,Female,25.4666667,3rd Class Passenger,3
+"LEHMANN, Miss Bertha",Survived,Cherbourg,Woman,17,Adult,Female,12,2nd Class Passenger,2
+"LEINONEN, Mr Antti Gustaf",Died,Southampton,Man,32,Adult,Male,7.925,3rd Class Passenger,3
+"LEITCH, Miss Jessie Wills",Survived,Southampton,Woman,31,Adult,Female,33,2nd Class Passenger,2
+"LEMORE, Mrs Amelia",Survived,Southampton,Woman,46,Adult,Female,10.5,,2
+"LENNON, Mr Denis",Died,Queenstown,Man,20,Adult,Male,15.5,3rd Class Passenger,3
+"LEONARD, Mr Lionel",Died,Southampton,Man,36,Adult,Male,0,3rd Class Passenger,3
+"LEONARD, Mr Matthew",Died,Belfast,Man,25,Adult,Male,,Victualling Crew,V
+"LEROY, Miss Berthe",Survived,Cherbourg,Woman,27,Adult,Female,106.425,1st Class PassengerServant,1
+"LESTER, Mr James",Died,Southampton,Man,26,Adult,Male,24.15,3rd Class Passenger,3
+"LESUEUR, Mr Gustave J.",Survived,Cherbourg,Man,35,Adult,Male,512.329167,1st Class PassengerServant,1
+"LEVETT, Mr George Alfred",Died,Belfast,Man,21,Adult,Male,,Victualling Crew,V
+"LVY, Mr Ren Jacques",Died,Southampton,Man,36,Adult,Male,12.875,2nd Class Passenger,2
+"LEWIS, Mr Arthur Ernest Read",Survived,Southampton,Man,27,Adult,Male,,Victualling Crew,V
+"LEWY, Mr Ervin G.",Died,Cherbourg,Man,30,Adult,Male,27.7208333,1st Class Passenger,1
+"LEYSON, Mr Robert William Norman",Died,Southampton,Man,25,Adult,Male,10.5,2nd Class Passenger,2
+"LIEVENS, Mr Ren Aim",Died,Southampton,Man,24,Adult,Male,9.5,3rd Class Passenger,3
+"LIGHT, Mr Charles Edward",Died,Southampton,Man,23,Adult,Male,,Victualling Crew,V
+"LIGHT, Mr Christopher William",Died,Southampton,Man,20,Adult,Male,,Engineering Crew,E
+"LIGHT, Mr W.",Died,Southampton,Man,47,Adult,Male,,Engineering Crew,E
+"LIGHTOLLER, Mr Charles Herbert",Survived,Belfast,Man,38,Adult,Male,,Deck CrewTitanic Officers,D
+"LINDAHL, Miss Agda Thorilda Viktoria",Died,Southampton,Woman,25,Adult,Female,7.775,3rd Class Passenger,3
+"LINDBLOM, Miss Augusta Charlotta",Died,Southampton,Woman,45,Adult,Female,7.75,3rd Class Passenger,3
+"LINDEBERG-LIND, Mr Erik Gustaf",Died,Southampton,Man,42,Adult,Male,26.55,1st Class Passenger,1
+"LINDELL, Mr Edvard Bengtsson",Died,Southampton,Man,36,Adult,Male,15.55,3rd Class Passenger,3
+"LINDELL, Mrs Elin Gerda",Died,Southampton,Woman,30,Adult,Female,15.55,3rd Class Passenger,3
+"LINDQVIST, Mr Eino William",Survived,Southampton,Man,20,Adult,Male,7.925,3rd Class Passenger,3
+"LINDSAY, Mr William Charles",Survived,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"LINDSTRM, Mrs Sigrid",Survived,Cherbourg,Woman,55,Adult,Female,27.7208333,1st Class Passenger,1
+"LINEHAN, Mr Michael",Died,Queenstown,Man,21,Adult,Male,7.87916667,3rd Class Passenger,3
+"LINES, Miss Mary Conover",Survived,Cherbourg,Woman,16,Adult,Female,39.4,1st Class Passenger,1
+"LINES, Mrs Elizabeth Lindsey",Survived,Cherbourg,Woman,50,Adult,Female,39.4,1st Class Passenger,1
+"LING, Mr Lee",Died,Southampton,Man,28,Adult,Male,56.4958333,3rd Class Passenger,3
+"LINHART, Mr Wenzel",Died,Southampton,Man,27,Adult,Male,9.5,3rd Class Passenger,3
+"LINNANE, Mr John",Died,Queenstown,Man,61,Adult,Male,12.35,2nd Class Passenger,2
+"LITTLEJOHN, Mr Alexander James",Survived,Belfast,Man,40,Adult,Male,,Victualling Crew,V
+"LIVSHIN, Mr David (Abraham Harmer)",Died,Southampton,Man,25,Adult,Male,7.25,3rd Class Passenger,3
+"LLOYD, Mr Humphrey",Died,Belfast,Man,41,Adult,Male,,Victualling Crew,V
+"LLOYD, Mr William",Died,Southampton,Man,29,Adult,Male,,Engineering Crew,E
+"LOBB, Mr William Arthur",Died,Southampton,Man,30,Adult,Male,16.1,3rd Class Passenger,3
+"LOBB, Mrs Cordelia K.",Died,Southampton,Woman,26,Adult,Female,16.1,3rd Class Passenger,3
+"LOCKE, Mr A.",Died,Southampton,Man,33,Adult,Male,,Victualling Crew,V
+"LOCKYER, Mr Edward Thomas",Died,Southampton,Man,19,Adult,Male,7.87916667,3rd Class Passenger,3
+"LONG, Mr Frank",Died,Southampton,Man,28,Adult,Male,,Engineering Crew,E
+"LONG, Mr Milton Clyde",Died,Southampton,Man,29,Adult,Male,30,1st Class Passenger,1
+"LONG, Mr William",Died,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"LONGLEY, Miss Gretchen Fiske",Survived,Cherbourg,Woman,21,Adult,Female,77.9583333,1st Class Passenger,1
+"LONGMUIR, Mr John Dickson",Died,Southampton,Man,19,Adult,Male,,Victualling Crew,V
+"LORING, Mr Joseph Holland",Died,Southampton,Man,30,Adult,Male,45.5,1st Class Passenger,1
+"LOUCH, Mr Charles Alexander",Died,Southampton,Man,50,Adult,Male,26,2nd Class Passenger,2
+"LOUCH, Mrs Alice Adelaide",Survived,Southampton,Woman,42,Adult,Female,26,2nd Class Passenger,2
+"LOVELL, Mr John",Died,Southampton,Man,37,Adult,Male,,Victualling Crew,V
+"LOVELL, Mr John Hall (Henry)",Died,Southampton,Man,20,Adult,Male,7.25,,3
+"LOWE, Mr Harold Godfrey",Survived,Belfast,Man,29,Adult,Male,,Deck CrewTitanic Officers,D
+"LUCAS, Mr William Arthur",Survived,Southampton,Man,25,Adult,Male,,Deck Crew,D
+"LUCAS, Mr William Watson",Survived,Belfast,Man,31,Adult,Male,,Victualling Crew,V
+"LULIC, Mr Nikola",Survived,Southampton,Man,29,Adult,Male,8.6625,3rd Class Passenger,3
+"LUNDAHL, Mr Johan Svensson",Died,Southampton,Man,51,Adult,Male,7.05416667,3rd Class Passenger,3
+"LUNDIN, Miss Olga Elida",Survived,Southampton,Woman,23,Adult,Female,7.85416667,2nd Class Passenger,2
+"LUNDSTRM, Mr Thure Edvin",Survived,Southampton,Man,32,Adult,Male,7.57916667,3rd Class Passenger,3
+"LURETTE, Miss Eugnie Elise",Survived,Cherbourg,Woman,59,Adult,Female,146.520833,1st Class PassengerServant,1
+"LYDIATT, Mr Charles",Died,Southampton,Man,45,Adult,Male,,Victualling Crew,V
+"LYMPEROPOULUS, Mr Panagiotis K.",Died,Cherbourg,Man,30,Adult,Male,6.4375,3rd Class Passenger,3
+"LYNTAKOFF, Mr Stanko",Died,Southampton,Man,44,Adult,Male,7.89583333,3rd Class Passenger,3
+"LYONS, Mr William Henry",Died,Southampton,Man,25,Adult,Male,,Deck Crew,D
+"MABEY, Mr John Charles",Died,Southampton,Man,23,Adult,Male,,Victualling Crew,V
+"MACK, Mrs Mary",Died,Southampton,Woman,57,Adult,Female,10.5,2nd Class Passenger,2
+"MACKAY, Mr Charles Donald",Survived,Belfast,Man,34,Adult,Male,,Victualling Crew,V
+"MACKAY, Mr George William",Died,Southampton,Man,20,Adult,Male,7.55,3rd Class Passenger,3
+"MACKIE, Mr George William",Died,Southampton,Man,34,Adult,Male,,Victualling Crew,V
+"MACKIE, Mr William Dickson",Died,Belfast,Man,32,Adult,Male,,Engineering Crew,E
+"MADIGAN, Miss Margaret",Survived,Queenstown,Woman,21,Adult,Female,7.75,3rd Class Passenger,3
+"MADILL, Miss Georgette Alexandra",Survived,Southampton,Woman,16,Adult,Female,211.3375,1st Class Passenger,1
+"MADSEN, Mr Fridtjof Arne",Survived,Southampton,Man,24,Adult,Male,7.14166667,3rd Class Passenger,3
+"M_ENP__, Mr Matti Alexanteri",Died,Southampton,Man,22,Adult,Male,7.125,3rd Class Passenger,3
+"MAGUIRE, Mr John Edward",Died,Southampton,Man,30,Adult,Male,26,1st Class Passenger,1
+"MAHON, Miss Bridget Delia",Died,Queenstown,Woman,20,Adult,Female,7.87916667,3rd Class Passenger,3
+"MAIONI, Miss Roberta Elizabeth Mary",Survived,Southampton,Woman,19,Adult,Female,86.5,1st Class PassengerServant,1
+"MAISNER, Mr Simon",Died,Southampton,Man,34,Adult,Male,8.05,3rd Class Passenger,3
+"MAJOR, Mr Thomas Edgar",Died,Belfast,Man,35,Adult,Male,,Victualling Crew,V
+"MAJOR, Mr William James",Survived,Southampton,Man,32,Adult,Male,,Engineering Crew,E
+"M_KINEN, Mr Kalle Edvard",Died,Southampton,Man,29,Adult,Male,7.925,3rd Class Passenger,3
+"MALACHARD, Mr Jean-Nol",Died,Cherbourg,Man,25,Adult,Male,15,2nd Class Passenger,2
+"MALLET, Master Andr Clement",Survived,Cherbourg,Child,1,Child,Male,37,2nd Class Passenger,2
+"MALLET, Mr Albert Denis Pierre",Died,Cherbourg,Man,45,Adult,Male,37,2nd Class Passenger,2
+"MALLET, Mrs Antonine Marie",Survived,Cherbourg,Woman,24,Adult,Female,37,2nd Class Passenger,2
+"MaMa, Mr Hanna Mika'il",Survived,Cherbourg,Man,19,Adult,Male,,,3
+"MANGAN, Miss Mary",Died,Queenstown,Woman,32,Adult,Female,7.75,3rd Class Passenger,3
+"MANGIAVACCHI, Mr Serafino Emilio",Died,Cherbourg,Man,30,Adult,Male,15.5791667,2nd Class Passenger,2
+"MANNION, Miss Margaret",Survived,Queenstown,Woman,28,Adult,Female,7.7375,3rd Class Passenger,3
+"MANTLE, Mr Roland Frederick",Died,Southampton,Man,40,Adult,Male,,Victualling Crew,V
+"MARCH, Mr John Starr",Died,Southampton,Man,50,Adult,Male,,Victualling CrewPostal Clerk,V
+"MARDIROSIAN, Mr Sarkis",Died,Cherbourg,Man,25,Adult,Male,7.22916667,3rd Class Passenger,3
+"MARCHAL, Mr Pierre",Survived,Cherbourg,Man,29,Adult,Male,29.7,1st Class Passenger,1
+"MARETT, Mr George John",Died,Southampton,Man,27,Adult,Male,,Engineering Crew,E
+"MARINKO, Mr Dmitri",Died,Southampton,Man,23,Adult,Male,7.89583333,3rd Class Passenger,3
+"MARKOFF, Mr Marin",Died,Southampton,Man,35,Adult,Male,7.89583333,3rd Class Passenger,3
+"MARKS, Mr James",Died,Southampton,Man,27,Adult,Male,,Victualling Crew,V
+"MARKUN, Mr Johann",Died,Cherbourg,Man,33,Adult,Male,7.89583333,3rd Class Passenger,3
+"MARRIOTT, Mr John William",Died,Southampton,Man,20,Adult,Male,,Victualling Crew,V
+"MARSDEN, Miss Evelyn",Survived,Southampton,Woman,28,Adult,Female,,Victualling Crew,V
+"MARSH, Mr Frederick Charles",Died,Southampton,Man,39,Adult,Male,,Engineering Crew,E
+"MARTIN, Miss Mabel Elvina",Survived,Southampton,Woman,20,Adult,Female,,Restaurant Staff,R
+"MARTIN, Mrs Annie Martha",Survived,Southampton,Woman,39,Adult,Female,,Victualling Crew,V
+"MARVIN, Mr Daniel Warner",Died,Southampton,Man,18,Adult,Male,53.1,1st Class Passenger,1
+"MARVIN, Mrs Mary Graham Carmichael",Survived,Southampton,Woman,18,Adult,Female,53.1,1st Class Passenger,1
+"MASKELL, Mr Leopold Adolphus",Died,Southampton,Man,25,Adult,Male,,Engineering Crew,E
+"MASON, Mr Frank Archibald Robert",Survived,Southampton,Man,32,Adult,Male,,Engineering Crew,E
+"MASON, Mr J.",Died,Southampton,Man,39,Adult,Male,,Engineering Crew,E
+"MATHERSON, Mr David",Died,Southampton,Man,30,Adult,Male,,Deck Crew,D
+"MATHIAS, Mr Montague Vincent",Died,Southampton,Man,28,Adult,Male,,Deck Crew,D
+"MATINOFF, Mr Nicola",Died,Cherbourg,Man,30,Adult,Male,7.89583333,3rd Class Passenger,3
+"MATTHEWS, Mr William John",Died,Southampton,Man,30,Adult,Male,13,2nd Class Passenger,2
+"MATTMANN, Sig. Adolf",Died,Southampton,Man,20,Adult,Male,,Restaurant Staff,R
+"MAUGE, Mr Paul Achille Maurice Germain",Survived,Southampton,Man,25,Adult,Male,,Restaurant Staff,R
+"MAXWELL, Mr John",Died,Belfast,Man,31,Adult,Male,,Deck Crew,D
+"MAY, Mr Arthur William",Died,Southampton,Man,24,Adult,Male,,Engineering Crew,E
+"MAY, Mr Arthur William",Died,Southampton,Man,59,Adult,Male,,Engineering Crew,E
+"MAYBERY, Mr Frank Hubert",Died,Southampton,Man,36,Adult,Male,16,2nd Class Passenger,2
+"MAYNARD, Mr Isaac Hiram",Survived,Belfast,Man,31,Adult,Male,,Victualling Crew,V
+"MAYN, Mlle Berthe Antonine",Survived,Cherbourg,Woman,24,Adult,Female,49.5041667,1st Class Passenger,1
+"MAYO, Mr William Peter",Died,Southampton,Man,27,Adult,Male,,Engineering Crew,E
+"MAYTUM, Mr Alfred",Died,Belfast,Man,52,Adult,Male,,Victualling Crew,V
+"MAYZES, Mr Thomas Jubilee",Survived,Southampton,Man,25,Adult,Male,,Engineering Crew,E
+"MCANDREW, Mr Thomas Patrick",Died,Southampton,Man,38,Adult,Male,,Engineering Crew,E
+"MCANDREWS, Mr William",Died,Southampton,Man,23,Adult,Male,,Engineering Crew,E
+"MCCAFFRY, Mr Thomas Francis",Died,Southampton,Man,46,Adult,Male,75.2416667,1st Class Passenger,1
+"MCCARTHY, Miss Catherine",Survived,Queenstown,Woman,24,Adult,Female,0,,3
+"MCCARTHY, Mr Frederick James",Died,Southampton,Man,38,Adult,Male,,Victualling Crew,V
+"MCCARTHY, Mr Timothy J.",Died,Southampton,Man,54,Adult,Male,51.8625,1st Class Passenger,1
+"MCCARTHY, Mr William",Survived,Southampton,Man,47,Adult,Male,,Deck Crew,D
+"MCCASTLAN, Mr W.",Died,Southampton,Man,38,Adult,Male,,Engineering Crew,E
+"MCCAWLEY, Mr Thomas W.",Died,Belfast,Man,36,Adult,Male,,Victualling Crew,V
+"MCCORMACK, Mr Thomas Joseph",Survived,Queenstown,Man,19,Adult,Male,7.75,3rd Class Passenger,3
+"MCCOY, Miss Agnes",Survived,Queenstown,Woman,29,Adult,Female,23.25,3rd Class Passenger,3
+"MCCOY, Miss Alicia",Survived,Queenstown,Woman,26,Adult,Female,23.25,3rd Class Passenger,3
+"MCCOY, Mr Bernard",Survived,Queenstown,Man,24,Adult,Male,23.25,3rd Class Passenger,3
+"MCCRAE, Mr Arthur Gordon",Died,Southampton,Man,32,Adult,Male,13.5,2nd Class Passenger,2
+"MCCRIE, Mr James Matthew",Died,Southampton,Man,32,Adult,Male,13,2nd Class Passenger,2
+"MCDERMOTT, Miss Bridget Delia",Survived,Queenstown,Woman,31,Adult,Female,7.78333333,3rd Class Passenger,3
+"MCELROY, Mr Hugh Walter",Died,Southampton,Man,37,Adult,Male,,Victualling Crew,V
+"MCEVOY, Mr Michael",Died,Queenstown,Man,19,Adult,Male,15.5,3rd Class Passenger,3
+"MCGANN, Mr James",Survived,Southampton,Man,26,Adult,Male,,Engineering Crew,E
+"MCGARVEY, Mr Edward Joseph",Died,Southampton,Man,34,Adult,Male,,Engineering Crew,E
+"MCGAW, Mr Erroll Victor",Died,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"MCGOUGH, Mr George Francis 'Paddy'",Survived,Southampton,Man,36,Adult,Male,,Deck Crew,D
+"MCGOUGH, Mr James Robert",Survived,Southampton,Man,35,Adult,Male,26.2875,1st Class Passenger,1
+"MCGOVERN, Ms Mary",Survived,Queenstown,Woman,22,Adult,Female,7.87916667,3rd Class Passenger,3
+"MCGOWAN, Miss Anna Annie",Survived,Queenstown,Woman,17,Adult,Female,8.279,,3
+"MCGOWAN, Miss Katherine",Died,Queenstown,Woman,42,Adult,Female,7.75,3rd Class Passenger,3
+"MCGRADY, Mr James",Died,Southampton,Man,27,Adult,Male,,Victualling Crew,V
+"MCINERNEY, Mr Thomas",Died,Southampton,Man,38,Adult,Male,,Engineering Crew,E
+"MCINTYRE, Mr William",Survived,Southampton,Man,21,Adult,Male,,Engineering Crew,E
+"MCKANE, Mr Peter Dan",Died,Southampton,Man,46,Adult,Male,26,,2
+"MCLAREN, Mrs Hypatia",Survived,Southampton,Woman,40,Adult,Female,,Victualling Crew,V
+"MCMAHON, Mr Martin",Died,Queenstown,Man,19,Adult,Male,7.75,3rd Class Passenger,3
+"MCMICKEN, Mr Arthur",Survived,Belfast,Man,23,Adult,Male,,Victualling Crew,V
+"MCMICKEN, Mr Benjamin Tucker",Died,Belfast,Man,21,Adult,Male,,Victualling Crew,V
+"MCMULLIN, Mr John Richard",Died,Belfast,Man,32,Adult,Male,,Victualling Crew,V
+"MCMURRAY, Mr William",Died,Belfast,Man,43,Adult,Male,,Victualling Crew,V
+"MCNAMEE, Mr Neal",Died,Southampton,Man,27,Adult,Male,16.1,3rd Class Passenger,3
+"MCNAMEE, Mrs Eileen",Died,Southampton,Woman,19,Adult,Female,16.1,3rd Class Passenger,3
+"MCNEILL, Miss Bridget",Died,Queenstown,Woman,32,Adult,Female,7.75,3rd Class Passenger,3
+"MCQUILLAN, Mr William",Died,Belfast,Man,26,Adult,Male,,Engineering Crew,E
+"MCRAE, Mr William Alexander",Died,Southampton,Man,31,Adult,Male,,Engineering Crew,E
+"MCREYNOLDS, Mr William",Died,Belfast,Man,22,Adult,Male,,Engineering Crew,E
+"MEANWELL, Mrs Marian",Died,Southampton,Woman,63,Adult,Female,8.05,3rd Class Passenger,3
+"MEEHAN, Mr John",Died,Queenstown,Man,22,Adult,Male,7.75,,3
+"MEEK, Mrs Annie Louise Rowley",Died,Southampton,Woman,31,Adult,Female,8.05,3rd Class Passenger,3
+"MELLINGER, Miss Madeleine Violet",Survived,Southampton,Child,13,Child,Female,19.5,2nd Class Passenger,2
+"MELLINGER, Mrs Elizabeth Anne",Survived,Southampton,Woman,41,Adult,Female,19.5,2nd Class Passenger,2
+"MELLOR, Mr Arthur",Died,Southampton,Man,34,Adult,Male,,Victualling Crew,V
+"MELLORS, Mr William John",Survived,Southampton,Man,19,Adult,Male,10.5,2nd Class Passenger,2
+"MEO (MARTINO), Mr Alfonzo",Died,Southampton,Man,48,Adult,Male,8.05,3rd Class Passenger,3
+"MERNAGH, Mr Robert",Died,Queenstown,Man,28,Adult,Male,7.75,3rd Class Passenger,3
+"MEYER, Mr August",Died,Southampton,Man,31,Adult,Male,13,2nd Class Passenger,2
+"MEYER, Mr Edgar Joseph",Died,Cherbourg,Man,28,Adult,Male,82.1708333,1st Class Passenger,1
+"MEYER, Mrs Leila",Survived,Cherbourg,Woman,25,Adult,Female,82.1708333,1st Class Passenger,1
+"MIDDLETON, Mr Alfred Pirrie",Died,Belfast,Man,26,Adult,Male,,Engineering Crew,E
+"MIDDLETON, Mr Mark Victor",Died,Southampton,Man,24,Adult,Male,,Victualling Crew,V
+"MIDTSJ, Mr Karl Albert",Survived,Southampton,Man,21,Adult,Male,7.775,3rd Class Passenger,3
+"MIHOFF, Mr Stoytcho",Died,Southampton,Man,28,Adult,Male,7.89583333,3rd Class Passenger,3
+"MILES, Mr Frank",Died,Southampton,Man,23,Adult,Male,8.05,3rd Class Passenger,3
+"MILFORD, Mr George",Died,Southampton,Man,27,Adult,Male,,Engineering Crew,E
+"MILLAR, Mr Robert",Died,Belfast,Man,26,Adult,Male,,Engineering Crew,E
+"MILLAR, Mr Thomas",Died,Belfast,Man,32,Adult,Male,,Engineering Crew,E
+"MILLET, Mr Francis Davis",Died,Cherbourg,Man,65,Adult,Male,26.55,1st Class Passenger,1
+"MILLING, Mr Jacob Christian",Died,Southampton,Man,48,Adult,Male,13,2nd Class Passenger,2
+"MILLS, Mr Christopher",Survived,Southampton,Man,51,Adult,Male,,Victualling Crew,V
+"MINAHAN, Dr William Edward",Died,Queenstown,Man,44,Adult,Male,90,1st Class Passenger,1
+"MINAHAN, Miss Daisy E.",Survived,Queenstown,Woman,33,Adult,Female,90,1st Class Passenger,1
+"MINAHAN, Mrs Lillian E.",Survived,Queenstown,Woman,37,Adult,Female,90,1st Class Passenger,1
+"MINEFF, Mr Ivan",Died,Southampton,Man,24,Adult,Male,7.89583333,3rd Class Passenger,3
+"MINKOFF, Mr Lazar",Died,Southampton,Man,21,Adult,Male,7.89583333,3rd Class Passenger,3
+"MINTRAM, Mr William",Died,Southampton,Man,46,Adult,Male,,Engineering Crew,E
+"MISHELLANY, Mr Abraham Mansoor",Died,Belfast,Man,53,Adult,Male,,Victualling Crew,V
+"MITCHELL, Mr Henry Michael",Died,Southampton,Man,71,Adult,Male,10.5,2nd Class Passenger,2
+"MITCHELL, Mr Lorenzo (Lawrence) Horace",Died,Southampton,Man,18,Adult,Male,,Engineering Crew,E
+"MITKOFF, Mr Mito",Died,Southampton,Man,23,Adult,Male,7.89583333,3rd Class Passenger,3
+"MOCK, Mr Philipp Edmund",Survived,Cherbourg,Man,30,Adult,Male,57.75,1st Class Passenger,1
+"MOCKLER, Miss Ellen Mary",Survived,Queenstown,Woman,23,Adult,Female,7.87916667,3rd Class Passenger,3
+"MOEN, Mr Sigurd Hansen",Died,Southampton,Man,27,Adult,Male,7.65,3rd Class Passenger,3
+"MOLSON, Mr Harry Markland",Died,Southampton,Man,55,Adult,Male,30.5,1st Class Passenger,1
+"MONR_S, Sr. Joan Javier",Died,Southampton,Man,20,Adult,Male,,Restaurant Staff,R
+"MONTEVERDI, Sig. Giovanni",Died,Southampton,Man,23,Adult,Male,,Restaurant Staff,R
+"MONTVILA, Fr Juozas",Died,Southampton,Man,27,Adult,Male,13,2nd Class Passenger,2
+"MOODY, Mr James Paul",Died,Belfast,Man,24,Adult,Male,,Deck CrewTitanic Officers,D
+"MOOR, Master Meier",Survived,Southampton,Child,7,Child,Male,12.475,3rd Class Passenger,3
+"MOOR, Mrs Beila",Survived,Southampton,Woman,29,Adult,Female,12.475,3rd Class Passenger,3
+"MOORE, Mr Alfred Ernest",Died,Southampton,Man,39,Adult,Male,,Victualling Crew,V
+"MOORE, Mr Clarence Bloomfield",Died,Southampton,Man,47,Adult,Male,42.4,1st Class Passenger,1
+"MOORE, Mr George Alfred",Survived,Southampton,Man,32,Adult,Male,,Deck Crew,D
+"MOORE, Mr John J.",Survived,Southampton,Man,29,Adult,Male,,Engineering Crew,E
+"MOORE, Mr Leonard Charles",Died,Southampton,Man,19,Adult,Male,8.05,3rd Class Passenger,3
+"MOORE, Mr Ralph",Died,Southampton,Man,21,Adult,Male,,Engineering Crew,E
+"MOORES, Mr Richard Henry",Died,Southampton,Man,44,Adult,Male,,Engineering Crew,E
+"MORAN, Miss Bertha Bridget",Survived,Queenstown,Woman,28,Adult,Female,24.15,3rd Class Passenger,3
+"MORAN, Mr Daniel James",Died,Queenstown,Man,27,Adult,Male,24.15,3rd Class Passenger,3
+"MORAWECK, Dr Ernest",Died,Southampton,Man,54,Adult,Male,14,2nd Class Passenger,2
+"MORGAN (BIRD), Mr Charles Frederick",Died,Southampton,Man,42,Adult,Male,,Victualling Crew,V
+"MORGAN, Mr Arthur Herbert",Died,Southampton,Man,27,Adult,Male,,Engineering Crew,E
+"MORGAN, Mr Thomas A.",Died,Southampton,Man,26,Adult,Male,,Engineering Crew,E
+"MORLEY, Mr Henry Samuel",Died,Southampton,Man,38,Adult,Male,26,2nd Class Passenger,2
+"MORLEY, Mr William",Died,Southampton,Man,34,Adult,Male,8.05,3rd Class Passenger,3
+"MORRIS, Mr Arthur",Died,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"MORRIS, Mr Frank Herbert",Survived,Belfast,Man,28,Adult,Male,,Victualling Crew,V
+"MORRIS, Mr William Edward",Died,Southampton,Man,22,Adult,Male,,Engineering Crew,E
+"MORROW, Mr Thomas Rowan",Died,Queenstown,Man,30,Adult,Male,7.75,3rd Class Passenger,3
+"MOSS, Mr Albert Johan",Survived,Southampton,Man,29,Adult,Male,7.775,3rd Class Passenger,3
+"MOSS, Mr William",Died,Belfast,Man,34,Adult,Male,,Victualling Crew,V
+"MOUSSA, Mrs Mantoura Boulos",Survived,Cherbourg,Woman,35,Adult,Female,7.22916667,3rd Class Passenger,3
+"MOUTAL, Mr Rahamin Haim",Died,Southampton,Man,28,Adult,Male,8.05,3rd Class Passenger,3
+"MOYES, Mr William Young",Died,Belfast,Man,23,Adult,Male,,Engineering Crew,E
+"MUBaRIK, Master Halm",Survived,Cherbourg,Child,4,Child,Male,15.379,,3
+"MUBaRIK, Master Jirjis",Survived,Cherbourg,Child,7,Child,Male,15.379,,3
+"MUBaRIK, Mrs Amnah",Survived,Cherbourg,Woman,24,Adult,Female,15.379,,3
+"MUDD, Mr Thomas Cupper",Died,Southampton,Man,16,Adult,Male,10.5,2nd Class Passenger,2
+"MULLEN, Miss Katherine Katie",Survived,Queenstown,Woman,21,Adult,Female,8.2,,3
+"MaLLER, Mr Ludwig",Died,Southampton,Man,36,Adult,Male,,Victualling Crew,V
+"MULLIN, Miss Mary (_Lennon)",Died,Queenstown,Woman,18,Adult,Female,15.5,3rd Class Passenger,3
+"MULLIN, Mr Thomas",Died,Southampton,Man,20,Adult,Male,,Victualling Crew,V
+"MULVIHILL, Miss Bridget Elizabeth",Survived,Queenstown,Woman,25,Adult,Female,7.75,3rd Class Passenger,3
+"MURDLIN, Mr Joseph",Died,Southampton,Man,22,Adult,Male,8.05,3rd Class Passenger,3
+"MURDOCH, Mr William McMaster",Died,Belfast,Man,39,Adult,Male,,Deck CrewTitanic Officers,D
+"MURDOCK, Mr William John",Survived,Belfast,Man,37,Adult,Male,,Engineering Crew,E
+"MURPHY, Miss Catherine Kate",Survived,Queenstown,Woman,18,Adult,Female,15.5,,3
+"MURPHY, Miss Margaret Jane Mary Maggie",Survived,Queenstown,Woman,25,Adult,Female,15.5,,3
+"MURPHY, Miss Nora",Survived,Queenstown,Woman,34,Adult,Female,15.5,3rd Class Passenger,3
+"MUSLAMaNi, Mrs Fatimah Muhammad",Survived,Cherbourg,Woman,22,Adult,Female,7.358,,3
+"MYHRMAN, Mr Pehr Fabian Oliver Malkolm",Died,Southampton,Man,18,Adult,Male,7.75,3rd Class Passenger,3
+"MYLES, Mr Thomas Francis",Died,Queenstown,Man,63,Adult,Male,9.6875,2nd Class Passenger,2
+"NAIDENOFF, Mr Penko",Died,Southampton,Man,22,Adult,Male,7.89583333,3rd Class Passenger,3
+"NAJIB KIAMIE, Miss Adele Jane",Survived,Cherbourg,Woman,15,Adult,Female,7.358,,3
+"NAKHLI, Mr Toufik",Died,Cherbourg,Man,17,Adult,Male,7.22916667,3rd Class Passenger,3
+"NAKID, Miss Maria",Survived,Cherbourg,Child,1,Child,Female,15.7416667,3rd Class Passenger,3
+"NAKID, Mr Sahid",Survived,Cherbourg,Man,20,Adult,Male,15.7416667,3rd Class Passenger,3
+"NAKID, Mrs Waika Mary",Survived,Cherbourg,Woman,19,Adult,Female,16.208,,3
+"NANCARROW, Mr William Henry",Died,Southampton,Man,36,Adult,Male,8.05,3rd Class Passenger,3
+"NANKOFF, Mr Minko",Died,Southampton,Man,32,Adult,Male,7.89583333,3rd Class Passenger,3
+"NANNINI, Sig. Francesco Luigi Arcangelo",Died,Southampton,Man,42,Adult,Male,,Restaurant Staff,R
+"NASR 'ALMa, Mr Mustafa",Died,Cherbourg,Man,20,Adult,Male,7.22916667,,3
+"NASSER, Mr Nicholas",Died,Cherbourg,Man,28,Adult,Male,30.0708333,2nd Class Passenger,2
+"NASSER, Mrs Adele",Survived,Cherbourg,Child,14,Child,Female,30.0708333,2nd Class Passenger,2
+"NASSR RIZQ, Mr Saade",Died,Cherbourg,Man,20,Adult,Male,7.225,3rd Class Passenger,3
+"NATSCH, Mr Charles",Died,Cherbourg,Man,36,Adult,Male,29.7,1st Class Passenger,1
+"NAUGHTON, Miss Hannah",Died,Queenstown,Woman,21,Adult,Female,7.75,3rd Class Passenger,3
+"NAVRATIL, Master Edmond Roger",Survived,Southampton,Child,2,Child,Male,26,2nd Class Passenger,2
+"NAVRATIL, Master Michel Marcel",Survived,Southampton,Child,3,Child,Male,26,2nd Class Passenger,2
+"NAVRATIL, Mr Michel",Died,Southampton,Man,32,Adult,Male,26,2nd Class Passenger,2
+"NEAL, Mr Bentley Harold",Survived,Southampton,Man,25,Adult,Male,,Victualling Crew,V
+"NENKOFF, Mr Christo",Died,Southampton,Man,22,Adult,Male,7.89583333,3rd Class Passenger,3
+"NESSON, Mr Israel",Died,Southampton,Man,26,Adult,Male,13,2nd Class Passenger,2
+"NETTLETON, Mr George Walter",Died,Southampton,Man,29,Adult,Male,,Engineering Crew,E
+"NEWELL, Miss Madeleine",Survived,Cherbourg,Woman,31,Adult,Female,113.275,1st Class Passenger,1
+"NEWELL, Miss Marjorie Anne",Survived,Cherbourg,Woman,23,Adult,Female,113.275,1st Class Passenger,1
+"NEWELL, Mr Arthur Webster",Died,Cherbourg,Man,58,Adult,Male,113.275,1st Class Passenger,1
+"NEWMAN, Mr Charles Thomas",Died,Southampton,Man,33,Adult,Male,,Engineering Crew,E
+"NEWSOM, Miss Helen Monypeny",Survived,Southampton,Woman,19,Adult,Female,26.2833333,1st Class Passenger,1
+"NICHOLLS, Mr Joseph Charles",Died,Southampton,Man,19,Adult,Male,36.75,2nd Class Passenger,2
+"NICHOLLS, Mr Sidney",Died,Southampton,Man,39,Adult,Male,,Victualling Crew,V
+"NICHOLS, Mr A.D.",Died,Southampton,Man,34,Adult,Male,,Victualling Crew,V
+"NICHOLS, Mr Alfred William Stanley",Died,Belfast,Man,47,Adult,Male,,Deck Crew,D
+"NICHOLS, Mr Walter Henry",Survived,Southampton,Man,35,Adult,Male,,Victualling Crew,V
+"NICHOLSON, Mr Arthur Ernest",Died,Southampton,Man,59,Adult,Male,26,1st Class Passenger,1
+"NICOLA-YARRED, Master Elias (Louis Garrett)",Survived,Cherbourg,Child,11,Child,Male,11.373,,3
+"NICOLA-YARRED, Miss Jamila (Amelia Garrett)",Survived,Cherbourg,Child,14,Child,Female,11.373,,3
+"NIEMINEN, Miss Manta Josefina",Died,Southampton,Woman,29,Adult,Female,7.925,3rd Class Passenger,3
+"NIKLASSON, Mr Samuel",Died,Southampton,Man,28,Adult,Male,8.05,3rd Class Passenger,3
+"NILSSON, Miss Berta Olivia",Survived,Southampton,Woman,18,Adult,Female,7.775,3rd Class Passenger,3
+"NILSSON, Miss Helmina Josefina",Survived,Southampton,Woman,26,Adult,Female,7.85416667,3rd Class Passenger,3
+"NILSSON, Mr August Ferdinand",Died,Southampton,Man,21,Adult,Male,7.85416667,3rd Class Passenger,3
+"NIRVA, Mr Iisakki Antino ij",Died,Southampton,Man,41,Adult,Male,7.125,3rd Class Passenger,3
+"NISK_NEN, Mr Juha",Survived,Southampton,Man,39,Adult,Male,7.925,3rd Class Passenger,3
+"NIVEN, Mr John Brown",Died,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"NOFAL, Mr Mansouer",Died,Cherbourg,Man,20,Adult,Male,7.22916667,3rd Class Passenger,3
+"NOON, Mr John",Died,Southampton,Man,35,Adult,Male,,Engineering Crew,E
+"NORMAN, Mr Robert Douglas",Died,Southampton,Man,27,Adult,Male,13.5,2nd Class Passenger,2
+"NORRIS, Mr James",Died,Southampton,Man,23,Adult,Male,,Engineering Crew,E
+"NOSS, Mr Bertram Arthur",Died,Southampton,Man,21,Adult,Male,,Engineering Crew,E
+"NOSS, Mr Henry",Survived,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"NOSWORTHY, Mr Richard Cater",Died,Southampton,Man,21,Adult,Male,7.8,3rd Class Passenger,3
+"NOURNEY, Mr Alfred",Survived,Cherbourg,Man,20,Adult,Male,13.8625,1st Class Passenger,1
+"NUTBEAN, Mr William",Survived,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"NYE, Mrs Elizabeth",Survived,Southampton,Woman,29,Adult,Female,10.5,2nd Class Passenger,2
+"NYSTEN, Miss Anna Sofia",Survived,Southampton,Woman,22,Adult,Female,7.75,3rd Class Passenger,3
+"NYSVEEN, Mr Johan Hansen",Died,Southampton,Man,60,Adult,Male,6.2375,3rd Class Passenger,3
+"O'BRIEN, Mr Denis",Died,Queenstown,Man,21,Adult,Male,7.82916667,,3
+"O'BRIEN, Mr Thomas",Died,Queenstown,Man,27,Adult,Male,15.5,3rd Class Passenger,3
+"O'BRIEN, Mrs Johanna Hannah",Survived,Queenstown,Woman,26,Adult,Female,15.5,,3
+"O'CONNELL, Mr Patrick Denis",Died,Queenstown,Man,17,Adult,Male,7.73333333,3rd Class Passenger,3
+"O'CONNOR, Mr John",Survived,Southampton,Man,25,Adult,Male,,Engineering Crew,E
+"O'CONNOR, Mr Maurice",Died,Queenstown,Man,16,Adult,Male,7.75,3rd Class Passenger,3
+"O'CONNOR, Mr Patrick",Died,Queenstown,Man,23,Adult,Male,7.75,3rd Class Passenger,3
+"O'CONNOR, Mr Thomas Peter",Died,Belfast,Man,43,Adult,Male,,Victualling Crew,V
+"O'DRISCOLL, Miss Bridget",Survived,Queenstown,Woman,27,Adult,Female,7.75,3rd Class Passenger,3
+"O'DWYER, Miss Ellen Nellie",Survived,Queenstown,Woman,25,Adult,Female,8.4458,,3
+"O'KEEFE, Mr Patrick",Survived,Queenstown,Man,21,Adult,Male,7.75,3rd Class Passenger,3
+"O'LEARY, Miss Hanora Nora",Survived,Queenstown,Woman,16,Adult,Female,8.362,,3
+"O'LOUGHLIN, Dr William Francis Norman",Died,Belfast,Man,62,Adult,Male,,Deck Crew,D
+"O'SULLIVAN, Miss Bridget Mary",Died,Queenstown,Woman,21,Adult,Female,7.62916667,3rd Class Passenger,3
+"DAHL, Mr Nils Martin",Died,Southampton,Man,23,Adult,Male,9.225,3rd Class Passenger,3
+"HMAN, Miss Velin",Survived,Southampton,Woman,22,Adult,Female,7.775,3rd Class Passenger,3
+"OLIVA Y OCANA, Doa Fermina",Survived,Cherbourg,Woman,39,Adult,Female,108.9,1st Class PassengerServant,1
+"OLIVE, Mr Charles",Died,Southampton,Man,31,Adult,Male,,Engineering Crew,E
+"OLIVE, Mr Ernest Roskelly",Died,Southampton,Man,26,Adult,Male,,Victualling Crew,V
+"OLIVER, Mr H.",Survived,Southampton,Man,32,Adult,Male,,Engineering Crew,E
+"OLLIVER, Mr Alfred John",Survived,Belfast,Man,27,Adult,Male,,Deck Crew,D
+"OLSEN, Master Artur Karl",Survived,Southampton,Child,9,Child,Male,3.17083333,3rd Class Passenger,3
+"OLSEN, Mr Henry Margido",Died,Southampton,Man,28,Adult,Male,22.525,3rd Class Passenger,3
+"OLSEN, Mr Karl Siegwart Andreas",Died,Southampton,Man,42,Adult,Male,8.40416667,3rd Class Passenger,3
+"OLSEN, Mr Ole Martin",Died,Southampton,Man,27,Adult,Male,7.3125,3rd Class Passenger,3
+"OLSSON, Miss Elina",Died,Southampton,Woman,31,Adult,Female,7.85416667,3rd Class Passenger,3
+"OLSSON, Mr Nils Johan Gransson",Died,Southampton,Man,28,Adult,Male,7.85416667,3rd Class Passenger,3
+"OLSSON, Mr Oscar Wilhelm",Survived,Southampton,Man,32,Adult,Male,7.775,3rd Class Passenger,3
+"OLSVIGEN, Mr Thor Anderson",Died,Southampton,Man,20,Adult,Male,9.225,3rd Class Passenger,3
+"OMONT, Mr Alfred Fernand",Survived,Cherbourg,Man,29,Adult,Male,25.7416667,1st Class Passenger,1
+"ORESKOVIC, Miss Jelka",Died,Southampton,Woman,23,Adult,Female,8.6625,3rd Class Passenger,3
+"ORESKOVIC, Miss Marija",Died,Southampton,Woman,20,Adult,Female,8.6625,3rd Class Passenger,3
+"ORESKOVIC, Mr Luka",Died,Southampton,Man,20,Adult,Male,8.6625,3rd Class Passenger,3
+"ORPET, Mr Walter Hayward",Died,Southampton,Man,31,Adult,Male,,Victualling Crew,V
+"ORR, Mr J.",Died,Southampton,Man,40,Adult,Male,,Victualling Crew,V
+"OSBORNE, Mr William Edward",Died,Belfast,Man,32,Adult,Male,,Victualling Crew,V
+"OSaN, Mr Olaf Elon",Died,Southampton,Man,16,Adult,Male,9.21666667,3rd Class Passenger,3
+"OSMAN, Mr Frank",Survived,Southampton,Man,27,Adult,Male,,Deck Crew,D
+"aSTBY, Miss Helen Ragnhild",Survived,Southampton,Woman,22,Adult,Female,61.9791667,1st Class Passenger,1
+"OSTBY, Mr Engelhart Cornelius",Died,Southampton,Man,64,Adult,Male,61.9791667,1st Class Passenger,1
+"OTHEN, Mr Charles Alfred",Survived,Southampton,Man,36,Adult,Male,,Engineering Crew,E
+"OTTER, Mr Richard",Died,Southampton,Man,38,Adult,Male,13,2nd Class Passenger,2
+"OVIaS Y RODReGUEZ, Mr Servando Jos Florentino",Died,Cherbourg,Man,36,Adult,Male,27.7208333,1st Class Passenger,1
+"OWEN, Mr Lewis",Died,Southampton,Man,49,Adult,Male,,Victualling Crew,V
+"OXENHAM, Mr Percy Thomas",Survived,Southampton,Man,22,Adult,Male,10.5,2nd Class Passenger,2
+"PACEY, Mr Reginald lvan",Died,Southampton,Man,17,Adult,Male,,Victualling Crew,V
+"PACHERA, Sig. Jean Baptiste Stanislas",Died,Southampton,Man,19,Adult,Male,,Restaurant Staff,R
+"PADRON MANENT, Mr Julian",Survived,Cherbourg,Man,26,Adult,Male,13.8625,2nd Class Passenger,2
+"PAICE, Mr Richard Charles John",Died,Southampton,Man,32,Adult,Male,,Engineering Crew,E
+"PAIN, Dr Alfred",Died,Southampton,Man,23,Adult,Male,10.5,2nd Class Passenger,2
+"PAINTER, Mr Charles",Died,Southampton,Man,31,Adult,Male,,Engineering Crew,E
+"PAINTER, Mr Frank Frederick",Died,Southampton,Man,29,Adult,Male,,Engineering Crew,E
+"PAINTIN, Mr James Arthur",Died,Southampton,Man,29,Adult,Male,,Victualling Crew,V
+"PALLS I CASTELL_, Sr. Emili",Survived,Cherbourg,Man,29,Adult,Male,13.8583333,2nd Class Passenger,2
+"PALLES, Mr Thomas Henry Michael",Died,Belfast,Man,42,Adult,Male,,Engineering Crew,E
+"PaLSSON, Master Gsta Leonard",Died,Southampton,Child,2,Child,Male,21.075,3rd Class Passenger,3
+"PaLSSON, Master Paul Folke",Died,Southampton,Child,6,Child,Male,21.075,3rd Class Passenger,3
+"PaLSSON, Miss Stina Viola",Died,Southampton,Child,3,Child,Female,21.075,3rd Class Passenger,3
+"PaLSSON, Miss Torborg Danira",Died,Southampton,Child,8,Child,Female,21.075,3rd Class Passenger,3
+"PaLSSON, Mrs Alma Cornelia",Died,Southampton,Woman,29,Adult,Female,21.075,3rd Class Passenger,3
+"PANULA, Master Eino Viljam",Died,Southampton,Child,1,Child,Male,39.6875,3rd Class Passenger,3
+"PANULA, Master Jaako Arnold",Died,Southampton,Child,14,Child,Male,39.6875,3rd Class Passenger,3
+"PANULA, Master Juha Niilo",Died,Southampton,Child,7,Child,Male,39.6875,3rd Class Passenger,3
+"PANULA, Master Urho Abraham",Died,Southampton,Child,2,Child,Male,39.6875,3rd Class Passenger,3
+"PANULA, Mr Ernesti Arvid",Died,Southampton,Man,16,Adult,Male,39.6875,3rd Class Passenger,3
+"PANULA, Mrs Maija Emelia Abrahamintytar",Died,Southampton,Woman,41,Adult,Female,39.6875,3rd Class Passenger,3
+"PARKER, Mr Clifford Richard",Died,Southampton,Man,17,Adult,Male,10.5,2nd Class Passenger,2
+"PARKES, Mr Francis",Died,Belfast,Man,21,Adult,Male,0,2nd Class PassengerH&W Guarantee Group,2
+"PARR, Mr William Henry Marsh",Died,Belfast,Man,29,Adult,Male,0,1st Class PassengerH&W Guarantee Group,1
+"PARRISH, Mrs Lutie Davis",Survived,Southampton,Woman,59,Adult,Female,26,2nd Class Passenger,2
+"PARSONS, Mr Edward",Died,Southampton,Man,37,Adult,Male,,Victualling Crew,V
+"PARSONS, Mr Frank Alfred",Died,Belfast,Man,26,Adult,Male,,Engineering Crew,E
+"PARSONS, Mr Richard Henry",Died,Southampton,Man,18,Adult,Male,,Victualling Crew,V
+"PARTNER, Mr Austin",Died,Southampton,Man,40,Adult,Male,28.5,1st Class Passenger,1
+"PASCOE, Mr Charles H.",Survived,Southampton,Man,43,Adult,Male,,Deck Crew,D
+"PASIC, Mr Jakob",Died,Southampton,Man,21,Adult,Male,8.6625,3rd Class Passenger,3
+"PATCHETT, Mr George",Died,Southampton,Man,19,Adult,Male,14.5,3rd Class Passenger,3
+"PAVLOVIC, Mr Stefo",Died,Southampton,Man,32,Adult,Male,7.89583333,3rd Class Passenger,3
+"PAYNE, Mr Vivian Ponsonby",Died,Southampton,Man,22,Adult,Male,93.5,1st Class PassengerServant,1
+"PEACOCK, Master Alfred Edward",Died,Southampton,Child,0.58,Child,Male,13.775,3rd Class Passenger,3
+"PEACOCK, Miss Treasteall",Died,Southampton,Child,3,Child,Female,13.775,3rd Class Passenger,3
+"PEACOCK, Mrs Edith",Died,Southampton,Woman,26,Adult,Female,13.775,3rd Class Passenger,3
+"PEARCE, Mr Alfred Emest",Died,Southampton,Man,24,Adult,Male,,Victualling Crew,V
+"PEARCE, Mr Ernest",Died,Southampton,Man,32,Adult,Male,7,3rd Class Passenger,3
+"PEARCE, Mr John",Survived,Southampton,Man,28,Adult,Male,,Engineering Crew,E
+"PEARCEY, Mr Albert Victor",Survived,Southampton,Man,25,Adult,Male,,Victualling Crew,V
+"PEARS, Mr Thomas Clinton",Died,Southampton,Man,29,Adult,Male,66.6,1st Class Passenger,1
+"PEARS, Mrs Edith",Survived,Southampton,Woman,22,Adult,Female,66.6,1st Class Passenger,1
+"PEDERSEN, Mr Olaf",Died,Southampton,Man,28,Adult,Male,7.775,3rd Class Passenger,3
+"PEDRINI, Sig. Alessandro",Died,Southampton,Man,21,Adult,Male,,Restaurant Staff,R
+"PEDUZZI, Mr Giuseppe",Died,Southampton,Man,24,Adult,Male,8.05,3rd Class Passenger,3
+"PEKONIEMI, Mr Edvard",Died,Southampton,Man,21,Adult,Male,7.925,3rd Class Passenger,3
+"PELHAM, Mr George",Survived,Southampton,Man,39,Adult,Male,,Engineering Crew,E
+"PELTOM_KI, Mr Nikolai Johannes",Died,Southampton,Man,25,Adult,Male,7.925,3rd Class Passenger,3
+"PEASCO Y CASTELLANA, Mr Victor",Died,Cherbourg,Man,24,Adult,Male,108.9,1st Class Passenger,1
+"PEASCO Y CASTELLANA, Mrs Maria Josefa Perezde Soto y Vallejo",Survived,Cherbourg,Woman,22,Adult,Female,108.9,1st Class Passenger,1
+"PENGELLY, Mr Frederick William",Died,Southampton,Man,19,Adult,Male,10.5,2nd Class Passenger,2
+"PENNAL, Mr Thomas Frederick Cohen",Died,Southampton,Man,33,Adult,Male,,Victualling Crew,V
+"PENNY, Mr William Farr",Died,Southampton,Man,31,Adult,Male,,Victualling Crew,V
+"PENROSE, Mr John Poole",Died,Belfast,Man,49,Adult,Male,,Victualling Crew,V
+"PERACCHIO, Sig. Alberto",Died,Southampton,Man,20,Adult,Male,,Restaurant Staff,R
+"PERACCHIO, Sig. Sebastiano",Died,Southampton,Man,17,Adult,Male,,Restaurant Staff,R
+"PERKIN, Mr John Henry",Died,Southampton,Man,22,Adult,Male,7.25,3rd Class Passenger,3
+"PERKINS, Mr Laurence Alexander",Died,Southampton,Man,22,Adult,Male,,Victualling Crew,V
+"PERKIS, Mr Walter John",Survived,Belfast,Man,37,Adult,Male,,Deck Crew,D
+"PERNOT, Mr Ren",Died,Cherbourg,Man,39,Adult,Male,15.05,2nd Class PassengerServant,2
+"PEROTTI, Sig. Alfonso",Died,Southampton,Man,20,Adult,Male,,Restaurant Staff,R
+"PERREAULT, Miss Mary Anne",Survived,Southampton,Woman,33,Adult,Female,93.5,1st Class PassengerServant,1
+"PERREN, Mr William Charles",Died,Southampton,Man,47,Adult,Male,,Victualling Crew,V
+"PERRITON, Mr Hubert Prouse",Died,Southampton,Man,31,Adult,Male,,Victualling Crew,V
+"PERRY, Mr Edgar Lionel",Survived,Southampton,Man,19,Adult,Male,,Engineering Crew,E
+"PERRY, Mr Henry Frederick",Died,Southampton,Man,23,Adult,Male,,Engineering Crew,E
+"PERSSON, Mr Ernst Ulrik",Survived,Southampton,Man,25,Adult,Male,7.775,3rd Class Passenger,3
+"PERUSCHITZ, Fr Josef",Died,Southampton,Man,41,Adult,Male,13,2nd Class Passenger,2
+"PETER / JOSEPH, Master Michael J. (Michael Joseph)",Survived,Cherbourg,Child,4,Child,Male,22.59,,3
+"PETER / JOSEPH, Miss Anna (Mary Joseph)",Survived,Cherbourg,Child,2,Child,Female,22.59,,3
+"PETER / JOSEPH, Mrs Catherine",Survived,Cherbourg,Woman,24,Adult,Female,22.59,3rd Class Passenger,3
+"PETERS, Miss Katie",Died,Queenstown,Woman,26,Adult,Female,8.1375,3rd Class Passenger,3
+"PETERS, Mr William Chapman",Survived,Southampton,Man,26,Adult,Male,,Deck Crew,D
+"PETERSEN, Mr Marius",Died,Southampton,Man,24,Adult,Male,8.05,3rd Class Passenger,3
+"PETRANEC, Miss Matilda",Died,Southampton,Woman,28,Adult,Female,7.89583333,3rd Class Passenger,3
+"PETROFF, Mr Nedialco",Died,Southampton,Man,19,Adult,Male,7.89583333,3rd Class Passenger,3
+"PETROFF, Mr Pastcho",Died,Southampton,Man,29,Adult,Male,7.89583333,3rd Class Passenger,3
+"PETTERSSON, Miss Ellen Natalia",Died,Southampton,Woman,18,Adult,Female,7.775,3rd Class Passenger,3
+"PETTERSSON, Mr Johan Emil",Died,Southampton,Man,25,Adult,Male,7.775,3rd Class Passenger,3
+"PETTY, Mr Edwin Henry",Died,Southampton,Man,25,Adult,Male,,Victualling Crew,V
+"PEUCHEN, Major Arthur Godfrey",Survived,Southampton,Man,52,Adult,Male,30.5,1st Class Passenger,1
+"PFROPPER, Mr Richard Paul Jozef",Survived,Southampton,Man,30,Adult,Male,,Victualling Crew,V
+"PHILLIMORE, Mr Harold Charles William",Survived,Belfast,Man,23,Adult,Male,,Victualling Crew,V
+"PHILLIPS, Miss Alice Frances Louisa",Survived,Southampton,Woman,21,Adult,Female,21,2nd Class Passenger,2
+"PHILLIPS, Miss Kate Florence",Survived,Southampton,Woman,19,Adult,Female,26,2nd Class Passenger,2
+"PHILLIPS, Mr A. George",Died,Southampton,Man,27,Adult,Male,,Engineering Crew,E
+"PHILLIPS, Mr Escott Robert",Died,Southampton,Man,42,Adult,Male,21,2nd Class Passenger,2
+"PHILLIPS, Mr John George",Died,Belfast,Man,25,Adult,Male,,Victualling Crew,V
+"PHILLIPS, Mr Walter John",Died,Southampton,Man,35,Adult,Male,,Restaurant Staff,R
+"PIATTI, Sig. Louis",Died,Southampton,Man,17,Adult,Male,,Restaurant Staff,R
+"PIAZZA, Sig. Pompeo Gaspro",Died,Southampton,Man,32,Adult,Male,,Restaurant Staff,R
+"PICKARD, Mr Berk",Survived,Southampton,Man,32,Adult,Male,8.05,3rd Class Passenger,3
+"PINSKY, Mrs Rosa",Survived,Southampton,Woman,32,Adult,Female,13,2nd Class Passenger,2
+"PITFIELD, Mr William James",Died,Southampton,Man,25,Adult,Male,,Engineering Crew,E
+"PITMAN, Mr Herbert John",Survived,Belfast,Man,34,Adult,Male,,Deck CrewTitanic Officers,D
+"PLATT, Mr Wilfred George",Died,Southampton,Man,18,Adult,Male,,Victualling Crew,V
+"PLOTCHARSKY, Mr Vasil",Died,Southampton,Man,27,Adult,Male,7.89583333,3rd Class Passenger,3
+"PODESTA, Mr Alfred John Alexander",Survived,Southampton,Man,24,Adult,Male,,Engineering Crew,E
+"POGGI, Sig. Emilio",Died,Southampton,Man,28,Adult,Male,,Restaurant Staff,R
+"POINGDESTRE, Mr John Thomas",Survived,Southampton,Man,33,Adult,Male,,Deck Crew,D
+"POKRNIC, Mr Mate",Died,Southampton,Man,17,Adult,Male,8.6625,3rd Class Passenger,3
+"POKRNIC, Mr Tome",Died,Southampton,Man,24,Adult,Male,8.6625,3rd Class Passenger,3
+"POND, Mr George",Died,Southampton,Man,32,Adult,Male,,Engineering Crew,E
+"PONESELL, Mr Martin",Died,Southampton,Man,24,Adult,Male,13,2nd Class Passenger,2
+"POOK, Mr Percy Robert",Died,Southampton,Man,34,Adult,Male,,Victualling Crew,V
+"PORT, Mr Frank",Survived,Southampton,Man,22,Adult,Male,,Victualling Crew,V
+"PORTALUPPI, Mr Emilio Ilario Giuseppe",Survived,Cherbourg,Man,30,Adult,Male,12.7375,2nd Class Passenger,2
+"PORTER, Mr Walter Chamberlain",Died,Southampton,Man,46,Adult,Male,52,1st Class Passenger,1
+"PORTEUS, Mr Thomas Henry",Died,Southampton,Man,32,Adult,Male,,Victualling Crew,V
+"POTTER, Mrs Lily Alexenia",Survived,Cherbourg,Woman,56,Adult,Female,83.1583333,1st Class Passenger,1
+"PRANGNELL, Mr George Alexander",Survived,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"PRENTICE, Mr Frank Winnold",Survived,Southampton,Man,23,Adult,Male,,Victualling Crew,V
+"PRESTON, Mr Thomas Charles Alfred",Died,Southampton,Man,20,Adult,Male,,Engineering Crew,E
+"PRICE, Mr Ernest Cyril",Died,Southampton,Man,17,Adult,Male,,Restaurant Staff,R
+"PRICHARD, Mrs Alice Maud",Survived,Southampton,Woman,34,Adult,Female,,Victualling Crew,V
+"PRIDEAUX, Mr John Arthur (Jack)",Died,Southampton,Man,23,Adult,Male,,Victualling Crew,V
+"PRIEST, Mr Arthur John",Survived,Southampton,Man,24,Adult,Male,,Engineering Crew,E
+"PRIOR, Mr Harold John Arnold",Survived,Southampton,Man,21,Adult,Male,,Victualling Crew,V
+"PROCTOR, Mr Charles",Died,Belfast,Man,45,Adult,Male,,Victualling Crew,V
+"PROUDFOOT, Mr Richard Royston",Died,Southampton,Man,23,Adult,Male,,Engineering Crew,E
+"PRYCE, Mr Charles William",Died,Southampton,Man,22,Adult,Male,,Victualling Crew,V
+"PUGH, Mr Alfred",Survived,Southampton,Man,20,Adult,Male,,Victualling Crew,V
+"PUGH, Mr Arthur Percy",Died,Southampton,Man,31,Adult,Male,,Engineering Crew,E
+"PULBAUM, Mr Franz",Died,Cherbourg,Man,27,Adult,Male,15,2nd Class Passenger,2
+"PULNER, Mr Uscher",Died,Cherbourg,Man,16,Adult,Male,8.7125,3rd Class Passenger,3
+"PUSEY, Mr William Robert Holland",Survived,Southampton,Man,22,Adult,Male,,Engineering Crew,E
+"PUZEY, Mr John Edward",Died,Belfast,Man,44,Adult,Male,,Victualling Crew,V
+"QUICK, Miss Phyllis May",Survived,Southampton,Child,2,Child,Female,26,2nd Class Passenger,2
+"QUICK, Miss Winifred Vera",Survived,Southampton,Child,8,Child,Female,26,2nd Class Passenger,2
+"QUICK, Mrs Jane",Survived,Southampton,Woman,33,Adult,Female,26,2nd Class Passenger,2
+"RADEFF, Mr Alexander",Died,Southampton,Man,27,Adult,Male,7.89583333,3rd Class Passenger,3
+"RANDALL, Mr Frank Henry",Died,Southampton,Man,29,Adult,Male,,Victualling Crew,V
+"RANGER, Mr Thomas",Survived,Southampton,Man,29,Adult,Male,,Engineering Crew,E
+"RANSOM, Mr James Augustus",Died,Belfast,Man,49,Adult,Male,,Victualling Crew,V
+"RASMUSSEN, Mrs Lena Jakobsen",Died,Southampton,Woman,63,Adult,Female,8.1125,3rd Class Passenger,3
+"RATTENBURY, Mr William Henry",Died,Belfast,Man,37,Adult,Male,,Victualling Crew,V
+"RATTI, Sig. Enrico",Died,Southampton,Man,21,Adult,Male,,Restaurant Staff,R
+"RAY, Mr Frederick Dent",Survived,Belfast,Man,32,Adult,Male,,Victualling Crew,V
+"RAZI, Mr Raihed",Died,Cherbourg,Man,30,Adult,Male,7.22916667,3rd Class Passenger,3
+"READ, Mr Joseph",Died,Southampton,Man,21,Adult,Male,,Engineering Crew,E
+"REED, Mr James George",Died,Southampton,Man,19,Adult,Male,7.25,3rd Class Passenger,3
+"REED, Mr Thomas Charles Prowse",Died,Southampton,Man,54,Adult,Male,,Victualling Crew,V
+"REEVES, Mr David",Died,Southampton,Man,36,Adult,Male,10.5,2nd Class Passenger,2
+"REEVES, Mr Frederick Simms",Died,Southampton,Man,33,Adult,Male,,Engineering Crew,E
+"REID, Mr Robert Thomas",Died,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"REKIC, Mr Tido",Died,Southampton,Man,38,Adult,Male,7.89583333,3rd Class Passenger,3
+"RENOUF, Mr Peter Henry",Died,Southampton,Man,33,Adult,Male,21,2nd Class Passenger,2
+"RENOUF, Mrs Lillian",Survived,Southampton,Woman,30,Adult,Female,21,2nd Class Passenger,2
+"REUCHLIN, Mr Jonkheer Johan George",Died,Cherbourg,Man,37,Adult,Male,0,1st Class Passenger,1
+"REVELL, Mr William James Francis",Died,Belfast,Man,31,Adult,Male,,Victualling Crew,V
+"REYNALDS, Sra. Encarnaci_n",Survived,Southampton,Woman,28,Adult,Female,13,2nd Class Passenger,2
+"REYNOLDS, Mr Harold",Died,Southampton,Man,21,Adult,Male,8.05,,3
+"RHEIMS, Mr George Alexander Lucien",Survived,Cherbourg,Man,33,Adult,Male,39.6,1st Class Passenger,1
+"RICALDONE, Sig. Rinaldo Renato",Died,Southampton,Man,22,Adult,Male,,Restaurant Staff,R
+"RICE, Master Albert",Died,Queenstown,Child,10,Child,Male,29.125,3rd Class Passenger,3
+"RICE, Master Arthur",Died,Queenstown,Child,4,Child,Male,29.125,3rd Class Passenger,3
+"RICE, Master Eric",Died,Queenstown,Child,7,Child,Male,29.125,3rd Class Passenger,3
+"RICE, Master Eugene Francis",Died,Queenstown,Child,2,Child,Male,29.125,3rd Class Passenger,3
+"RICE, Master George Hugh",Died,Queenstown,Child,8,Child,Male,29.125,3rd Class Passenger,3
+"RICE, Mr Charles",Survived,Southampton,Man,32,Adult,Male,,Engineering Crew,E
+"RICE, Mr John Reginald",Died,Southampton,Man,25,Adult,Male,,Victualling Crew,V
+"RICE, Mr Percy",Died,Southampton,Man,19,Adult,Male,,Victualling Crew,V
+"RICE, Mrs Margaret",Died,Queenstown,Woman,39,Adult,Female,29.125,3rd Class Passenger,3
+"RICHARD, Mr Emile Phillippe",Died,Cherbourg,Man,23,Adult,Male,15,2nd Class Passenger,2
+"RICHARDS, Master Sibley George",Survived,Southampton,Child,0.75,Child,Male,18.75,2nd Class Passenger,2
+"RICHARDS, Master William Rowe",Survived,Southampton,Child,3,Child,Male,18.75,2nd Class Passenger,2
+"RICHARDS, Mr Joseph James",Died,Southampton,Man,28,Adult,Male,,Engineering Crew,E
+"RICHARDS, Mrs Emily",Survived,Southampton,Woman,24,Adult,Female,18.75,2nd Class Passenger,2
+"RICKMAN, Mr George Albert",Died,Southampton,Man,36,Adult,Male,,Engineering Crew,E
+"RICKS, Mr Cyril Gordon",Died,Southampton,Man,23,Adult,Male,,Victualling Crew,V
+"RIDOUT, Mr Walter George",Died,Southampton,Man,29,Adult,Male,,Victualling Crew,V
+"RIDSDALE, Miss Lucy",Survived,Southampton,Woman,58,Adult,Female,10.5,2nd Class Passenger,2
+"RIGHINI, Mr Sante",Died,Cherbourg,Man,22,Adult,Male,135.633333,1st Class PassengerServant,1
+"RIGOZZI, Sig. Abele",Died,Southampton,Man,22,Adult,Male,,Restaurant Staff,R
+"RIIHIVUORI, Miss Susanna Juhantyt_r",Died,Southampton,Woman,22,Adult,Female,39.6875,3rd Class Passenger,3
+"RIMMER, Mr Gilbert",Died,Southampton,Man,28,Adult,Male,,Victualling Crew,V
+"RINTAM_KI, Mr Matti",Died,Southampton,Man,35,Adult,Male,7.125,3rd Class Passenger,3
+"RIORDAN, Miss Hannah",Survived,Queenstown,Woman,18,Adult,Female,7.72083333,3rd Class Passenger,3
+"RISIEN, Mr Samuel Beard",Died,Southampton,Man,69,Adult,Male,14.5,3rd Class Passenger,3
+"RISIEN, Mrs Emma",Died,Southampton,Woman,58,Adult,Female,14.5,3rd Class Passenger,3
+"ROBBINS, Mr Victor",Died,Cherbourg,Man,42,Adult,Male,247.525,1st Class PassengerServant,1
+"ROBERT, Mrs Elisabeth Walton",Survived,Southampton,Woman,43,Adult,Female,211.3375,1st Class Passenger,1
+"ROBERTON, Mr George Edward",Died,Southampton,Man,19,Adult,Male,,Victualling Crew,V
+"ROBERTS, Mr Frank John",Died,Belfast,Man,36,Adult,Male,,Victualling Crew,V
+"ROBERTS, Mr Hugh H.",Died,Belfast,Man,40,Adult,Male,,Victualling Crew,V
+"ROBERTS, Mr Robert George",Died,Southampton,Man,35,Adult,Male,,Engineering Crew,E
+"ROBERTS, Mrs Mary Kezia",Survived,Southampton,Woman,41,Adult,Female,,Victualling Crew,V
+"ROBINS, Mr Alexander A.",Died,Southampton,Man,50,Adult,Male,14.5,3rd Class Passenger,3
+"ROBINS, Mrs Grace Charity",Died,Southampton,Woman,47,Adult,Female,14.5,3rd Class Passenger,3
+"ROBINSON, Mr James William",Died,Southampton,Man,30,Adult,Male,,Victualling Crew,V
+"ROBINSON, Mrs Annie",Survived,Southampton,Woman,40,Adult,Female,,Victualling Crew,V
+"ROEBLING, Mr Washington Augustus II",Died,Southampton,Man,31,Adult,Male,50.4958333,1st Class Passenger,1
+"ROGERS, Mr Edward James William",Died,Southampton,Man,31,Adult,Male,,Victualling Crew,V
+"ROGERS, Mr Michael",Died,Southampton,Man,27,Adult,Male,,Victualling Crew,V
+"ROGERS, Mr Reginald Harry",Died,Southampton,Man,18,Adult,Male,10.5,2nd Class Passenger,2
+"ROGERS, Mr William John",Died,Southampton,Man,29,Adult,Male,8.05,3rd Class Passenger,3
+"ROMAINE, Mr Charles Hallace",Survived,Southampton,Man,45,Adult,Male,26.55,1st Class Passenger,1
+"ROMMETVEDT, Mr Knud Paust",Died,Southampton,Man,49,Adult,Male,7.775,3rd Class Passenger,3
+"ROOD, Mr Hugh Roscoe",Died,Southampton,Man,39,Adult,Male,50,1st Class Passenger,1
+"ROSBLOM, Miss Salli Helena",Died,Southampton,Child,2,Child,Female,20.2125,3rd Class Passenger,3
+"ROSBLOM, Mr Viktor Richard",Died,Southampton,Man,18,Adult,Male,20.2125,3rd Class Passenger,3
+"ROSBLOM, Mrs Helena Wilhelmina",Died,Southampton,Woman,41,Adult,Female,20.2125,3rd Class Passenger,3
+"ROSENBAUM, Miss Edith Louise",Survived,Cherbourg,Woman,33,Adult,Female,27.7208333,1st Class Passenger,1
+"ROSENSHINE, Mr George",Died,Cherbourg,Man,46,Adult,Male,79,1st Class Passenger,1
+"ROSS, Mr Horace Leopold",Survived,Southampton,Man,38,Adult,Male,,Victualling Crew,V
+"ROSS, Mr John Hugo",Died,Southampton,Man,36,Adult,Male,40.125,1st Class Passenger,1
+"ROTH, Miss Sarah",Survived,Southampton,Woman,31,Adult,Female,8.05,,3
+"ROTHES, Lucy Nol Martha, Countess of",Survived,Southampton,Woman,33,Adult,Female,86.5,1st Class Passenger,1
+"ROTHSCHILD, Mr Martin",Died,Cherbourg,Man,46,Adult,Male,59.4,1st Class Passenger,1
+"ROTHSCHILD, Mrs Elizabeth Jane Anne",Survived,Cherbourg,Woman,54,Adult,Female,59.4,1st Class Passenger,1
+"ROTTA, Sig. Angelo Mario",Died,Southampton,Man,23,Adult,Male,,Restaurant Staff,R
+"ROUS, Mr Arthur John",Died,Belfast,Man,26,Adult,Male,,Engineering Crew,E
+"ROUSE, Mr Richard Henry",Died,Southampton,Man,53,Adult,Male,8.05,3rd Class Passenger,3
+"ROUSSEAU, Mr Pierre",Died,Southampton,Man,49,Adult,Male,,Restaurant Staff,R
+"ROWE, Mr Alfred G.",Died,Southampton,Man,59,Adult,Male,26.55,1st Class Passenger,1
+"ROWE, Mr Edgar Maurice",Died,Belfast,Man,31,Adult,Male,,Victualling Crew,V
+"ROWE, Mr George Thomas",Survived,Belfast,Man,32,Adult,Male,,Deck Crew,D
+"RUDD, Mr Henry",Died,Southampton,Man,23,Adult,Male,,Engineering Crew,E
+"RUGG, Miss Emily",Survived,Southampton,Woman,21,Adult,Female,10.5,2nd Class Passenger,2
+"RULE, Mr Samuel James",Survived,Belfast,Man,58,Adult,Male,,Victualling Crew,V
+"RUSH, Mr Alfred George John",Died,Southampton,Man,17,Adult,Male,8.05,3rd Class Passenger,3
+"RUSSELL, Mr Boysie Richard",Died,Southampton,Man,17,Adult,Male,,Victualling Crew,V
+"RUTTER, Mr Sidney Frank",Died,Southampton,Man,26,Adult,Male,,,E
+"RYAN, Mr Edward",Survived,Queenstown,Man,24,Adult,Male,7.75,3rd Class Passenger,3
+"RYAN, Mr Patrick",Died,Queenstown,Man,29,Adult,Male,24.15,3rd Class Passenger,3
+"RYAN, Mr Thomas",Died,Southampton,Man,27,Adult,Male,,Victualling Crew,V
+"RYERSON, Master John Borie",Survived,Cherbourg,Child,13,Child,Male,262.375,1st Class Passenger,1
+"RYERSON, Miss Emily Borie",Survived,Cherbourg,Woman,18,Adult,Female,262.375,1st Class Passenger,1
+"RYERSON, Miss Susan Parker Suzette",Survived,Cherbourg,Woman,21,Adult,Female,262.375,,1
+"RYERSON, Mr Arthur Larned",Died,Cherbourg,Man,61,Adult,Male,262.375,1st Class Passenger,1
+"RYERSON, Mr William Edwy",Survived,Southampton,Man,33,Adult,Male,,Victualling Crew,V
+"RYERSON, Mrs Emily Maria",Survived,Cherbourg,Woman,48,Adult,Female,262.375,1st Class Passenger,1
+"SAAD, Mr Amin",Died,Cherbourg,Man,30,Adult,Male,7.22916667,3rd Class Passenger,3
+"SAAD, Mr Khalil",Died,Cherbourg,Man,27,Adult,Male,7.225,3rd Class Passenger,3
+"SAALFELD, Mr Adolphe",Survived,Southampton,Man,47,Adult,Male,30.5,1st Class Passenger,1
+"SACCAGGI, Sig. Giovanni Giuseppe Emilio",Died,Southampton,Man,24,Adult,Male,,Restaurant Staff,R
+"SADLIER, Mr Matthew",Died,Queenstown,Man,18,Adult,Male,7.72916667,3rd Class Passenger,3
+"SADOWITZ, Mr Henry",Died,Southampton,Man,17,Adult,Male,7.59166667,,3
+"S_THER, Mr Simon Sivertsen",Died,Southampton,Man,43,Adult,Male,7.25,3rd Class Passenger,3
+"SAGE, Master Anthony William",Died,Southampton,Child,12,Child,Male,69.55,3rd Class Passenger,3
+"SAGE, Master Thomas Henry",Died,Southampton,Child,4,Child,Male,69.55,3rd Class Passenger,3
+"SAGE, Miss Constance Gladys",Died,Southampton,Child,7,Child,Female,69.55,3rd Class Passenger,3
+"SAGE, Miss Dorothy",Died,Southampton,Child,14,Child,Female,69.55,3rd Class Passenger,3
+"SAGE, Miss Elizabeth Ada",Died,Southampton,Child,10,Child,Female,69.55,3rd Class Passenger,3
+"SAGE, Miss Stella Anne",Died,Southampton,Woman,20,Adult,Female,69.55,3rd Class Passenger,3
+"SAGE, Mr Douglas Bullen",Died,Southampton,Man,18,Adult,Male,69.55,3rd Class Passenger,3
+"SAGE, Mr Frederick",Died,Southampton,Man,16,Adult,Male,69.55,3rd Class Passenger,3
+"SAGE, Mr George John",Died,Southampton,Man,19,Adult,Male,69.55,3rd Class Passenger,3
+"SAGE, Mr John George",Died,Southampton,Man,44,Adult,Male,69.55,3rd Class Passenger,3
+"SAGE, Mrs Annie Elizabeth",Died,Southampton,Woman,44,Adult,Female,69.55,3rd Class Passenger,3
+"S_GESSER, Mlle Emma",Survived,Cherbourg,Woman,24,Adult,Female,69.3,1st Class PassengerServant,1
+"SALANDER, Mr Karl Johan",Died,Southampton,Man,24,Adult,Male,9.325,3rd Class Passenger,3
+"SALKJELSVIK, Miss Anna Kristine",Survived,Southampton,Woman,21,Adult,Female,7.65,3rd Class Passenger,3
+"SALOMON, Mr Abraham Lincoln",Survived,Cherbourg,Man,43,Adult,Male,26,1st Class Passenger,1
+"SALONEN, Mr Johan Werner",Died,Southampton,Man,29,Adult,Male,7.925,3rd Class Passenger,3
+"SALUSSOLIA, Sig. Govanni",Died,Southampton,Man,25,Adult,Male,,Restaurant Staff,R
+"SAMAAN, Mr Elias",Died,Cherbourg,Man,17,Adult,Male,21.6791667,3rd Class Passenger,3
+"SAMAAN, Mr Hanna Elias",Died,Cherbourg,Man,40,Adult,Male,21.6791667,3rd Class Passenger,3
+"SAMAAN, Mr Youssef",Died,Cherbourg,Man,16,Adult,Male,21.6791667,3rd Class Passenger,3
+"SAMUEL, Mr Owen Wilmore",Died,Southampton,Man,46,Adult,Male,,Victualling Crew,V
+"SANDSTRM, Miss Beatrice Irene",Survived,Southampton,Child,1,Child,Female,16.7,3rd Class Passenger,3
+"SANDSTRM, Miss Marguerite Rut",Survived,Southampton,Child,4,Child,Female,16.7,3rd Class Passenger,3
+"SANDSTRM, Mrs Agnes Charlotta",Survived,Southampton,Woman,24,Adult,Female,16.7,3rd Class Passenger,3
+"SANGSTER, Mr Charles Edward",Died,Southampton,Man,32,Adult,Male,,Engineering Crew,E
+"SAP, Mr Julius (Jules)",Survived,Southampton,Man,21,Adult,Male,9.5,,3
+"SARTORI, Sig. Lazar",Died,Southampton,Man,24,Adult,Male,,Restaurant Staff,R
+"SAUNDERCOCK, Mr William Henry",Died,Southampton,Man,19,Adult,Male,8.05,3rd Class Passenger,3
+"SAUNDERS, Mr D. E.",Died,Southampton,Man,26,Adult,Male,,Victualling Crew,V
+"SAUNDERS, Mr F.",Died,Southampton,Man,23,Adult,Male,,Engineering Crew,E
+"SAUNDERS, Mr W.",Died,Southampton,Man,23,Adult,Male,,Engineering Crew,E
+"SAUNDERS, Mr Walter Edward",Died,Southampton,Man,23,Adult,Male,,Engineering Crew,E
+"SAVAGE, Mr Charles Joseph",Survived,Southampton,Man,23,Adult,Male,,Victualling Crew,V
+"SAWYER, Mr Frederick Charles",Died,Southampton,Man,33,Adult,Male,8.05,3rd Class Passenger,3
+"SAWYER, Mr Robert James",Died,Southampton,Man,31,Adult,Male,,Deck Crew,D
+"SCANLAN, Mr James",Died,Queenstown,Man,22,Adult,Male,7.725,3rd Class Passenger,3
+"SCARROTT, Mr Joseph George",Survived,Southampton,Man,33,Adult,Male,,Deck Crew,D
+"SCAVINO, Sig. Candido",Died,Southampton,Man,42,Adult,Male,,Restaurant Staff,R
+"SCHABERT, Mrs Emma",Survived,Cherbourg,Woman,35,Adult,Female,57.75,1st Class Passenger,1
+"SCHEERLINCK, Mr Jean",Survived,Southampton,Man,29,Adult,Male,9.5,3rd Class Passenger,3
+"SCHMIDT, Mr August",Died,Southampton,Man,26,Adult,Male,13,2nd Class Passenger,2
+"SCOTT, Mr Archibald",Died,Southampton,Man,41,Adult,Male,,Engineering Crew,E
+"SCOTT, Mr Frederick William",Survived,Southampton,Man,28,Adult,Male,,Engineering Crew,E
+"SCOTT, Mr John",Died,Southampton,Man,19,Adult,Male,,Victualling Crew,V
+"SCOVELL, Mr Robert",Died,Southampton,Man,54,Adult,Male,,Victualling Crew,V
+"SDYCOFF, Mr Todor",Died,Southampton,Man,42,Adult,Male,7.89583333,3rd Class Passenger,3
+"SEDGWICK, Mr Charles Frederick Waddington",Died,Southampton,Man,28,Adult,Male,13,2nd Class Passenger,2
+"SEDUNARY, Mr Samuel Francis",Died,Southampton,Man,25,Adult,Male,,Victualling Crew,V
+"SELF, Mr Albert Charles Edward",Survived,Southampton,Man,24,Adult,Male,,Engineering Crew,E
+"SELF, Mr Alfred Henry",Died,Southampton,Man,39,Adult,Male,,Engineering Crew,E
+"SEMAN, Master Betros",Died,Cherbourg,Child,10,Child,Male,4,3rd Class Passenger,3
+"SENIOR, Mr Harry",Survived,Southampton,Man,31,Adult,Male,,Engineering Crew,E
+"SERREPLAN, Miss Auguste",Survived,Southampton,Woman,30,Adult,Female,31,1st Class PassengerServant,1
+"SESIA, Sig. Giacomo",Died,Southampton,Man,24,Adult,Male,,Restaurant Staff,R
+"SEWARD, Mr Frederic Kimber",Survived,Southampton,Man,34,Adult,Male,26.55,1st Class Passenger,1
+"SEWARD, Mr Wilfred Deable",Survived,Southampton,Man,25,Adult,Male,,Victualling Crew,V
+"SHARP, Mr Percival",Died,Southampton,Man,27,Adult,Male,26,2nd Class Passenger,2
+"SHAUGHNESSY, Mr Patrick",Died,Queenstown,Man,24,Adult,Male,7.75,3rd Class Passenger,3
+"SHAW, Mr Henry",Died,Southampton,Man,39,Adult,Male,,Victualling Crew,V
+"SHEA, Mr John Joseph",Died,Belfast,Man,39,Adult,Male,,Victualling Crew,V
+"SHEA, Mr Thomas",Died,Southampton,Man,32,Adult,Male,,Engineering Crew,E
+"SHEATH, Mr Frederick",Survived,Southampton,Man,20,Adult,Male,,Engineering Crew,E
+"SHEDID, Mr Daher",Died,Cherbourg,Man,19,Adult,Male,7.225,3rd Class Passenger,3
+"SHELLARD, Mr Frederick William Blainey",Died,Southampton,Man,55,Adult,Male,15.1,3rd Class Passenger,3
+"SHELLEY, Mrs Imanita Parrish",Survived,Southampton,Woman,25,Adult,Female,26,2nd Class Passenger,2
+"SHEPHERD, Mr Jonathan",Died,Southampton,Man,32,Adult,Male,,Engineering Crew,E
+"SHIERS, Mr Alfred Charles",Survived,Southampton,Man,25,Adult,Male,,Engineering Crew,E
+"SHIHaB, Mr Al-Amir Faris",Died,Cherbourg,Man,29,Adult,Male,7.225,,3
+"SHILLABEER, Mr Charles Frederick",Died,Southampton,Man,19,Adult,Male,,Engineering Crew,E
+"SHINE, Miss Ellen",Survived,Queenstown,Woman,20,Adult,Female,7.829,,3
+"SHORNEY, Mr Charles Joseph",Died,Southampton,Man,22,Adult,Male,8.05,3rd Class Passenger,3
+"SHUTES, Miss Elizabeth Weed",Survived,Southampton,Woman,40,Adult,Female,153.4625,1st Class PassengerServant,1
+"SIEBERT, Mr Sidney Conrad",Died,Belfast,Man,29,Adult,Male,,Victualling Crew,V
+"SILVN, Miss Lyyli Karoliina",Survived,Southampton,Woman,17,Adult,Female,13,2nd Class Passenger,2
+"SILVERTHORNE, Mr Spencer Victor",Survived,Southampton,Man,35,Adult,Male,26.2875,1st Class Passenger,1
+"SILVEY, Mr William Baird",Died,Cherbourg,Man,51,Adult,Male,55.9,1st Class Passenger,1
+"SILVEY, Mrs Alice Gray",Survived,Cherbourg,Woman,39,Adult,Female,55.9,,1
+"SIMMONS, Mr Andrew George James",Survived,Southampton,Man,31,Adult,Male,,Victualling Crew,V
+"SIMMONS, Mr Frederick Charles",Died,Southampton,Man,24,Adult,Male,,Victualling Crew,V
+"SIMMONS, Mr John",Died,Southampton,Man,40,Adult,Male,8.05,3rd Class Passenger,3
+"SIMMONS, Mr William",Died,Southampton,Man,35,Adult,Male,,Victualling Crew,V
+"SIMONIUS-BLUMER, Mr Colonel (Oberst) Alfons",Survived,Southampton,Man,56,Adult,Male,35.5,1st Class Passenger,1
+"SIMPSON, Dr John Edward",Died,Southampton,Man,37,Adult,Male,,Deck Crew,D
+"SINCOCK, Miss Maude",Survived,Southampton,Woman,20,Adult,Female,36.75,2nd Class Passenger,2
+"SINKKONEN, Miss Anna",Survived,Southampton,Woman,29,Adult,Female,13,2nd Class Passenger,2
+"SIRAYANIAN, Mr Orsen",Died,Cherbourg,Man,22,Adult,Male,7.22916667,3rd Class Passenger,3
+"SIROTA, Mr Morris",Died,Southampton,Man,20,Adult,Male,8.05,,3
+"SIVIC, Mr Husein",Died,Southampton,Man,40,Adult,Male,7.89583333,3rd Class Passenger,3
+"SIVIER, Mr William",Died,Southampton,Man,23,Adult,Male,,Victualling Crew,V
+"SIVOLA, Mr Antti Wilhelm",Died,Southampton,Man,21,Adult,Male,7.925,3rd Class Passenger,3
+"SJoBLOM, Miss Anna Sofia",Survived,Southampton,Woman,18,Adult,Female,6.49583333,3rd Class Passenger,3
+"SJoSTEDT, Mr Ernst Adolf",Died,Southampton,Man,59,Adult,Male,13.5,2nd Class Passenger,2
+"SKEATES, Mr William",Died,Southampton,Man,23,Adult,Male,,Engineering Crew,E
+"SKINNER, Mr Edward",Died,Belfast,Man,33,Adult,Male,,Victualling Crew,V
+"SKOOG, Master Harald",Died,Southampton,Child,5,Child,Male,27.9,3rd Class Passenger,3
+"SKOOG, Master Karl Thorsten",Died,Southampton,Child,11,Child,Male,27.9,3rd Class Passenger,3
+"SKOOG, Miss Mabel",Died,Southampton,Child,9,Child,Female,27.9,3rd Class Passenger,3
+"SKOOG, Miss Margit Elizabeth",Died,Southampton,Child,2,Child,Female,27.9,3rd Class Passenger,3
+"SKOOG, Mr Wilhelm (William Johansson)",Died,Southampton,Man,40,Adult,Male,27.9,,3
+"SKOOG, Mrs Anna Bernhardina",Died,Southampton,Woman,43,Adult,Female,27.9,3rd Class Passenger,3
+"SLABENOFF, Mr Petco",Died,Southampton,Man,42,Adult,Male,7.89583333,3rd Class Passenger,3
+"SLAYTER, Miss Hilda Mary",Survived,Queenstown,Woman,30,Adult,Female,12.35,2nd Class Passenger,2
+"SLEMEN, Mr Richard James",Died,Southampton,Man,35,Adult,Male,10.5,2nd Class Passenger,2
+"SLIGHT, Mr Harry John",Died,Southampton,Man,33,Adult,Male,,Victualling Crew,V
+"SLIGHT, Mr William Henry James",Died,Belfast,Man,36,Adult,Male,,Victualling Crew,V
+"SLOAN, Miss Mary",Survived,Southampton,Woman,28,Adult,Female,,Victualling Crew,V
+"SLOAN, Mr Peter",Died,Belfast,Man,31,Adult,Male,,Engineering Crew,E
+"SLOCOMBE, Mrs Maude Louise",Survived,Southampton,Woman,30,Adult,Female,,Victualling Crew,V
+"SLOCOVSKI, Mr Selman Francis",Died,Southampton,Man,20,Adult,Male,8.05,3rd Class Passenger,3
+"SLOPER, Mr William Thompson",Survived,Southampton,Man,28,Adult,Male,35.5,1st Class Passenger,1
+"SMALL, Mr William",Died,Southampton,Man,40,Adult,Male,,Engineering Crew,E
+"SMART, Mr John Montgomery",Died,Southampton,Man,56,Adult,Male,26.55,1st Class Passenger,1
+"SMILJANIC, Mr Mile",Died,Southampton,Man,37,Adult,Male,8.6625,3rd Class Passenger,3
+"SMILLIE, Mr John",Died,Belfast,Man,29,Adult,Male,,Victualling Crew,V
+"SMITH, Captain Edward John",Died,Southampton,Man,62,Adult,Male,,Deck CrewTitanic Officers,D
+"SMITH, Miss Katherine Elizabeth",Survived,Southampton,Woman,44,Adult,Female,,Victualling Crew,V
+"SMITH, Miss Marion Elsie",Survived,Southampton,Woman,39,Adult,Female,13,2nd Class Passenger,2
+"SMITH, Mr Charles",Died,Southampton,Man,38,Adult,Male,,Victualling Crew,V
+"SMITH, Mr Charles Edwin",Died,Southampton,Man,38,Adult,Male,,Victualling Crew,V
+"SMITH, Mr Emest George",Died,Southampton,Man,27,Adult,Male,,Engineering Crew,E
+"SMITH, Mr F.",Died,Belfast,Man,20,Adult,Male,,Victualling Crew,V
+"SMITH, Mr James Clinch",Died,Cherbourg,Man,56,Adult,Male,30.6958333,1st Class Passenger,1
+"SMITH, Mr James Muil",Died,Belfast,Man,39,Adult,Male,,Engineering Crew,E
+"SMITH, Mr James William",Died,Southampton,Man,24,Adult,Male,,Victualling Crew,V
+"SMITH, Mr John Richard Jago",Died,Southampton,Man,35,Adult,Male,,Victualling CrewPostal Clerk,V
+"SMITH, Mr Lucian Philip",Died,Cherbourg,Man,24,Adult,Male,60,1st Class Passenger,1
+"SMITH, Mr Reginald George",Died,Southampton,Man,32,Adult,Male,,,V
+"SMITH, Mr Richard William",Died,Southampton,Man,,Adult,Male,26,1st Class Passenger,1
+"SMITH, Mr William",Died,Southampton,Man,26,Adult,Male,,Deck Crew,D
+"SMITH, Mrs Mary Eloise",Survived,Cherbourg,Woman,18,Adult,Female,60,1st Class Passenger,1
+"SMITHER, Mr Harry John",Died,Southampton,Man,22,Adult,Male,,Engineering Crew,E
+"SMYTH, Miss Julia",Survived,Queenstown,Woman,17,Adult,Female,7.73333333,3rd Class Passenger,3
+"SMYTH, Mr Thomas",Died,Queenstown,Man,26,Adult,Male,7.75,3rd Class Passenger,3
+"SNAPE, Mrs Lucy Violet",Died,Southampton,Woman,22,Adult,Female,,Victualling Crew,V
+"SNELLGROVE, Mr George",Died,Southampton,Man,40,Adult,Male,,Engineering Crew,E
+"SNOOKS, Mr W.",Died,Southampton,Man,26,Adult,Male,,Engineering Crew,E
+"SNOW, Mr Eustace Philip",Survived,Southampton,Man,21,Adult,Male,,Engineering Crew,E
+"SNYDER, Mr John Pillsbury",Survived,Southampton,Man,24,Adult,Male,82.2666667,1st Class Passenger,1
+"SNYDER, Mrs Nelle",Survived,Southampton,Woman,23,Adult,Female,82.2666667,1st Class Passenger,1
+"SOBEY, Mr Samuel James Hayden",Died,Southampton,Man,25,Adult,Male,13,2nd Class Passenger,2
+"SHOLT, Mr Peter Andreas Lauritz Andersen",Died,Southampton,Man,19,Adult,Male,7.65,3rd Class Passenger,3
+"SOMERTON, Mr Francis William",Died,Southampton,Man,30,Adult,Male,8.05,3rd Class Passenger,3
+"SPARKMAN, Mr Henry William",Survived,Southampton,Man,35,Adult,Male,,Engineering Crew,E
+"SPECTOR, Mr Woolf",Died,Southampton,Man,23,Adult,Male,8.05,3rd Class Passenger,3
+"SPEDDEN, Master Robert Douglas",Survived,Cherbourg,Child,6,Child,Male,134.5,1st Class Passenger,1
+"SPEDDEN, Mr Frederic Oakley",Survived,Cherbourg,Man,45,Adult,Male,134.5,1st Class Passenger,1
+"SPEDDEN, Mrs Margaretta Corning",Survived,Cherbourg,Woman,39,Adult,Female,134.5,1st Class Passenger,1
+"SPENCER, Mr William Augustus",Died,Cherbourg,Man,57,Adult,Male,146.520833,1st Class Passenger,1
+"SPENCER, Mrs Marie Eugenie",Survived,Cherbourg,Woman,45,Adult,Female,146.520833,1st Class Passenger,1
+"SPINNER, Mr Henry John",Died,Southampton,Man,32,Adult,Male,8.05,3rd Class Passenger,3
+"STAGG, Mr John Henry",Died,Southampton,Man,38,Adult,Male,,Victualling Crew,V
+"ST_HELIN-MAEGLIN, Dr Max",Survived,Southampton,Man,32,Adult,Male,30.5,1st Class Passenger,1
+"STANBROOK, Mr Augustus George",Died,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"STANEFF, Mr Ivan",Died,Southampton,Man,23,Adult,Male,7.89583333,3rd Class Passenger,3
+"STANKOVIC, Mr Ivan",Died,Cherbourg,Man,33,Adult,Male,8.6875,3rd Class Passenger,3
+"STANLEY, Miss Amy Zillah Elsie",Survived,Southampton,Woman,24,Adult,Female,7.55,3rd Class Passenger,3
+"STANLEY, Mr Edward Roland",Died,Southampton,Man,21,Adult,Male,8.05,3rd Class Passenger,3
+"STANTON, Mr Samuel Ward",Died,Cherbourg,Man,42,Adult,Male,15,2nd Class Passenger,2
+"STAP, Miss Sarah Agnes",Survived,Southampton,Woman,47,Adult,Female,,Victualling Crew,V
+"STEAD, Mr William Thomas",Died,Southampton,Man,62,Adult,Male,26.55,1st Class Passenger,1
+"STEBBINGS, Mr Sydney Frederick",Died,Belfast,Man,35,Adult,Male,,Victualling Crew,V
+"STEEL, Mr Robert Edward",Died,Southampton,Man,29,Adult,Male,,Engineering Crew,E
+"STENGEL, Mr Charles Emil Henry",Survived,Cherbourg,Man,54,Adult,Male,55.4416667,1st Class Passenger,1
+"STENGEL, Mrs Annie May",Survived,Cherbourg,Woman,44,Adult,Female,55.4416667,1st Class Passenger,1
+"STEPHENSON, Mrs Martha",Survived,Cherbourg,Woman,52,Adult,Female,78.2666667,1st Class Passenger,1
+"STEWART, Mr Albert Ankeny",Died,Cherbourg,Man,64,Adult,Male,27.7208333,1st Class Passenger,1
+"STEWART, Mr John",Survived,Belfast,Man,27,Adult,Male,,Victualling Crew,V
+"STOCKER, Mr Henry Dorey",Died,Southampton,Man,20,Adult,Male,,Engineering Crew,E
+"STOKES, Mr Philip Joseph",Died,Southampton,Man,25,Adult,Male,10.5,2nd Class Passenger,2
+"STONE, Mr Edmund",Died,Southampton,Man,33,Adult,Male,,Victualling Crew,V
+"STONE, Mr Edward Thomas",Died,Southampton,Man,29,Adult,Male,,Victualling Crew,V
+"STONE, Mrs Martha Evelyn",Survived,Southampton,Woman,62,Adult,Female,80,1st Class Passenger,1
+"STOREY, Mr Thomas",Died,Southampton,Man,51,Adult,Male,0,3rd Class Passenger,3
+"STOYTCHEFF, Mr Ilia",Died,Southampton,Man,19,Adult,Male,7.89583333,3rd Class Passenger,3
+"STRANDBERG, Miss Ida Sofia",Died,Southampton,Woman,22,Adult,Female,9.8375,3rd Class Passenger,3
+"STRANDN, Mr Juho Niilosson",Survived,Southampton,Man,31,Adult,Male,7.925,3rd Class Passenger,3
+"STRAUS, Mr Isidor",Died,Southampton,Man,67,Adult,Male,221.779167,1st Class Passenger,1
+"STRAUS, Mrs Rosalie Ida",Died,Southampton,Woman,63,Adult,Female,221.779167,1st Class Passenger,1
+"STREET, Mr Thomas Albert",Survived,Southampton,Man,25,Adult,Male,,Engineering Crew,E
+"STRILIC, Mr Ivan",Died,Southampton,Man,27,Adult,Male,8.6625,3rd Class Passenger,3
+"STRM, Miss Telma Matilda",Died,Southampton,Child,2,Child,Female,10.4625,3rd Class Passenger,3
+"STRM, Mrs Elna Matilda",Died,Southampton,Woman,29,Adult,Female,10.4625,3rd Class Passenger,3
+"STROUD, Mr Edward Alfred Orlando",Died,Southampton,Man,19,Adult,Male,,Victualling Crew,V
+"STROUD, Mr Harry John",Died,Southampton,Man,35,Adult,Male,,Victualling Crew,V
+"STRUGNELL, Mr John Herbert",Died,Belfast,Man,34,Adult,Male,,Victualling Crew,V
+"STUBBINGS, Mr Harry Robert",Died,Belfast,Man,31,Adult,Male,,Victualling Crew,V
+"STUBBS, Mr James Henry",Died,Southampton,Man,28,Adult,Male,,Engineering Crew,E
+"SULLIVAN, Mr S.",Died,Southampton,Man,25,Adult,Male,,Engineering Crew,E
+"SUNDERLAND, Mr Victor Francis",Survived,Southampton,Man,20,Adult,Male,8.05,3rd Class Passenger,3
+"SUNDMAN, Mr Johan Julian",Survived,Southampton,Man,44,Adult,Male,7.925,3rd Class Passenger,3
+"SUTEHALL, Mr Henry Jr",Died,Southampton,Man,25,Adult,Male,7.05,3rd Class Passenger,3
+"SUTTON, Mr Frederick",Died,Southampton,Man,61,Adult,Male,32.3208333,1st Class Passenger,1
+"SVENSSON, Mr Johan",Died,Southampton,Man,74,Adult,Male,7.775,3rd Class Passenger,3
+"SVENSSON, Mr Johan Cervin",Survived,Southampton,Child,14,Child,Male,9.225,3rd Class Passenger,3
+"SVENSSON, Mr Olof",Died,Southampton,Man,24,Adult,Male,7.79583333,3rd Class Passenger,3
+"SWAN, Mr William",Died,Belfast,Man,46,Adult,Male,,Victualling Crew,V
+"SWANE, Mr George",Died,Southampton,Man,19,Adult,Male,13,2nd Class PassengerServant,2
+"SWEET, Mr George Frederick",Died,Southampton,Child,14,Child,Male,65,2nd Class Passenger,2
+"SWIFT, Mrs Margaret Welles",Survived,Southampton,Woman,46,Adult,Female,25.9291667,1st Class Passenger,1
+"SYMONDS, Mr John Crane",Died,Belfast,Man,44,Adult,Male,,Victualling Crew,V
+"SYMONS, Mr George Thomas Macdonald",Survived,Southampton,Man,24,Adult,Male,,Deck Crew,D
+"TALBOT, Mr George Frederick Charles",Died,Southampton,Man,20,Adult,Male,,Victualling Crew,V
+"TAMLYN, Mr Frederick",Died,Southampton,Man,23,Adult,Male,,Deck Crew,D
+"TANNuS, Master As'ad",Survived,Cherbourg,Child,0.41,Child,Male,8.51,,3
+"TANNuS, Mr Bashir",Died,Cherbourg,Man,31,Adult,Male,6.4375,,3
+"TANNuS, Mrs Thamin",Survived,Cherbourg,Woman,16,Adult,Female,8.51,,3
+"TAUSSIG, Miss Ruth",Survived,Southampton,Woman,18,Adult,Female,79.65,1st Class Passenger,1
+"TAUSSIG, Mr Emil",Died,Southampton,Man,52,Adult,Male,79.65,1st Class Passenger,1
+"TAUSSIG, Mrs Tillie",Survived,Southampton,Woman,39,Adult,Female,79.65,1st Class Passenger,1
+"TAYLOR, Mr Bernard Cuthbert",Died,Southampton,Man,22,Adult,Male,,Victualling Crew,V
+"TAYLOR, Mr C.",Died,Southampton,Man,35,Adult,Male,,Deck Crew,D
+"TAYLOR, Mr Elmer Zebley",Survived,Southampton,Man,48,Adult,Male,52,1st Class Passenger,1
+"TAYLOR, Mr George",Survived,Southampton,Man,24,Adult,Male,,Engineering Crew,E
+"TAYLOR, Mr J.",Died,Southampton,Man,42,Adult,Male,,Engineering Crew,E
+"TAYLOR, Mr John Henry",Died,Southampton,Man,49,Adult,Male,,Engineering Crew,E
+"TAYLOR, Mr Leonard",Died,Southampton,Man,23,Adult,Male,,Victualling Crew,V
+"TAYLOR, Mr Percy Cornelius",Died,Southampton,Man,32,Adult,Male,0,2nd Class PassengerMusician,2
+"TAYLOR, Mr William Henry",Survived,Southampton,Man,27,Adult,Male,,Engineering Crew,E
+"TAYLOR, Mr William John",Died,Southampton,Man,30,Adult,Male,,Victualling Crew,V
+"TAYLOR, Mrs Juliet Cummins",Survived,Southampton,Woman,49,Adult,Female,52,1st Class Passenger,1
+"TENGLIN, Mr Gunnar Isidor",Survived,Southampton,Man,25,Adult,Male,7.79583333,3rd Class Passenger,3
+"TERRELL, Mr Bertram",Died,Southampton,Man,18,Adult,Male,,Deck Crew,D
+"TERRELL, Mr Frank",Survived,Southampton,Man,27,Adult,Male,,Victualling Crew,V
+"TESTONI, Sig. Ercole",Died,Southampton,Man,23,Adult,Male,,Restaurant Staff,R
+"TEUTON, Mr Thomas Moore",Died,Southampton,Man,32,Adult,Male,,Victualling Crew,V
+"THALER, Mr Montague Donald",Died,Southampton,Man,17,Adult,Male,,Victualling Crew,V
+"THAYER, Mr John Borland",Died,Cherbourg,Man,49,Adult,Male,110.883333,1st Class Passenger,1
+"THAYER, Mr John Borland jr",Survived,Cherbourg,Man,17,Adult,Male,110.883333,1st Class Passenger,1
+"THAYER, Mrs Marian Longstreth",Survived,Cherbourg,Woman,39,Adult,Female,110.883333,1st Class Passenger,1
+"THEISSINGER, Mr Alfred",Survived,Southampton,Man,46,Adult,Male,,Victualling Crew,V
+"THEOBALD, Mr Thomas Leonard",Died,Southampton,Man,34,Adult,Male,8.05,3rd Class Passenger,3
+"THOMAS, Mr Albert Charles",Survived,Southampton,Man,23,Adult,Male,,Victualling Crew,V
+"THOMAS, Mr Benjamin James",Survived,Belfast,Man,30,Adult,Male,,Victualling Crew,V
+"THOMAS, Mr Joseph Wakefield",Died,Southampton,Man,25,Adult,Male,,Engineering Crew,E
+"THOMAS/TANNOUS, Mr John",Died,Cherbourg,Man,34,Adult,Male,6.4375,3rd Class Passenger,3
+"THOMAS/TANNOUS, Mr Tannous",Died,Cherbourg,Man,16,Adult,Male,7.225,3rd Class Passenger,3
+"THOMPSON, Mr Alexander Morrison",Died,Southampton,Man,36,Adult,Male,8.05,3rd Class Passenger,3
+"THOMPSON, Mr Herbert Henry",Died,Belfast,Man,25,Adult,Male,,Victualling Crew,V
+"THOMPSON, Mr John William",Survived,Southampton,Man,35,Adult,Male,,Engineering Crew,E
+"THORLEY, Mr William",Died,Southampton,Man,39,Adult,Male,,Victualling Crew,V
+"THORN, Mr Harry",Died,Southampton,Man,25,Adult,Male,,Victualling Crew,V
+"THORNE, Miss Gertrude Maybelle",Survived,Cherbourg,Woman,38,Adult,Female,80,1st Class Passenger,1
+"THORNEYCROFT, Mr Percival",Died,Southampton,Man,36,Adult,Male,16.1,3rd Class Passenger,3
+"THORNEYCROFT, Mrs Florence Kate",Survived,Southampton,Woman,32,Adult,Female,16.1,3rd Class Passenger,3
+"THRELFALL, Mr Thomas",Survived,Southampton,Man,44,Adult,Male,,Engineering Crew,E
+"THRESHER, Mr George Terrill",Survived,Southampton,Man,25,Adult,Male,,Engineering Crew,E
+"TIETZ, Sig. Carlo/Karl",Died,Southampton,Man,27,Adult,Male,,Restaurant Staff,R
+"TIKKANEN, Mr Juho",Died,Southampton,Man,32,Adult,Male,7.925,3rd Class Passenger,3
+"TIZARD, Mr Arthur Leopold",Died,Southampton,Man,31,Adult,Male,,Engineering Crew,E
+"TOBIN, Mr Roger",Died,Queenstown,Man,20,Adult,Male,7.75,3rd Class Passenger,3
+"TODOROFF, Mr Lalio",Died,Southampton,Man,23,Adult,Male,7.89583333,3rd Class Passenger,3
+"TOMLIN, Mr Ernest Portage",Died,Southampton,Man,22,Adult,Male,8.05,3rd Class Passenger,3
+"TOMS, Mr Fred",Survived,Belfast,Man,29,Adult,Male,,Victualling Crew,V
+"TOOMEY, Miss Ellen Mary",Survived,Southampton,Woman,48,Adult,Female,10.5,2nd Class Passenger,2
+"TOPP, Mr Thomas",Died,Southampton,Man,28,Adult,Male,,Victualling Crew,V
+"ToRBER, Mr Ernst Wilhelm",Died,Southampton,Man,41,Adult,Male,8.05,3rd Class Passenger,3
+"TORFA, Mr Assad",Died,Cherbourg,Man,20,Adult,Male,7.22916667,3rd Class Passenger,3
+"ToRNQUIST, Mr William Henry",Survived,Southampton,Man,25,Adult,Male,0,3rd Class Passenger,3
+"TOSHACK, Mr James Adamson",Died,Southampton,Man,30,Adult,Male,,Victualling Crew,V
+"TOTEVSKI, Mr Hristo Danchev",Died,Southampton,Man,25,Adult,Male,7.89583333,3rd Class Passenger,3
+"TU'MAH, Master Georges Youssef (George Thomas)",Survived,Cherbourg,Child,8,Child,Male,15.245,,3
+"TU'MAH, Miss Maria Youssef (Mary Thomas)",Survived,Cherbourg,Child,9,Child,Female,15.245,,3
+"TOUMA, Mrs Hanna Youssef",Survived,Cherbourg,Woman,27,Adult,Female,15.2458333,3rd Class Passenger,3
+"TOZER, Mr James",Died,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"TRIGGS, Mr Robert",Survived,Southampton,Man,40,Adult,Male,,Engineering Crew,E
+"TROUPIANSKY, Mr Moses Aaron",Died,Southampton,Man,23,Adult,Male,13,2nd Class Passenger,2
+"TROUT, Mrs Jessie Laird",Survived,Southampton,Woman,28,Adult,Female,12.65,,2
+"TROUTT, Miss Edwina Celia",Survived,Southampton,Woman,27,Adult,Female,10.5,2nd Class Passenger,2
+"TUCKER, Mr Gilbert Milligan jr",Survived,Cherbourg,Man,31,Adult,Male,28.5375,1st Class Passenger,1
+"TURCIN, Mr Stjepan",Died,Southampton,Man,36,Adult,Male,7.89583333,3rd Class Passenger,3
+"TURJA, Miss Anna Sofia",Survived,Southampton,Woman,18,Adult,Female,9.84166667,3rd Class Passenger,3
+"TURKULA, Mrs Hedwig",Survived,Southampton,Woman,63,Adult,Female,9.5875,3rd Class Passenger,3
+"TURLEY, Mr Richard",Died,Belfast,Man,36,Adult,Male,,Engineering Crew,E
+"TURNER, Mr George Frederick",Died,Southampton,Man,32,Adult,Male,,Victualling Crew,V
+"TURNER, Mr Leopold Olerenshaw",Died,Belfast,Man,28,Adult,Male,,Victualling Crew,V
+"TURPIN, Mr William John",Died,Southampton,Man,29,Adult,Male,21,2nd Class Passenger,2
+"TURPIN, Mrs Dorothy Ann",Died,Southampton,Woman,26,Adult,Female,21,2nd Class Passenger,2
+"TURVEY, Mr Charles Thomas",Died,Southampton,Man,17,Adult,Male,,Restaurant Staff,R
+"URBINI, Sig. Roberto",Died,Southampton,Man,20,Adult,Male,,Restaurant Staff,R
+"URUCHURTU, Don. Manuel Ramirez",Died,Cherbourg,Man,39,Adult,Male,27.7208333,1st Class Passenger,1
+"VALVASSORI, Sig. Ettore Luigi",Died,Southampton,Man,35,Adult,Male,,Restaurant Staff,R
+"VAN BILLIARD, Master James William",Died,Southampton,Child,10,Child,Male,14.5,3rd Class Passenger,3
+"VAN BILLIARD, Master Walter John",Died,Southampton,Child,9,Child,Male,14.5,3rd Class Passenger,3
+"VAN BILLIARD, Mr Austin Blyler",Died,Southampton,Man,35,Adult,Male,14.5,3rd Class Passenger,3
+"VAN DE VELDE, Mr Johannes Josef",Died,Southampton,Man,35,Adult,Male,9.5,3rd Class Passenger,3
+"VAN DEN STEEN, Mr Leo Peter",Died,Southampton,Man,28,Adult,Male,9.5,3rd Class Passenger,3
+"VAN DER BRUGGE, Mr Wessel Adrianus",Died,Southampton,Man,38,Adult,Male,,Engineering Crew,E
+"VAN DER HOEF, Mr Wyckoff",Died,Belfast,Man,61,Adult,Male,33.5,1st Class Passenger,1
+"VAN IMPE, Miss Catharina",Died,Southampton,Child,10,Child,Female,24.15,3rd Class Passenger,3
+"VAN IMPE, Mr Jean Baptiste",Died,Southampton,Man,36,Adult,Male,24.15,3rd Class Passenger,3
+"VAN IMPE, Mrs Rosalie Paula",Died,Southampton,Woman,30,Adult,Female,24.15,3rd Class Passenger,3
+"VAN MELCKEBEKE, Mr Philemon",Died,Southampton,Man,23,Adult,Male,9.5,3rd Class Passenger,3
+"VANDERCRUYSSEN, Mr Victor",Died,Southampton,Man,46,Adult,Male,9,3rd Class Passenger,3
+"VANDERPLANCKE, Miss Augusta Maria",Died,Southampton,Woman,18,Adult,Female,18,3rd Class Passenger,3
+"VANDERPLANCKE, Mr Julius",Died,Southampton,Man,31,Adult,Male,18,3rd Class Passenger,3
+"VANDERPLANCKE, Mr Leo Edmondus",Died,Southampton,Man,15,Adult,Male,18,3rd Class Passenger,3
+"VANDERPLANCKE, Mrs Emelie Maria",Died,Southampton,Woman,31,Adult,Female,18,3rd Class Passenger,3
+"VANDEWALLE, Mr Nestor Cyriel",Died,Southampton,Man,28,Adult,Male,9.5,3rd Class Passenger,3
+"VARTANIAN, Mr David",Survived,Cherbourg,Man,22,Adult,Male,7.225,3rd Class Passenger,3
+"VEAL, Mr Arthur",Died,Southampton,Man,36,Adult,Male,,Engineering Crew,E
+"VEAL, Mr James",Died,Southampton,Man,40,Adult,Male,13,2nd Class Passenger,2
+"VEAL, Mr Thomas Henry Edom",Died,Southampton,Man,38,Adult,Male,,Victualling Crew,V
+"VEAR, Mr Henry",Died,Southampton,Man,32,Adult,Male,,Engineering Crew,E
+"VEAR, Mr William",Died,Southampton,Man,33,Adult,Male,,Engineering Crew,E
+"VENDEL, Mr Olof Edvin",Died,Southampton,Man,20,Adult,Male,7.85416667,3rd Class Passenger,3
+"VESTRM, Miss Hulda Amanda Adolfina",Died,Southampton,Child,14,Child,Female,7.85416667,3rd Class Passenger,3
+"VICAT, Sig. Alphonse Jean Eugene",Died,Southampton,Man,21,Adult,Male,,Restaurant Staff,R
+"VIGOTT, Mr Philip Francis",Survived,Southampton,Man,32,Adult,Male,,Deck Crew,D
+"VILLVARLANGE, Mr Pierre Lon Gabriel",Died,Southampton,Man,19,Adult,Male,,Restaurant Staff,R
+"VINE, Mr Herbert Thomas Gordon",Died,Southampton,Man,18,Adult,Male,,Restaurant Staff,R
+"VIONI, Sig. Roberto",Died,Southampton,Man,25,Adult,Male,,Restaurant Staff,R
+"VOEGELIN-DUBACH, Sig. Johannes",Died,Southampton,Man,35,Adult,Male,,Restaurant Staff,R
+"VOVK, Mr Janko",Died,Southampton,Man,21,Adult,Male,7.89583333,3rd Class Passenger,3
+"WAELENS, Mr Achille",Died,Southampton,Man,22,Adult,Male,9,3rd Class Passenger,3
+"WAKE, Mr Percy",Died,Southampton,Man,37,Adult,Male,,Victualling Crew,V
+"WALKER, Mr William Anderson",Died,Southampton,Man,48,Adult,Male,34,1st Class Passenger,1
+"WALLCROFT, Miss Ellen 'Nellie'",Survived,Southampton,Woman,36,Adult,Female,21,2nd Class Passenger,2
+"WALLIS, Mrs Catherine Jane",Died,Southampton,Woman,35,Adult,Female,,Victualling Crew,V
+"WALPOLE, Mr James",Died,Belfast,Man,48,Adult,Male,,Victualling Crew,V
+"WALSH, Miss Catherine",Died,Southampton,Woman,32,Adult,Female,,Victualling Crew,V
+"WARD, Miss Annie Moore",Survived,Cherbourg,Woman,35,Adult,Female,512.329167,1st Class PassengerServant,1
+"WARD, Mr Arthur",Died,Belfast,Man,24,Adult,Male,,Engineering Crew,E
+"WARD, Mr Edward",Died,Belfast,Man,34,Adult,Male,,Victualling Crew,V
+"WARD, Mr James William",Died,Southampton,Man,31,Adult,Male,,Engineering Crew,E
+"WARD, Mr Percy Thomas",Died,Belfast,Man,38,Adult,Male,,Victualling Crew,V
+"WARD, Mr William",Survived,Southampton,Man,36,Adult,Male,,Victualling Crew,V
+"WARDNER, Mr Fred Albert",Died,Southampton,Man,39,Adult,Male,,Engineering Crew,E
+"WARE, Mr Frederick",Died,Southampton,Man,34,Adult,Male,8.05,3rd Class Passenger,3
+"WARE, Mr John James",Died,Southampton,Man,45,Adult,Male,21,2nd Class Passenger,2
+"WARE, Mr William Jeffery",Died,Southampton,Man,23,Adult,Male,10.5,2nd Class Passenger,2
+"WARE, Mrs Florence Louise",Survived,Southampton,Woman,31,Adult,Female,21,2nd Class Passenger,2
+"WAREHAM, Mr Robert Arthur",Died,Belfast,Man,37,Adult,Male,,Victualling Crew,V
+"WARREN, Mr Charles William",Died,Southampton,Man,30,Adult,Male,7.55,3rd Class Passenger,3
+"WARREN, Mr Frank Manley",Died,Cherbourg,Man,63,Adult,Male,75.25,1st Class Passenger,1
+"WARREN, Mrs Anna Sophia",Survived,Cherbourg,Woman,60,Adult,Female,75.25,1st Class Passenger,1
+"WARWICK, Mr Tom",Died,Southampton,Man,25,Adult,Male,,Victualling Crew,V
+"WATERIDGE, Mr Edward Lewis",Died,Southampton,Man,25,Adult,Male,,Engineering Crew,E
+"WATSON, Mr Ennis Hastings",Died,Belfast,Man,19,Adult,Male,0,2nd Class PassengerH&W Guarantee Group,2
+"WATSON, Mr W.",Died,Southampton,Man,27,Adult,Male,,Engineering Crew,E
+"WATSON, Mr William Albert",Died,Southampton,Child,14,Child,Male,,Victualling Crew,V
+"WATT, Miss Robertha Josephine",Survived,Southampton,Child,12,Child,Female,15.75,2nd Class Passenger,2
+"WATT, Mrs Elizabeth",Survived,Southampton,Woman,40,Adult,Female,15.75,,2
+"WATTS, Mr",Died,Southampton,Man,36,Adult,Male,,Engineering Crew,E
+"WAZLI, Mr Yousif Ahmed",Died,Cherbourg,Man,23,Adult,Male,7.225,3rd Class Passenger,3
+"WEATHERSTON, Mr Thomas Herbert",Died,Belfast,Man,24,Adult,Male,,Victualling Crew,V
+"WEBB, Mr Brooke Holding",Died,Belfast,Man,50,Adult,Male,,Victualling Crew,V
+"WEBB, Mr Samuel Francis",Died,Southampton,Man,28,Adult,Male,,Engineering Crew,E
+"WEBBER, Miss Susan",Survived,Southampton,Woman,37,Adult,Female,13,2nd Class Passenger,2
+"WEBBER, Mr Francis Albert",Died,Southampton,Man,31,Adult,Male,,Engineering Crew,E
+"WEBBER, Mr James",Died,Southampton,Man,66,Adult,Male,8.05,3rd Class Passenger,3
+"WEIKMAN, Mr Augustus Henry",Survived,Southampton,Man,52,Adult,Male,,Victualling Crew,V
+"WEIR, Colonel John",Died,Southampton,Man,59,Adult,Male,26.55,1st Class Passenger,1
+"WEISZ, Mr Lopold",Died,Southampton,Man,37,Adult,Male,26,2nd Class Passenger,2
+"WEISZ, Mrs Mathilde Franoise",Survived,Southampton,Woman,37,Adult,Female,26,2nd Class Passenger,2
+"WELCH, Mr William Harold",Died,Southampton,Man,23,Adult,Male,,Victualling Crew,V
+"WELLER, Mr William Clifford",Survived,Belfast,Man,30,Adult,Male,,Deck Crew,D
+"WELLS, Master Ralph Lester",Survived,Southampton,Child,2,Child,Male,23,2nd Class Passenger,2
+"WELLS, Miss Joan",Survived,Southampton,Child,4,Child,Female,23,2nd Class Passenger,2
+"WELLS, Mrs Addie Dart",Survived,Southampton,Woman,29,Adult,Female,23,,2
+"WENNERSTRM, Mr August",Survived,Southampton,Man,27,Adult,Male,7.79583333,3rd Class Passenger,3
+"WEST, Miss Barbara Joyce",Survived,Southampton,Child,0.83,Child,Female,27.75,2nd Class Passenger,2
+"WEST, Miss Constance Mirium",Survived,Southampton,Child,4,Child,Female,27.75,2nd Class Passenger,2
+"WEST, Mr Edwy Arthur",Died,Southampton,Man,36,Adult,Male,27.75,2nd Class Passenger,2
+"WEST, Mrs Ada Mary",Survived,Southampton,Woman,33,Adult,Female,27.75,2nd Class Passenger,2
+"WHEADON, Mr Edward Henry",Died,Southampton,Man,65,Adult,Male,10.5,,2
+"WHEAT, Mr Joseph Thomas",Survived,Belfast,Man,30,Adult,Male,,Victualling Crew,V
+"WHEELER, Mr Edwin Charles",Died,Southampton,Man,24,Adult,Male,12.875,2nd Class PassengerServant,2
+"WHEELTON, Mr Edneser Edward",Survived,Belfast,Man,29,Adult,Male,,Victualling Crew,V
+"WHILEMS, Mr Charles",Survived,Southampton,Man,31,Adult,Male,13,,2
+"WHITE, Mr Albert",Died,Southampton,Man,21,Adult,Male,,Engineering Crew,E
+"WHITE, Mr Alfred",Survived,Southampton,Man,32,Adult,Male,,Engineering Crew,E
+"WHITE, Mr Arthur",Died,Southampton,Man,37,Adult,Male,,Victualling Crew,V
+"WHITE, Mr Edward Joseph",Died,Southampton,Man,27,Adult,Male,,Victualling Crew,V
+"WHITE, Mr Frank Leonard",Died,Southampton,Man,28,Adult,Male,,Engineering Crew,E
+"WHITE, Mr Leonard Lisle Oliver",Died,Belfast,Man,31,Adult,Male,,Victualling Crew,V
+"WHITE, Mr Percival Wayland",Died,Southampton,Man,54,Adult,Male,77.2875,1st Class Passenger,1
+"WHITE, Mr Richard Frasar",Died,Southampton,Man,21,Adult,Male,77.2875,1st Class Passenger,1
+"WHITE, Mr William George",Survived,Southampton,Man,23,Adult,Male,,Engineering Crew,E
+"WHITE, Mrs Ella",Survived,Cherbourg,Woman,55,Adult,Female,135.633333,1st Class Passenger,1
+"WHITELEY, Mr Thomas Arthur",Survived,Southampton,Man,18,Adult,Male,,Victualling Crew,V
+"WHITFORD, Mr Alfred Henry",Died,Southampton,Man,39,Adult,Male,,Victualling Crew,V
+"WICK, Col. George Dennick",Died,Southampton,Man,57,Adult,Male,164.866667,,1
+"WICK, Miss Mary Natalie",Survived,Southampton,Woman,31,Adult,Female,164.866667,1st Class Passenger,1
+"WICK, Mrs Mary Peebles",Survived,Southampton,Woman,45,Adult,Female,164.866667,,1
+"WIDEGREN, Mr Carl / Charles Peter",Died,Southampton,Man,51,Adult,Male,7.75,3rd Class Passenger,3
+"WIDENER, Mr George Dunton",Died,Southampton,Man,50,Adult,Male,211.5,1st Class Passenger,1
+"WIDENER, Mr Harry Elkins",Died,Southampton,Man,27,Adult,Male,211.5,1st Class Passenger,1
+"WIDENER, Mrs Eleanor",Survived,Southampton,Woman,50,Adult,Female,211.5,1st Class Passenger,1
+"WIDGERY, Mr James George",Survived,Southampton,Man,37,Adult,Male,,Victualling Crew,V
+"WIKLUND, Mr Jakob Alfred",Died,Southampton,Man,18,Adult,Male,6.49583333,3rd Class Passenger,3
+"WIKLUND, Mr Karl Johan",Died,Southampton,Man,21,Adult,Male,6.49583333,3rd Class Passenger,3
+"WILDE, Mr Henry Tingle",Died,Southampton,Man,39,Adult,Male,,Deck CrewTitanic Officers,D
+"WILKES, Mrs Ellen",Survived,Southampton,Woman,47,Adult,Female,7,3rd Class Passenger,3
+"WILKINSON, Mrs Elizabeth Anne",Survived,Southampton,Woman,35,Adult,Female,26,2nd Class Passenger,2
+"WILLARD, Miss Constance",Survived,Southampton,Woman,21,Adult,Female,26.55,1st Class Passenger,1
+"WILLER, Mr Aaron",Died,Cherbourg,Man,37,Adult,Male,8.7125,3rd Class Passenger,3
+"WILLEY, Mr Edward",Died,Southampton,Man,18,Adult,Male,7.55,3rd Class Passenger,3
+"WILLIAMS, Mr Arthur John",Died,Southampton,Man,42,Adult,Male,,Victualling Crew,V
+"WILLIAMS, Mr Charles Duane",Died,Cherbourg,Man,51,Adult,Male,61.3791667,1st Class Passenger,1
+"WILLIAMS, Mr Charles Eugene",Survived,Southampton,Man,23,Adult,Male,13,2nd Class Passenger,2
+"WILLIAMS, Mr Fletcher Fellowes Lambert",Died,Southampton,Man,43,Adult,Male,35,1st Class Passenger,1
+"WILLIAMS, Mr Howard Hugh Harry",Died,Southampton,Man,28,Adult,Male,8.05,,3
+"WILLIAMS, Mr Leslie",Died,Southampton,Man,28,Adult,Male,16.1,3rd Class Passenger,3
+"WILLIAMS, Mr Richard Norris II",Survived,Cherbourg,Man,21,Adult,Male,61.3791667,1st Class Passenger,1
+"WILLIAMS, Mr Samuel Solomon",Died,Southampton,Man,26,Adult,Male,,Engineering Crew,E
+"WILLIAMS, Mr Walter John",Survived,Southampton,Man,28,Adult,Male,,Victualling Crew,V
+"WILLIAMSON, Mr James Bertram",Died,Southampton,Man,35,Adult,Male,,Victualling CrewPostal Clerk,V
+"WILLIS, Mr William",Died,Southampton,Man,46,Adult,Male,,Victualling Crew,V
+"WILLSHER, Mr William Aubrey",Died,Southampton,Man,33,Adult,Male,,Victualling Crew,V
+"WILSON, Miss Helen Alice",Survived,Cherbourg,Woman,31,Adult,Female,134.5,1st Class PassengerServant,1
+"WILSON, Mr Herbert 'Bertie'",Died,Belfast,Man,28,Adult,Male,,Engineering Crew,E
+"WILTON, Mr William Edward",Died,Southampton,Man,53,Adult,Male,,Engineering Crew,E
+"WINDEBANK, Mr Alfred Edgar",Survived,Southampton,Man,38,Adult,Male,,Victualling Crew,V
+"WINDELV, Mr Einar",Died,Southampton,Man,21,Adult,Male,7.25,3rd Class Passenger,3
+"WINSER, Mr Rowland",Died,Southampton,Man,33,Adult,Male,,Victualling Crew,V
+"WIRZ, Mr Albert",Died,Southampton,Man,27,Adult,Male,8.6625,3rd Class Passenger,3
+"WISEMAN, Mr Philippe",Died,Southampton,Man,54,Adult,Male,7.25,3rd Class Passenger,3
+"WITCHER, Mr Albert Ernest",Died,Southampton,Man,39,Adult,Male,,Engineering Crew,E
+"WITT, Mr Henry Dennis",Died,Southampton,Man,37,Adult,Male,,Engineering Crew,E
+"WITTER, Mr James William Cheetham",Survived,Southampton,Man,31,Adult,Male,,Victualling Crew,V
+"WITTEVRONGEL, Mr Camilius Aloysius",Died,Southampton,Man,36,Adult,Male,9.5,3rd Class Passenger,3
+"WITTMAN, Mr Henry",Died,Southampton,Man,38,Adult,Male,,Victualling Crew,V
+"WOOD, Mr Henry",Died,Southampton,Man,30,Adult,Male,,Engineering Crew,E
+"WOOD, Mr James Thomas",Died,Southampton,Man,40,Adult,Male,,Victualling Crew,V
+"WOODFORD, Mr Frederick Ernest",Died,Southampton,Man,40,Adult,Male,,Engineering Crew,E
+"WOODWARD, Mr John Wesley",Died,Southampton,Man,32,Adult,Male,0,2nd Class PassengerMusician,2
+"WOODY, Mr Oscar Scott",Died,Southampton,Man,44,Adult,Male,,Victualling CrewPostal Clerk,V
+"WOOLNER, Mr Hugh",Survived,Southampton,Man,45,Adult,Male,35.5,1st Class Passenger,1
+"WORMALD, Mr Henry Frederick Charles",Died,Southampton,Man,44,Adult,Male,,Victualling Crew,V
+"WORTHMAN, Mr William Henry",Died,Southampton,Man,37,Adult,Male,,Engineering Crew,E
+"WRAPSON, Mr Frederick Bernard",Died,Belfast,Man,18,Adult,Male,,Victualling Crew,V
+"WRIGHT, Miss Marion",Survived,Southampton,Woman,26,Adult,Female,13.5,2nd Class Passenger,2
+"WRIGHT, Mr Frederick",Died,Southampton,Man,24,Adult,Male,,Victualling Crew,V
+"WRIGHT, Mr George",Died,Southampton,Man,62,Adult,Male,26.55,1st Class Passenger,1
+"WRIGHT, Mr William",Survived,Southampton,Man,40,Adult,Male,,Victualling Crew,V
+"WYETH, Mr James Robert",Died,Southampton,Man,26,Adult,Male,,Engineering Crew,E
+"WYNN, Mr Walter",Survived,Belfast,Man,41,Adult,Male,,Deck Crew,D
+"YASBECK, Mr Antoni",Died,Cherbourg,Man,27,Adult,Male,14.4541667,3rd Class Passenger,3
+"YAZBECK, Mrs Selini",Survived,Cherbourg,Woman,15,Adult,Female,14.4541667,3rd Class Passenger,3
+"YEARSLEY, Mr Harry",Survived,Southampton,Man,40,Adult,Male,,Victualling Crew,V
+"YOUNG, Miss Marie Grice",Survived,Cherbourg,Woman,36,Adult,Female,135.633333,1st Class Passenger,1
+"YOUNG, Mr Francis James",Died,Southampton,Man,32,Adult,Male,,Engineering Crew,E
+"YOUSSEFF (ABI SAAB), Mr Gerios",Died,Cherbourg,Man,26,Adult,Male,7.225,3rd Class Passenger,3
+"YOUSSIFF (SAM'AAN), Mr Gerios",Died,Cherbourg,Man,45,Adult,Male,7.22916667,3rd Class Passenger,3
+"YVOIS, Miss Henriette",Died,Southampton,Woman,24,Adult,Female,13,2nd Class Passenger,2
+"ZAKARIAN, Mr Mapriededer",Died,Cherbourg,Man,22,Adult,Male,7.225,3rd Class Passenger,3
+"ZAKARIAN, Mr Ortin",Died,Cherbourg,Man,27,Adult,Male,7.225,3rd Class Passenger,3
+"ZANETTI, Sig. Minio",Died,Southampton,Man,20,Adult,Male,,Restaurant Staff,R
+"ZARRACCHI, Sig. L.",Died,Southampton,Man,26,Adult,Male,,Restaurant Staff,R
+"ZENNI, Mr Philip",Survived,Cherbourg,Man,22,Adult,Male,7.225,3rd Class Passenger,3
+"ZIMMERMANN, Mr Leo",Died,Southampton,Man,29,Adult,Male,7.875,3rd Class Passenger,3
